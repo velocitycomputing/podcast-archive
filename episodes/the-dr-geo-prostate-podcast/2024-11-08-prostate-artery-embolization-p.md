@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 2820
 source: pocketcasts-history-browser
 played_label: Nov 8, 2024
-history_order: 17
+history_order: 20
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:renal", "condition:bph", "intervention:procedure", "intervention:lifestyle", "goal:symptom-relief", primary-source-video]

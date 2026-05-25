@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 660
 source: pocketcasts-history-browser
 played_label: Nov 6, 2025
-history_order: 20
+history_order: 23
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: ["condition:bph", "marker:psa", "intervention:medication", "intervention:procedure", "goal:risk-reduction", "goal:symptom-relief", primary-source-video]
