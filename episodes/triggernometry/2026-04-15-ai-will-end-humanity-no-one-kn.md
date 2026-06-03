@@ -9,13 +9,13 @@ play_count: 1
 duration_seconds: 240
 source: pocketcasts-history-browser
 played_label: April 15
-history_order: 1
+history_order: 3
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
-summary_model: failed
-tagging_model: skipped
+transcript_source: cache
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+I don't have the actual episode content to summarize. The material you provided contains only the show intro, sponsor information, and episode metadata—not the discussion between the hosts and Dr. Yampolskiy about AI risks.
+
+To provide the two-paragraph summary you need, I'd require the actual podcast transcript or detailed notes of what was discussed. Since you've asked me not to request web access, you'll need to supply the transcript material directly.
 
 ## Transcript
 

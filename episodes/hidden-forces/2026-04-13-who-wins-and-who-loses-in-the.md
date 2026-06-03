@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 1680
 source: pocketcasts-history-browser
 played_label: April 13
-history_order: 4
+history_order: 6
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
