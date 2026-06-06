@@ -13,9 +13,9 @@ history_order: 2
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
-summary_model: failed
-tagging_model: skipped
+transcript_source: cache
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+The episode examines President Trump's foreign policy challenges, particularly his inability to resolve tensions with Iran despite positioning himself as a deal-maker. Opinion writers E.J. Dionne Jr., Robert Siegel, and Carlos Lozada discuss the broader confusion and contradictions in Trump's foreign and domestic policies, analyze the influence of political memoirs in shaping public understanding of leadership, and evaluate a Virginia bill that could potentially reshape how the Electoral College functions.
+
+For readers interested in U.S. politics and policy, the discussion of the Virginia Electoral College bill warrants attention if you're tracking potential structural changes to presidential elections. Those seeking deeper engagement can email theopinions@nytimes.com with questions or reactions to the arguments presented, allowing direct dialogue with the New York Times Opinion team on these consequential policy debates.
 
 ## Transcript
 
