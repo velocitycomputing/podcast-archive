@@ -13,9 +13,9 @@ history_order: 1
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
-summary_model: failed
-tagging_model: skipped
+transcript_source: cache
+summary_model: claude-haiku-4-5
+tagging_model: failed
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+I can't complete this task as specified. The material provided contains only episode metadata, promotional information, and speaker bios—not the actual podcast transcript or episode content. Without the actual discussion details (specific protocols mentioned, research findings, timelines discussed, etc.), I cannot write two concrete, meaningful paragraphs summarizing what was discussed and what's actionable.
+
+To summarize this episode, I'd need either the transcript or a fuller episode description beyond the promotional copy.
 
 ## Transcript
 
