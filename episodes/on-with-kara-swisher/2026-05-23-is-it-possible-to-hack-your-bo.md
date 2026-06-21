@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 3900
 source: pocketcasts-history-browser
 played_label: May 23
-history_order: 4
+history_order: 8
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video, "goal:longevity", "goal:risk-reduction", "system:cardio", "intervention:lifestyle", "intervention:medication", "intervention:procedure", "intervention:supplement"]
