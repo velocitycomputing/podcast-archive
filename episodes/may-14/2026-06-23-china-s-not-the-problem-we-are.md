@@ -3,13 +3,13 @@ episode_id: 585c624d-8711-43dc-97fc-8ab899d53588
 title: "China's Not the Problem. We Are."
 podcast_title: May 14
 url: "https://pocketcasts.com/podcasts/045f3aa0-aa6a-0136-7b93-27f978dac4db/585c624d-8711-43dc-97fc-8ab899d53588"
-played_date: 2026-06-22
-played_at: "2026-06-22T15:00:07Z"
+played_date: 2026-06-23
+played_at: "2026-06-23T15:00:11Z"
 play_count: 1
 duration_seconds: null
 source: pocketcasts-history-browser
 played_label: 57 mins
-history_order: 11
+history_order: 13
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
