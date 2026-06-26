@@ -1,21 +1,21 @@
 ---
-episode_id: 08374d52-1bd9-46cb-87f2-35669f302211
-title: The Great British Delusion - Konstantin Kisin
+episode_id: 0752fb06-5e9a-4571-b871-da6155e66042
+title: The Russian Mindset and Where it Comes From - Historian Sir Antony Beevor
 podcast_title: TRIGGERnometry
-url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/the-great-british-delusion-konstantin-kisin/08374d52-1bd9-46cb-87f2-35669f302211"
-played_date: 2026-06-02
-played_at: "2026-06-02T12:00:00Z"
+url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/the-russian-mindset-and-where-it-comes-from-historian-sir-antony-beevor/0752fb06-5e9a-4571-b871-da6155e66042"
+played_date: 2026-06-06
+played_at: "2026-06-06T12:00:00Z"
 play_count: 1
-duration_seconds: 480
+duration_seconds: 3660
 source: pocketcasts-history-browser
-played_label: June 2
-history_order: 11
+played_label: June 6
+history_order: 1
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
-tagging_model: failed
+tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -24,17 +24,16 @@ routed_to: null
 
 ## Summary
 
-I cannot summarize the episode based on the material provided. You've shared the podcast description, sponsor information, and links, but not the actual show notes or episode content that would detail what Konstantin Kisin and the hosts discussed.
+I don't have the episode content needed to create this summary. The material you provided contains only the show metadata, sponsor information, and general show description—not the actual episode discussion, transcript, or show notes where Antony Beevor's insights about the Russian mindset would be detailed.
 
-To complete this task, I would need the actual episode show notes, transcript excerpts, or a content summary that outlines the topics covered in "The Great British Delusion."
+To write the two paragraphs you requested, I'd need the episode's actual content (transcript, detailed show notes, or episode summary). Without that, I can only see that the episode features historian Sir Antony Beevor discussing Russian history and culture on the Triggernometry podcast.
 
 ## Transcript
 
-The Great British Delusion - Konstantin Kisin
 Triggernometry is proudly independent. Thanks to the sponsors below for making that possible:
 - We use Ground News to escape the echo chamber and stay fully informed. Go to https://ground.news/triggernometry to save 40% on the Ground News unlimited access Vantage plan.
-Konstantin X/Twitter - https://x.com/KonstantinKisin
-Konstantin Substack - https://substack.com/@konstantinkisin
+- Monarch, the all-in-one financial tool. Get 50% Off with CODE: TRIGGER at https://www.monarchmoney.com
+- Superpower: Test 100+ biomarkers. Detect early signs of 1,000+ conditions. Click https://superpower.com
 Join our exclusive TRIGGERnometry community on Substack! https://triggernometry.substack.com/
 OR Support TRIGGERnometry Here:
 Bitcoin: bc1qm6vvhduc6s3rvy8u76sllmrfpynfv94qw8p8d5
