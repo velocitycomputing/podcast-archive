@@ -3,17 +3,17 @@ episode_id: 30972fa4-2326-4e0a-b2ad-801bac7b4035
 title: The next big breakthrough will be AIs learning on the job
 podcast_title: Dwarkesh Podcast
 url: "https://pocketcasts.com/podcast/dwarkesh-podcast/6d554750-84ac-0138-ee2b-0acc26574db2/the-next-big-breakthrough-will-be-ais-learning-on-the-job/30972fa4-2326-4e0a-b2ad-801bac7b4035"
-played_date: 2026-06-27
-played_at: "2026-06-27T01:13:06Z"
+played_date: 2026-06-26
+played_at: "2026-06-26T12:00:00Z"
 play_count: 1
 duration_seconds: 1140
 source: pocketcasts-history-browser
-played_label: 9 hours ago
-history_order: 5
+played_label: Yesterday
+history_order: 7
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: "qwen3:30b"
 tagging_model: claude-haiku-4-5
 proposed_tags: []

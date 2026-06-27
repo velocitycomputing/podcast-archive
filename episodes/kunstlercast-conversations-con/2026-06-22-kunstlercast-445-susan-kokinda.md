@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 3660
 source: pocketcasts-history-browser
 played_label: June 22
-history_order: 3
+history_order: 5
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: audio-whisper-mlx-remote
+transcript_source: cache
 summary_model: "qwen3:30b"
 tagging_model: claude-haiku-4-5
 proposed_tags: []

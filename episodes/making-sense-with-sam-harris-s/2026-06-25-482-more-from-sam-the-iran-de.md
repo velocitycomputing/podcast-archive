@@ -3,17 +3,17 @@ episode_id: 647db8af-0b99-4a0c-8e65-fa16873f4e63
 title: "#482 - More From Sam: The Iran Deal, College in the AI Age, Mamdani’s DSA, and More"
 podcast_title: Making Sense with Sam Harris - Subscriber Content
 url: "https://pocketcasts.com/podcast/making-sense-with-sam-harris-subscriber-content/1d724220-02ca-0139-4187-0acc26574db2/482-more-from-sam-the-iran-deal-college-in-the-ai-age-mamdanis-dsa-and-more/647db8af-0b99-4a0c-8e65-fa16873f4e63"
-played_date: 2026-06-26
-played_at: "2026-06-26T12:00:00Z"
+played_date: 2026-06-25
+played_at: "2026-06-25T12:00:00Z"
 play_count: 1
 duration_seconds: 4020
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 8
+played_label: June 25
+history_order: 10
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: "qwen3:30b"
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, primary-source-video]

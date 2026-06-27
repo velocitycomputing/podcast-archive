@@ -3,17 +3,17 @@ episode_id: 09a2d7b5-7646-451d-84f0-52b066550b9b
 title: "AI Is Crossing the Frontier of Human Knowledge | Kevin Weil"
 podcast_title: The a16z Show
 url: "https://pocketcasts.com/podcast/the-a16z-show/20a7ca40-9128-0131-8b7f-723c91aeae46/ai-is-crossing-the-frontier-of-human-knowledge-kevin-weil/09a2d7b5-7646-451d-84f0-52b066550b9b"
-played_date: 2026-06-27
-played_at: "2026-06-27T01:13:06Z"
+played_date: 2026-06-26
+played_at: "2026-06-26T12:00:00Z"
 play_count: 1
 duration_seconds: 2040
 source: pocketcasts-history-browser
-played_label: 15 hours ago
-history_order: 7
+played_label: Yesterday
+history_order: 9
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: "qwen3:30b"
 tagging_model: claude-haiku-4-5
 proposed_tags: []
