@@ -3,17 +3,17 @@ episode_id: 88e51d4c-d903-49a3-a72e-119ee995bc2b
 title: "America, Iran, and a World in Turmoil: A Conversation With Ian Bremmer"
 podcast_title: The Foreign Affairs Interview
 url: "https://pocketcasts.com/podcast/the-foreign-affairs-interview/e2f31bf0-b915-013a-d903-0acc26574db2/america-iran-and-a-world-in-turmoil-a-conversation-with-ian-bremmer/88e51d4c-d903-49a3-a72e-119ee995bc2b"
-played_date: 2026-06-26
-played_at: "2026-06-26T12:00:00Z"
+played_date: 2026-06-25
+played_at: "2026-06-25T12:00:00Z"
 play_count: 1
 duration_seconds: 3840
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 6
+played_label: June 25
+history_order: 8
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: "qwen3:30b"
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, primary-source-video]

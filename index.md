@@ -6,11 +6,11 @@ Total episodes: 135.
 
 | Played | Podcast | Title | Tags | Status |
 |---|---|---|---|---|
-| 2026-06-27 | Dwarkesh Podcast | [The next big breakthrough will be AIs learning on the job](episodes/dwarkesh-podcast/2026-06-27-the-next-big-breakthrough-will.md) |  | new |
 | 2026-06-27 | May 14 | [China's Not the Problem. We Are.](episodes/may-14/2026-06-27-china-s-not-the-problem-we-are.md) |  | new |
-| 2026-06-27 | The a16z Show | [AI Is Crossing the Frontier of Human Knowledge \| Kevin Weil](episodes/the-a16z-show/2026-06-27-ai-is-crossing-the-frontier-of.md) |  | new |
-| 2026-06-26 | Making Sense with Sam Harris - Subscriber Content | [#482 - More From Sam: The Iran Deal, College in the AI Age,…](episodes/making-sense-with-sam-harris-s/2026-06-26-482-more-from-sam-the-iran-de.md) | geopolitics, primary-source-video | new |
-| 2026-06-26 | The Foreign Affairs Interview | [America, Iran, and a World in Turmoil: A Conversation With …](episodes/the-foreign-affairs-interview/2026-06-26-america-iran-and-a-world-in-tu.md) | geopolitics, primary-source-video | new |
+| 2026-06-26 | Dwarkesh Podcast | [The next big breakthrough will be AIs learning on the job](episodes/dwarkesh-podcast/2026-06-26-the-next-big-breakthrough-will.md) |  | new |
+| 2026-06-26 | The a16z Show | [AI Is Crossing the Frontier of Human Knowledge \| Kevin Weil](episodes/the-a16z-show/2026-06-26-ai-is-crossing-the-frontier-of.md) |  | new |
+| 2026-06-25 | Making Sense with Sam Harris - Subscriber Content | [#482 - More From Sam: The Iran Deal, College in the AI Age,…](episodes/making-sense-with-sam-harris-s/2026-06-25-482-more-from-sam-the-iran-de.md) | geopolitics, primary-source-video | new |
+| 2026-06-25 | The Foreign Affairs Interview | [America, Iran, and a World in Turmoil: A Conversation With …](episodes/the-foreign-affairs-interview/2026-06-25-america-iran-and-a-world-in-tu.md) | geopolitics, primary-source-video | new |
 | 2026-06-24 | The AI Daily Brief: Artificial Intelligence News and Analysis | [5 Ways Claude Tag Could Change How You Use AI](episodes/the-ai-daily-brief-artificial/2026-06-24-5-ways-claude-tag-could-change.md) |  | new |
 | 2026-06-24 | The Good Fight | [Mark Leonard on Whether Europe is Doomed](episodes/the-good-fight/2026-06-24-mark-leonard-on-whether-europe.md) | geopolitics, primary-source-video, us-decline | new |
 | 2026-06-23 | The Dispatch Podcast | [Will Trump Interfere with the 2026 Midterms?](episodes/the-dispatch-podcast/2026-06-23-will-trump-interfere-with-the.md) |  | new |

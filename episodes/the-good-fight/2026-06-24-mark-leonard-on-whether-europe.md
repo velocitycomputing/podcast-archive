@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 2520
 source: pocketcasts-history-browser
 played_label: June 24
-history_order: 13
+history_order: 15
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: "qwen3:30b"
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, primary-source-video, us-decline]

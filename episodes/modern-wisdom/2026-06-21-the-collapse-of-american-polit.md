@@ -6,14 +6,14 @@ url: "https://pocketcasts.com/podcast/modern-wisdom/98d691a0-f31c-0135-c25e-7d73
 played_date: 2026-06-21
 played_at: "2026-06-21T12:00:00Z"
 play_count: 1
-duration_seconds: 4740
+duration_seconds: 7740
 source: pocketcasts-history-browser
 played_label: June 21
-history_order: 14
+history_order: 2
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: "qwen3:30b"
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video]
