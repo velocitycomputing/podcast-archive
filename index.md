@@ -15,7 +15,7 @@ Total episodes: 135.
 | 2026-06-24 | The Good Fight | [Mark Leonard on Whether Europe is Doomed](episodes/the-good-fight/2026-06-24-mark-leonard-on-whether-europe.md) | geopolitics, primary-source-video, us-decline | new |
 | 2026-06-23 | The Dispatch Podcast | [Will Trump Interfere with the 2026 Midterms?](episodes/the-dispatch-podcast/2026-06-23-will-trump-interfere-with-the.md) |  | new |
 | 2026-06-23 | Unhedged | [How to surf turbulent markets](episodes/unhedged/2026-06-23-how-to-surf-turbulent-markets.md) |  | new |
-| 2026-06-22 | KunstlerCast - Conversations: Converging Catastrophes of the 21st Century | [KunstlerCast 445 — Susan Kokinda of Promethean Action on Br…](episodes/kunstlercast-conversations-con/2026-06-22-kunstlercast-445-susan-kokinda.md) | geopolitics | new |
+| 2026-06-22 | KunstlerCast - Conversations: Converging Catastrophes of the 21st Century | [KunstlerCast 445 — Susan Kokinda of Promethean Action on Br…](episodes/kunstlercast-conversations-con/2026-06-22-kunstlercast-445-susan-kokinda.md) |  | new |
 | 2026-06-22 | The AI Daily Brief: Artificial Intelligence News and Analysis | [Why AI Users Are Raving About GLM 5.2](episodes/the-ai-daily-brief-artificial/2026-06-22-why-ai-users-are-raving-about.md) |  | new |
 | 2026-06-21 | Modern Wisdom | [The Collapse of American Politics - Ezra Klein - #1114](episodes/modern-wisdom/2026-06-21-the-collapse-of-american-polit.md) | primary-source-video | new |
 | 2026-06-21 | The AI Daily Brief: Artificial Intelligence News and Analysis | [Why Local AI Matters and How to Use It](episodes/the-ai-daily-brief-artificial/2026-06-21-why-local-ai-matters-and-how-t.md) |  | new |
