@@ -8,8 +8,8 @@ played_at: "2026-06-26T12:00:00Z"
 play_count: 1
 duration_seconds: 2040
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 9
+played_label: June 26
+history_order: 10
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
