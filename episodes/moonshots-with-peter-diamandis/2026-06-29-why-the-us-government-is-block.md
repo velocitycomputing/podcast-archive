@@ -6,14 +6,14 @@ url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26
 played_date: 2026-06-29
 played_at: "2026-06-29T12:00:00Z"
 play_count: 1
-duration_seconds: 5520
+duration_seconds: 1320
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 1
+played_label: June 29
+history_order: 2
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, us-decline, primary-source-video]
