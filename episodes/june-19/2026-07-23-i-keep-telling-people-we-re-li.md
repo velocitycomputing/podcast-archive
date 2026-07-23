@@ -1,15 +1,15 @@
 ---
 episode_id: 100efdd9-e6fe-4c71-b0e7-98b35d683c0e
 title: I Keep Telling People We’re Living in This Dystopian Novel
-podcast_title: The Ezra Klein Show
-url: "https://pocketcasts.com/podcast/the-ezra-klein-show/8535a4e0-3c50-0139-3339-0acc26574db2/i-keep-telling-people-were-living-in-this-dystopian-novel/100efdd9-e6fe-4c71-b0e7-98b35d683c0e"
-played_date: 2026-06-19
-played_at: "2026-06-19T12:00:00Z"
+podcast_title: June 19
+url: "https://pocketcasts.com/podcasts/8535a4e0-3c50-0139-3339-0acc26574db2/100efdd9-e6fe-4c71-b0e7-98b35d683c0e"
+played_date: 2026-07-23
+played_at: "2026-07-23T15:10:26Z"
 play_count: 1
-duration_seconds: 4860
+duration_seconds: null
 source: pocketcasts-history-browser
-played_label: June 19
-history_order: 26
+played_label: 1h 21m
+history_order: 46
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

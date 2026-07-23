@@ -1,15 +1,15 @@
 ---
 episode_id: 490b210e-8bbc-4c7b-ae95-4de12ef3659d
-title: How the Iran War Is Shaping a Post-American World
+title: "How the Iran War Is Shaping a Post-American World: Conversations With Matias Spektor and Kishore Mahbubani"
 podcast_title: The Foreign Affairs Interview
-url: "https://pocketcasts.com/podcast/the-foreign-affairs-interview/e2f31bf0-b915-013a-d903-0acc26574db2/how-the-iran-war-is-shaping-a-post-american-world/490b210e-8bbc-4c7b-ae95-4de12ef3659d"
+url: "https://pocketcasts.com/podcast/the-foreign-affairs-interview/e2f31bf0-b915-013a-d903-0acc26574db2/how-the-iran-war-is-shaping-a-post-american-world-conversations-with-matias-spektor-and-kishore-mahbubani/490b210e-8bbc-4c7b-ae95-4de12ef3659d"
 played_date: 2026-04-16
 played_at: "2026-04-16T12:00:00Z"
 play_count: 1
-duration_seconds: 900
+duration_seconds: 840
 source: pocketcasts-history-browser
 played_label: April 16
-history_order: 23
+history_order: 3
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

@@ -8,12 +8,12 @@ played_at: "2026-07-02T12:00:00Z"
 play_count: 1
 duration_seconds: 2400
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 2
+played_label: July 2
+history_order: 25
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:metabolic", "intervention:supplement", "intervention:medication", "intervention:lifestyle", "goal:longevity", "goal:symptom-relief"]
