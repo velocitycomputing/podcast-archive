@@ -6,10 +6,10 @@ url: "https://pocketcasts.com/podcast/theories-of-everything-with-curt-jaimungal
 played_date: 2026-04-27
 played_at: "2026-04-27T12:00:00Z"
 play_count: 1
-duration_seconds: 5340
+duration_seconds: 5520
 source: pocketcasts-history-browser
 played_label: April 27
-history_order: 24
+history_order: 14
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

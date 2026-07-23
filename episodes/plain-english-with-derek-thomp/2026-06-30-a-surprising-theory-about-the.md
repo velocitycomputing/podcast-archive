@@ -6,10 +6,10 @@ url: "https://pocketcasts.com/podcast/plain-english-with-derek-thompson/63198760
 played_date: 2026-06-30
 played_at: "2026-06-30T12:00:00Z"
 play_count: 1
-duration_seconds: 1500
+duration_seconds: 3180
 source: pocketcasts-history-browser
 played_label: June 30
-history_order: 1
+history_order: 21
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
