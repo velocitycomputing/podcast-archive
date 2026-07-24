@@ -8,12 +8,12 @@ played_at: "2026-07-22T12:00:00Z"
 play_count: 1
 duration_seconds: 4680
 source: pocketcasts-history-browser
-played_label: Yesterday
+played_label: July 22
 history_order: 1
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video, "system:cognitive"]
