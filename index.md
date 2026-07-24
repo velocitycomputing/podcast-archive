@@ -6,7 +6,7 @@ Total episodes: 174.
 
 | Played | Podcast | Title | Tags | Status |
 |---|---|---|---|---|
-| 2026-07-23 | June 19 | [I Keep Telling People We’re Living in This Dystopian Novel](episodes/june-19/2026-07-23-i-keep-telling-people-we-re-li.md) | primary-source-video, us-decline, goal:longevity | new |
+| 2026-07-24 | June 19 | [I Keep Telling People We’re Living in This Dystopian Novel](episodes/june-19/2026-07-24-i-keep-telling-people-we-re-li.md) | primary-source-video, us-decline, goal:longevity | new |
 | 2026-07-22 | Making Sense with Sam Harris - Subscriber Content | [#486 - Luck All the Way Down](episodes/making-sense-with-sam-harris-s/2026-07-22-486-luck-all-the-way-down.md) | primary-source-video, system:cognitive | new |
 | 2026-07-20 | Foreign Policy Live | [The Iran Expert Trump Fired](episodes/foreign-policy-live/2026-07-20-the-iran-expert-trump-fired.md) | geopolitics, primary-source-video | new |
 | 2026-07-20 | Fresh Air | [Harriet Clark spent 37 years visiting her mom in prison](episodes/fresh-air/2026-07-20-harriet-clark-spent-37-years-v.md) |  | new |
