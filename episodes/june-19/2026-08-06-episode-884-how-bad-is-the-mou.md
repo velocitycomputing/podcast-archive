@@ -1,15 +1,15 @@
 ---
 episode_id: 881b6aaf-33ef-4488-b62c-2e9b3759a733
 title: "Episode 884: How Bad Is the MOU?"
-podcast_title: The Editors
-url: "https://pocketcasts.com/podcast/the-editors/9e0d74a0-5360-0134-ec2d-0d50f522381b/episode-884-how-bad-is-the-mou/881b6aaf-33ef-4488-b62c-2e9b3759a733"
-played_date: 2026-06-19
-played_at: "2026-06-19T12:00:00Z"
+podcast_title: June 19
+url: "https://pocketcasts.com/podcasts/9e0d74a0-5360-0134-ec2d-0d50f522381b/881b6aaf-33ef-4488-b62c-2e9b3759a733"
+played_date: 2026-08-06
+played_at: "2026-08-06T15:10:06Z"
 play_count: 1
-duration_seconds: 5220
+duration_seconds: null
 source: pocketcasts-history-browser
-played_label: June 19
-history_order: 21
+played_label: 1h 27m
+history_order: 44
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
