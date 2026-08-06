@@ -6,10 +6,10 @@ url: "https://pocketcasts.com/podcast/making-sense-with-sam-harris-subscriber-co
 played_date: 2026-07-22
 played_at: "2026-07-22T12:00:00Z"
 play_count: 1
-duration_seconds: 4680
+duration_seconds: 4920
 source: pocketcasts-history-browser
 played_label: July 22
-history_order: 1
+history_order: 4
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

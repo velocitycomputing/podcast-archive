@@ -1,15 +1,15 @@
 ---
 episode_id: 1e1dcb1b-7187-46f9-a3c4-e512a1de79bc
 title: "Anne Applebaum: Trump's Firehose of Lies"
-podcast_title: The Bulwark Podcast
-url: "https://pocketcasts.com/podcast/the-bulwark-podcast/8d1729d0-e77e-0136-3249-08b04944ede4/anne-applebaum-trumps-firehose-of-lies/1e1dcb1b-7187-46f9-a3c4-e512a1de79bc"
+podcast_title: The Bulwark Daily
+url: "https://pocketcasts.com/podcast/the-bulwark-daily/8d1729d0-e77e-0136-3249-08b04944ede4/anne-applebaum-trumps-firehose-of-lies/1e1dcb1b-7187-46f9-a3c4-e512a1de79bc"
 played_date: 2026-06-11
 played_at: "2026-06-11T12:00:00Z"
 play_count: 1
 duration_seconds: 3360
 source: pocketcasts-history-browser
 played_label: June 11
-history_order: 43
+history_order: 46
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
