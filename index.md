@@ -6,8 +6,8 @@ Total episodes: 180.
 
 | Played | Podcast | Title | Tags | Status |
 |---|---|---|---|---|
-| 2026-08-06 | June 19 | [Episode 884: How Bad Is the MOU?](episodes/june-19/2026-08-06-episode-884-how-bad-is-the-mou.md) |  | new |
-| 2026-08-06 | June 19 | [I Keep Telling People We’re Living in This Dystopian Novel](episodes/june-19/2026-08-06-i-keep-telling-people-we-re-li.md) | primary-source-video, us-decline, goal:longevity | new |
+| 2026-08-07 | June 19 | [Episode 884: How Bad Is the MOU?](episodes/june-19/2026-08-07-episode-884-how-bad-is-the-mou.md) |  | new |
+| 2026-08-07 | June 19 | [I Keep Telling People We’re Living in This Dystopian Novel](episodes/june-19/2026-08-07-i-keep-telling-people-we-re-li.md) | primary-source-video, us-decline, goal:longevity | new |
 | 2026-08-05 | On the Media | [Trump Has Forever Changed America's Place in the World](episodes/on-the-media/2026-08-05-trump-has-forever-changed-amer.md) |  | new |
 | 2026-08-04 | The Enterprise AI Show | [Do You Even Need That Trillion-Parameter Model?](episodes/the-enterprise-ai-show/2026-08-04-do-you-even-need-that-trillion.md) |  | new |
 | 2026-07-31 | Making Sense with Sam Harris - Subscriber Content | [#487 - Is AI Already Conscious?](episodes/making-sense-with-sam-harris-s/2026-07-31-487-is-ai-already-conscious.md) |  | new |
