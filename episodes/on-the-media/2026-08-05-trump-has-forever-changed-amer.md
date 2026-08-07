@@ -8,12 +8,12 @@ played_at: "2026-08-05T12:00:00Z"
 play_count: 1
 duration_seconds: 9
 source: pocketcasts-history-browser
-played_label: Yesterday
+played_label: August 5
 history_order: 2
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: failed
 tagging_model: skipped
 proposed_tags: []

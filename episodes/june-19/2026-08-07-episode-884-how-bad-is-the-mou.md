@@ -3,8 +3,8 @@ episode_id: 881b6aaf-33ef-4488-b62c-2e9b3759a733
 title: "Episode 884: How Bad Is the MOU?"
 podcast_title: June 19
 url: "https://pocketcasts.com/podcasts/9e0d74a0-5360-0134-ec2d-0d50f522381b/881b6aaf-33ef-4488-b62c-2e9b3759a733"
-played_date: 2026-08-06
-played_at: "2026-08-06T15:10:06Z"
+played_date: 2026-08-07
+played_at: "2026-08-07T15:10:06Z"
 play_count: 1
 duration_seconds: null
 source: pocketcasts-history-browser
