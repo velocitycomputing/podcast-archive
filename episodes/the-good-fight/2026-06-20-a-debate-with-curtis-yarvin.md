@@ -13,7 +13,7 @@ history_order: 43
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: failed
 tagging_model: skipped
 proposed_tags: []
