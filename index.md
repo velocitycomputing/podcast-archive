@@ -6,8 +6,8 @@ Total episodes: 186.
 
 | Played | Podcast | Title | Tags | Status |
 |---|---|---|---|---|
-| 2026-08-11 | June 19 | [Episode 884: How Bad Is the MOU?](episodes/june-19/2026-08-11-episode-884-how-bad-is-the-mou.md) |  | new |
-| 2026-08-11 | June 19 | [I Keep Telling People We’re Living in This Dystopian Novel](episodes/june-19/2026-08-11-i-keep-telling-people-we-re-li.md) | primary-source-video, us-decline, goal:longevity | new |
+| 2026-08-12 | June 19 | [Episode 884: How Bad Is the MOU?](episodes/june-19/2026-08-12-episode-884-how-bad-is-the-mou.md) |  | new |
+| 2026-08-12 | June 19 | [I Keep Telling People We’re Living in This Dystopian Novel](episodes/june-19/2026-08-12-i-keep-telling-people-we-re-li.md) | primary-source-video, us-decline, goal:longevity | new |
 | 2026-08-08 | Moonshots with Peter Diamandis | [Google’s Jeff Dean Exits, SpaceX Hits $100B in Rev & OpenAI…](episodes/moonshots-with-peter-diamandis/2026-08-08-google-s-jeff-dean-exits-space.md) |  | new |
 | 2026-08-08 | Tom Bilyeu's Impact Theory | [This Number Is Higher Than It Was Before The 1929 Crash — W…](episodes/tom-bilyeu-s-impact-theory/2026-08-08-this-number-is-higher-than-it.md) |  | new |
 | 2026-08-07 | Conversations with Bill Kristol | [Eric Edelman: Trump and the American Military](episodes/conversations-with-bill-kristo/2026-08-07-eric-edelman-trump-and-the-ame.md) |  | new |
