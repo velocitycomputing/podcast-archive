@@ -6,10 +6,10 @@ url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d7
 played_date: 2026-06-27
 played_at: "2026-06-27T12:00:00Z"
 play_count: 1
-duration_seconds: 1740
+duration_seconds: 5880
 source: pocketcasts-history-browser
 played_label: June 27
-history_order: 8
+history_order: 18
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
