@@ -6,14 +6,14 @@ url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence
 played_date: 2026-08-13
 played_at: "2026-08-13T12:00:00Z"
 play_count: 1
-duration_seconds: 600
+duration_seconds: 1740
 source: pocketcasts-history-browser
 played_label: August 13
-history_order: 1
+history_order: 2
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: failed
 tagging_model: skipped
 proposed_tags: []

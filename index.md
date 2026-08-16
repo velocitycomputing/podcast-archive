@@ -6,8 +6,8 @@ Total episodes: 188.
 
 | Played | Podcast | Title | Tags | Status |
 |---|---|---|---|---|
-| 2026-08-15 | June 19 | [Episode 884: How Bad Is the MOU?](episodes/june-19/2026-08-15-episode-884-how-bad-is-the-mou.md) |  | new |
-| 2026-08-15 | June 19 | [I Keep Telling People We’re Living in This Dystopian Novel](episodes/june-19/2026-08-15-i-keep-telling-people-we-re-li.md) | primary-source-video, us-decline, goal:longevity | new |
+| 2026-08-16 | June 19 | [Episode 884: How Bad Is the MOU?](episodes/june-19/2026-08-16-episode-884-how-bad-is-the-mou.md) |  | new |
+| 2026-08-16 | June 19 | [I Keep Telling People We’re Living in This Dystopian Novel](episodes/june-19/2026-08-16-i-keep-telling-people-we-re-li.md) | primary-source-video, us-decline, goal:longevity | new |
 | 2026-08-13 | The AI Daily Brief: Artificial Intelligence News and Analysis | [Grok 4.6 Shows How Fast Your AI Options Are Expanding](episodes/the-ai-daily-brief-artificial/2026-08-13-grok-4-6-shows-how-fast-your-a.md) |  | new |
 | 2026-08-08 | Moonshots with Peter Diamandis | [Google’s Jeff Dean Exits, SpaceX Hits $100B in Rev & OpenAI…](episodes/moonshots-with-peter-diamandis/2026-08-08-google-s-jeff-dean-exits-space.md) |  | new |
 | 2026-08-08 | Tom Bilyeu's Impact Theory | [This Number Is Higher Than It Was Before The 1929 Crash — W…](episodes/tom-bilyeu-s-impact-theory/2026-08-08-this-number-is-higher-than-it.md) |  | new |
