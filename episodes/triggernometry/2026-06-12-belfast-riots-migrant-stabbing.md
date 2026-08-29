@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 3720
 source: pocketcasts-history-browser
 played_label: June 12
-history_order: 58
+history_order: 68
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: []
+proposed_tags: [primary-source-video, geopolitics]
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-A shocking stabbing incident, subsequent days of Belfast riots, and escalating tensions over immigration policy dominated the discussion, with hosts Konstantin Kisin and Francis Foster joined by Peter Bleksley and Patrick Christys. The panel examined the immediate causes and broader implications of the violence, specifically questioning policing responses, integration challenges, and political leadership failures in addressing the crisis. Key claims centered on how the stabbing and riots exposed deep societal fractures around immigration, with the panel suggesting these events were not isolated but symptomatic of systemic issues in governance and community relations.
+The episode examined a recent stabbing incident in Belfast and the resulting multi-day riots within the broader context of immigration tensions in Britain. Hosts Konstantin Kisin and Francis Foster discussed the incident with guests Peter Bleksley and Patrick Christys, analyzing what triggered the violence, underlying causes of the unrest, and the wider implications for British society. The conversation centered on how this event has escalated national discourse around immigration policy, community integration, police response and effectiveness, and the quality of political leadership in addressing these crises.
 
-Users should research the specific Belfast stabbing incident and riot details to understand the factual context before forming opinions, as the panel emphasized the need for evidence-based analysis over sensationalism. Follow the work of Peter Bleksley and Patrick Christys for deeper investigative perspectives on UK immigration policy and policing challenges, and critically evaluate political rhetoric around immigration by cross-referencing claims with official reports on integration programs and policing data from sources like the UK Home Office or independent policing watchdogs. Consider engaging in community dialogues focused on practical integration solutions rather than divisive political narratives.
+The primary actionable takeaway is to stay informed about how this incident shapes upcoming policy discussions around immigration, policing reform, and community integration—particularly any statements from political leaders or proposed legislative responses. If you engage in discussions about immigration or social cohesion, this episode provides perspectives worth understanding from multiple commentators, though you should seek additional sources to form a balanced view rather than relying on this single podcast segment.
 
 ## Transcript
 

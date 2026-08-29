@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 2040
 source: pocketcasts-history-browser
 played_label: April 25
-history_order: 15
+history_order: 18
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-The episode examines President Trump's foreign policy challenges, particularly his inability to resolve tensions with Iran despite positioning himself as a deal-maker. Opinion writers E.J. Dionne Jr., Robert Siegel, and Carlos Lozada discuss the broader confusion and contradictions in Trump's foreign and domestic policies, analyze the influence of political memoirs in shaping public understanding of leadership, and evaluate a Virginia bill that could potentially reshape how the Electoral College functions.
+The episode examines President Trump's self-proclaimed deal-making abilities through the lens of his ongoing conflict with Iran, which he has struggled to resolve. Opinion columnists E.J. Dionne Jr., Robert Siegel, and Carlos Lozada discuss the inconsistencies and confusion arising from Trump's foreign and domestic policies, explore the influence of political memoirs on public understanding, and analyze a proposed Virginia bill with potential implications for the Electoral College.
 
-For readers interested in U.S. politics and policy, the discussion of the Virginia Electoral College bill warrants attention if you're tracking potential structural changes to presidential elections. Those seeking deeper engagement can email theopinions@nytimes.com with questions or reactions to the arguments presented, allowing direct dialogue with the New York Times Opinion team on these consequential policy debates.
+The podcast invites listener engagement by encouraging feedback at theopinions@nytimes.com. If you hold views on Trump's policy record, political memoirs' role in shaping narratives, or Electoral College reform proposals, you can submit your thoughts directly to the Opinion team for potential discussion in future episodes.
 
 ## Transcript
 

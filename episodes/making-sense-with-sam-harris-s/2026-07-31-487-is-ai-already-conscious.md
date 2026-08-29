@@ -6,16 +6,16 @@ url: "https://pocketcasts.com/podcast/making-sense-with-sam-harris-subscriber-co
 played_date: 2026-07-31
 played_at: "2026-07-31T12:00:00Z"
 play_count: 1
-duration_seconds: 180
+duration_seconds: 5100
 source: pocketcasts-history-browser
 played_label: July 31
-history_order: 1
+history_order: 8
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: failed
-tagging_model: skipped
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+Sam Harris and Cameron Berg examine whether current or future AI systems possess consciousness. They explore self-reports in large language models, what models reveal when deception safeguards are removed, mechanisms like the "bliss attractor" state, and the philosophical hard problem of consciousness. The discussion draws parallels between artificial neural networks and biological brains, examines the moral weight of potentially creating digital minds capable of suffering (compared to factory farming ethics), and connects these questions to the broader AI alignment problem—ensuring advanced systems behave as intended.
+
+Cameron Berg's work at Reciprocal Research uses mechanistic interpretability and psychometric tools to empirically detect consciousness-associated properties in frontier AI systems. For practitioners: review Berg's research at reciprocalresearch.org and his Wall Street Journal columns for ongoing analysis; watch the documentary "AM I?" for context. In your own work, take seriously the possibility that emerging systems may have morally relevant properties—if consciousness-like cognition appears in models you build or deploy, this shifts the ethical calculus beyond conventional software engineering, potentially requiring different safety protocols and moral consideration than previously assumed.
 
 ## Transcript
 

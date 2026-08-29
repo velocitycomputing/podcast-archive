@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 2520
 source: pocketcasts-history-browser
 played_label: June 24
-history_order: 16
+history_order: 49
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, primary-source-video, us-decline]
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Mark Leonard, co-founder and director of the European Council on Foreign Relations and author of *Surviving Chaos: Geopolitics When the Rules Fail*, discussed with Yascha Mounk why Europe is strategically behind in defense capabilities, the global impact of China's rise, and whether Europe can realistically defend itself without sustained U.S. military support. The conversation centered on Europe's current vulnerability, its reliance on American security guarantees, and the urgent need for the continent to develop autonomous defense capacity amid shifting global power dynamics, particularly concerning China's growing influence. Key entities named include the European Council on Foreign Relations (ECFR) and Leonard's book as the primary reference point.
+Yascha Mounk and Mark Leonard explore Europe's geopolitical vulnerabilities and defense strategy in a post-American world. Their discussion centers on three core questions: why Europe lags behind other powers, how China's growing global influence reshapes the international order, and whether Europe can meaningfully defend itself without US military backing. Leonard, who leads the European Council on Foreign Relations and authored *Surviving Chaos: Geopolitics When the Rules Fail*, frames the conversation around the structural challenges facing Europe in an era of great-power competition and rule-based order breakdown.
 
-Users should consider Europe's strategic dependency on U.S. defense as a critical vulnerability requiring immediate action, such as accelerating defense spending and industrial cooperation within the EU to build self-sufficiency. Research leads include exploring the ECFR's policy recommendations on European defense integration and Leonard's book for deeper analysis of geopolitical instability. Decisions to weigh include whether to support EU defense initiatives like the European Defence Fund or question U.S. commitment to NATO in light of America's potential strategic retrenchment, prompting follow-up questions about specific timelines for European military autonomy and the feasibility of China's economic influence countering Western security frameworks.
+For listeners concerned with Western resilience or European policy, the episode identifies the central problem Europe must solve: developing autonomous defense and strategic capacity independent of American security guarantees. The actionable insight is that understanding *why* Europe is behind—and what China's rise means for the global balance—is prerequisite to designing credible European defense strategies. Engage with Leonard's recent thinking (both in this episode and his book) to ground your own assessment of whether European integration and innovation can close this gap quickly enough.
 
 ## Transcript
 

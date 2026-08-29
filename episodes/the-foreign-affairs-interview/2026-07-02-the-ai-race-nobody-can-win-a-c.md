@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 3300
 source: pocketcasts-history-browser
 played_label: July 2
-history_order: 30
+history_order: 40
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: [geopolitics, primary-source-video]
+proposed_tags: [geopolitics, us-decline, china-decline, primary-source-video]
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-The episode explores the "AI trilemma" facing U.S. policymakers: the simultaneous pressure to accelerate AI innovation for competitive advantage over China and economic growth, protect against national security risks, and address public anxiety about AI's societal impact. Sebastian Mallaby argues that current fragmented policy approaches in Washington, Beijing, and Brussels are inadequate to solve this fundamental tension, and discusses how the intensity of AI competition is reshaping global economics, politics, and societies. The conversation examines both the competition's stakes and the structural impossibility of winning an AI race while managing its attendant risks.
+Sebastian Mallaby articulates the "AI trilemma" facing U.S. policymakers: the impossible tension between fostering AI innovation for economic growth and competitive advantage over China, protecting against national security catastrophe, and managing public skepticism about AI. The episode features Mallaby, a Council on Foreign Relations fellow and author of "The Infinity Machine" (about DeepMind's founding), discussing with Dan Kurtz-Phelan how current fragmented policy approaches in Washington, Beijing, and Brussels are structurally insufficient to resolve these conflicting imperatives, with consequences that will reshape economies and global politics.
 
-The takeaway is that piecemeal regulation and corporate self-governance won't suffice—comprehensive policy frameworks addressing all three horns of the trilemma are necessary. For anyone involved in AI policy, business strategy, or technology decisions, understanding this trilemma provides a lens for evaluating whether current approaches (yours or others') address all three dimensions or leave vulnerabilities exposed. Mallaby's recent essay and book *The Infinity Machine* (on DeepMind's founding) offer concrete material to deepen this thinking beyond the podcast's scope.
+The actionable insight is that piecemeal policy measures won't solve this trilemma—if you're involved in AI strategy, national security, or policy advocacy, use Mallaby's framework to audit whether proposals address all three dimensions (innovation, security, public trust) or leave exploitable gaps. For anyone tracking AI geopolitics, his diagnosis suggests that the next coherent policy response will require integrated solutions rather than separate innovation, security, and public-reassurance tracks.
 
 ## Transcript
 

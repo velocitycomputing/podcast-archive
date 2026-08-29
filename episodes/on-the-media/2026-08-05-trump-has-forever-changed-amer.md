@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 9
 source: pocketcasts-history-browser
 played_label: August 5
-history_order: 7
+history_order: 17
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: failed
-tagging_model: skipped
-proposed_tags: []
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
+proposed_tags: [geopolitics, us-decline, primary-source-video]
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+The episode features journalist and historian Garrett M. Graff discussing how the Trump administration has fundamentally altered America's global standing and international credibility. Graff, author of the Doomsday Scenario newsletter, examines the systematic dismantling of core pillars that have long defined American foreign policy and geopolitical influence, framing these shifts as potentially permanent changes to how the world perceives and engages with the United States.
+
+The material provided does not include episode details or specific recommendations—only the title and description. To extract actionable insights, you would need to listen to the full episode or review Graff's Doomsday Scenario newsletter, where he likely provides concrete analysis of policy shifts and their implications. This appears designed for listeners concerned with US global positioning and long-term geopolitical strategy.
 
 ## Transcript
 

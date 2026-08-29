@@ -6,17 +6,17 @@ url: "https://pocketcasts.com/podcast/conversations-with-bill-kristol/ddec0d60-3
 played_date: 2026-08-07
 played_at: "2026-08-07T12:00:00Z"
 play_count: 1
-duration_seconds: 2160
+duration_seconds: 1980
 source: pocketcasts-history-browser
 played_label: August 7
-history_order: 3
+history_order: 4
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: failed
-tagging_model: skipped
-proposed_tags: []
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
+proposed_tags: [primary-source-video, geopolitics, us-decline]
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+Eric Edelman, former Under Secretary of Defense and ambassador to Turkey and Finland, discusses the current state of the U.S. military under Trump's second term, examining three interconnected concerns: the munitions shortage and its operational consequences for the Iran War, the firings of senior military leaders, and what he describes as increasing dysfunction between military and civilian leadership. He attributes much of this dysfunction to Trump's departure from established decision-making processes that have governed civil-military relations since the 1980s-1990s, and highlights the growing politicization of military promotions and personnel procedures.
+
+The key concern Edelman raises is institutional risk: while decades of investment built a capable military institution, damage accumulates far more quickly than repairs. If you're tracking military readiness, defense policy, or civil-military relations, his argument underscores why departures from institutional norms—even those that seem bureaucratic—carry serious consequences for operational effectiveness and strategic stability. The shortage of munitions and politicization of leadership are not isolated problems but symptoms of eroding institutional checks that prevent misuse of military power.
 
 ## Transcript
 

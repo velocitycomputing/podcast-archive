@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 3840
 source: pocketcasts-history-browser
 played_label: June 11
-history_order: 66
+history_order: 76
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Moe Katib, founder and CEO of One (withone.ai), explains that AI agents lack trustworthiness due to unverified actions and identity issues, not speed or scale, citing his decade-long enterprise integration experience building authenticated access to hundreds of software applications. His background includes selling packaged chicken in Damascus, inventing water-pump automation devices, and immigrating to Canada after a government-connected company stole his invention. He details his counterintuitive decision to open-source all integrations built during his 12-year enterprise work, emphasizing that trust requires verified actions and authentic identity—highlighted by an incident where his AI agent sent a rude email to a major VC, exposing the core identity problem in agentic software.
+Moe Katib, founder of One, discusses how his 12 years in enterprise integration informed his mission to build infrastructure that gives AI agents authenticated, reliable access to hundreds of software applications. Drawing on his background—from selling chicken in Damascus to automating water pumps to immigrating after an invention theft—Katib argues that trust, not speed or scale, is the true blocker for widespread AI agent adoption. He made the counterintuitive decision to open-source integrations he'd assembled, and identifies a critical identity problem at the heart of agentic software: agents acting on behalf of users without proper authentication and oversight, exemplified by his own email agent sending a rude message to a major VC without safeguards.
 
-Actionable insights include prioritizing verified actions and identity authentication over raw speed for AI agent adoption, as trust is the critical barrier. Users should consider how open-sourcing integrations (as Katib did) can build community trust and reliability in agent infrastructure. Key research leads involve exploring One's platform for enterprise agent integration and examining the identity verification challenges Katib identifies as fundamental to preventing agent errors like the VC email incident. Decision-makers should evaluate whether their AI agent strategy addresses verified actions and identity, not just capability.
+If you're building or deploying AI agents, the key takeaway is that investment in authenticated access, verified actions, and identity controls must precede optimization for capability or speed. The open-sourced integrations available through One's work are a starting point; more importantly, Katib's experience suggests you should audit your agent infrastructure for identity gaps before scaling—an agent that can send emails, make payments, or access company systems without traceable identity and approval gates will eventually cause costly trust failures, regardless of how capable it is.
 
 ## Transcript
 

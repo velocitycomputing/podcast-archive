@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 1800
 source: pocketcasts-history-browser
 played_label: June 11
-history_order: 68
+history_order: 78
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: [primary-source-video]
+proposed_tags: []
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Anthropic's Fable 5 AI model sparked significant controversy due to its safety restrictions, data retention policies, and undisclosed limitations on user development capabilities, drawing backlash from researchers, enterprises, and power users. The core debate centers on whether frontier AI labs should control what users can build or access with their models. Additional context includes Trump's comments on AI equity, OpenAI's planned Ohio data center expansion, and broader industry backlash against data center projects.
+Anthropic's Fable 5 release has sparked significant controversy centered on its safety restrictions, data retention policies, and undisclosed limits on AI development capabilities. The episode discusses how this backlash from researchers, enterprises, and power users reflects a deeper tension: whether frontier AI labs should unilaterally control what users can build, study, and access. Other major developments covered include Trump's proposal for public AI equity, OpenAI's planned Ohio data center campus, and mounting concerns about data center proliferation and environmental impact.
 
-Users should prioritize developing "reasoning partner" skills with AI, as highlighted by KPMG's research showing top AI adopters treat AI as a collaborative reasoning tool rather than a simple task executor. This approach—focusing on iterative problem-solving and critical thinking alongside AI—directly translates to the KPMG finding that such skills drive the most effective AI integration, offering a concrete, actionable strategy distinct from the Fable 5 controversy.
+If you work with frontier AI models or plan to integrate them into applications, monitor Anthropic's safety and data policies closely—particularly around what uses they restrict and how your data is retained. Track the public AI equity debate and its potential policy implications for model access and pricing. For infrastructure decisions, stay informed on the data center backlash and OpenAI's expansion plans, as these could affect availability and costs for large-scale deployments.
 
 ## Transcript
 

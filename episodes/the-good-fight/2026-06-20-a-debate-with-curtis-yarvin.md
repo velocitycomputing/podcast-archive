@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 2700
 source: pocketcasts-history-browser
 played_label: June 20
-history_order: 44
+history_order: 54
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: failed
-tagging_model: skipped
-proposed_tags: []
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
+proposed_tags: [primary-source-video]
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+In this How The Light Gets In Festival debate, moderator Roger Hearing facilitated a discussion between political blogger Curtis Yarvin, cultural critic and author Minna Salami, and podcast host Yascha Mounk on fundamental questions about liberal society. The three debated whether freedom is genuinely possible within liberalism, whether liberal systems can truly remain neutral, what characteristics a truly free society would possess, and whether liberalism's period of dominance has ended.
+
+For someone interested in political philosophy and the future of liberal democracy, the actionable step is to watch the recorded video of the debate (linked in the episode notes) or listen to the full podcast episode to engage with these three thinkers' specific arguments and evidence. If the How The Light Gets In Festival itself interests you, the organizers' website provides information and ticket sales for their September event, which features similar substantive debates on contested ideas.
 
 ## Transcript
 

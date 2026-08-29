@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 1560
 source: pocketcasts-history-browser
 played_label: June 17
-history_order: 56
+history_order: 66
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-SpaceX is leveraging its IPO momentum to advance its AI strategy, while Cursor has become integrated into Elon Musk's broader AI ecosystem. OpenAI's leaked financials reveal greater complexity than skeptics assumed, suggesting the company's financial situation is more nuanced than public perception. The episode covers the ongoing conflict between Anthropic and the U.S. government regarding the Fable 5 AI model and the Mythos project, alongside government cybersecurity concerns raised about AI deployment.
+The episode covers major restructuring in the AI race: SpaceX converting IPO momentum into AI strategy, Elon Musk acquiring Cursor as a core asset, and newly leaked OpenAI financials that reveal more complexity than public skeptics suggest. It also examines the escalating conflict between Anthropic and the U.S. government over advanced models (Fable 5 and Mythos), with government cybersecurity concerns influencing potential restrictions on model deployment and capability release.
 
-The KPMG research cited indicates that treating AI as a "reasoning partner" and developing this skillset through structured training is feasible at scale—this is the key actionable insight. Organizations should prioritize building AI reasoning capabilities in their teams rather than focusing solely on tool adoption, as this skill can be systematically taught to improve AI collaboration effectiveness. Ignore the promotional links, as they are not part of the episode's substantive content.
+If you're selecting or deploying AI models, track the outcome of the Anthropic-government dispute—regulatory decisions could constrain access to advanced reasoning models and shift your tool options. For teams currently invested in OpenAI, consider evaluating Anthropic's models as backup given the political headwinds. Research highlighted by episode sponsors (KPMG) shows the highest-impact AI users achieve ROI by training teams to treat AI as a reasoning partner, suggesting immediate action is training your team on AI collaboration practices rather than waiting for regulatory clarity.
 
 ## Transcript
 

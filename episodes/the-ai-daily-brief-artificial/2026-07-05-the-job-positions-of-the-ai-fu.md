@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 1560
 source: pocketcasts-history-browser
 played_label: July 5
-history_order: 26
+history_order: 36
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
@@ -24,15 +24,15 @@ routed_to: null
 
 ## Summary
 
-The episode explores how AI agents are reshaping organizational roles and identifies ten emerging job archetypes—prototypers, builders, sweepers, growers, maintainers, editors, scouts, orchestrators, conductors, and risk stewards—that may define future work structures. NLW argues the central opportunity lies not in any single archetype but in enabling people across all functions to become "makers" who discover what AI-enabled work can actually become for their organizations. Supporting this thesis, research from KPMG and UT Austin shows that the highest-impact AI users treat AI as a reasoning partner rather than a tool, and these partnering skills can be taught at scale.
+The episode maps emerging job archetypes that will shape future organizations as AI agents transform work: prototypers, builders, sweepers, growers, maintainers, editors, scouts, orchestrators, conductors, and risk stewards. Host NLW argues the biggest opportunity lies in people across any function becoming "makers" — those who help their organization discover what AI-enabled work can actually become.
 
-Start by assessing which archetype(s) align with your current role or aspirations—whether that's building solutions, maintaining systems, or orchestrating workflows—rather than waiting for titles to formalize. More importantly, shift your mindset toward AI-as-reasoning-partner: practice using AI to think through problems, challenge your assumptions, and explore possibilities, since this is the teachable skill that separates effective AI users from passive consumers. Within your organization, identify one process where you could become the "maker" who experiments with AI and documents what becomes possible; this positions you ahead of formal role changes and builds evidence for what your function should become.
+KPMG research featured in the episode shows that high-impact AI users treat AI as a reasoning partner rather than a tool, and these skills are teachable at scale. Start practicing this mindset in your role: systematically use AI to reason through problems in your domain, experiment with treating it as a collaborative partner rather than an answer machine, and document what AI-enabled workflows become possible when you approach it this way. This positions you as one of those "makers" your organization will need.
 
 ## Transcript
 
 As AI agents change the shape of work, today’s episode explores the emerging archetypes that may define future organizations — from prototypers, builders, sweepers, growers, and maintainers to editors, scouts, orchestrators, conductors, and risk stewards. NLW argues that the biggest opportunity may be for people in every function to become the “maker” who helps their organization discover what AI-enabled work can actually become.
 Brought to you by:
-KPMG – Research from KPMG and the University of Texas at Austin shows the highest-impact AI users treat AI like a reasoning partner — and those skills can be taught at scale. Learn more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠kpmg.com/us/Sophisticated⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+KPMG – Research from KPMG and the University of Texas at Austin shows the highest-impact AI users treat AI like a reasoning partner — and those skills can be taught at scale. Learn more at ⁠https://kpmg.com/us/Sophisticated⁠
 Hyperagent -Hire a fleet of always-on agents. New users get $1,000 in inference. ⁠⁠⁠hyperagent.com/aidailybrief⁠⁠⁠
 Rackspace Technology- One accountable partner to build, operate and run your full enterprise AI stack ⁠⁠⁠https://www.rackspace.com/⁠⁠⁠
 Section - Section turns AI investment into workforce transformation and ROI - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.sectionai.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠

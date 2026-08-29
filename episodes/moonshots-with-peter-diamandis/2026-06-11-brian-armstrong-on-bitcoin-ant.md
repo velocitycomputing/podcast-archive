@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 7020
 source: pocketcasts-history-browser
 played_label: June 11
-history_order: 63
+history_order: 73
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video, "goal:longevity"]
 proposed_entities: []
@@ -24,9 +24,11 @@ routed_to: null
 
 ## Summary
 
-The episode features a roundtable discussion including Coinbase CEO Brian Armstrong, Peter Diamandis (XPRIZE founder), Salim Ismail (Open ExO founder), Dave Blundin (Link Ventures), and Dr. Alexander Wissner-Gross, covering Bitcoin, Anthropic's Fable 5 and Mythos 5 AI models, NewLimit's $435 million funding for age-reversal biotech, government stakes in AI companies, the OpenAI IPO, SpaceX's compute expansion, Apple's Siri reboot, and agentic payments. Key claims include NewLimit securing $435M for longevity research and the panel discussing AI company valuations and regulatory landscapes.
+# Summary
 
-Actionable items include scheduling a call with Fountain Life to explore longevity interventions based on their "Memberships" program, researching NewLimit's age-reversal biotech approach using the $435M funding as a benchmark for investment interest, and exploring the Metatrends report for long-term tech trend analysis. Users should consider evaluating Coinbase's Bitcoin market position and Anthropic's AI model advancements as potential investment or research leads, while noting the episode's disclaimer that it does not constitute financial or medical advice.
+This Moonshots roundtable, hosted by Peter Diamandis and featuring Coinbase CEO Brian Armstrong alongside venture investors Salim Ismail, Dave Blundin, and Alexander Wissner-Gross, explores emerging metatrends including Bitcoin's evolving role in payments infrastructure, agentic AI systems that can execute transactions autonomously, government stakes in AI companies, the OpenAI IPO trajectory, SpaceX's expansion into compute infrastructure, Apple's Siri redesign, and longevity biotech breakthroughs (particularly NewLimit's $435M age-reversal program). The episode also references Anthropic's recent model releases—Fable 5 and Mythos 5—as part of the broader AI competitive landscape.
+
+For concrete follow-up, access Diamandis's metatrends briefing system (qr.diamandis.com/metatrends) for early signals on 10+ year technology trends; apply to Salim Ismail's Organizational Singularity Pilot Program for organizational transformation consulting; explore the Link Ventures fund targeting exponential-stage companies; book a free Blitzy demo to prototype agentic systems; or schedule a Fountain Life consultation to integrate biomarker-driven longevity planning into your health strategy.
 
 ## Transcript
 

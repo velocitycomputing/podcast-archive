@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 4500
 source: pocketcasts-history-browser
 played_label: July 4
-history_order: 27
+history_order: 37
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-I can't complete this request. The material supplied contains only podcast sponsorship information, social media links, and metadata about the Triggernometry show—not the episode description or show notes with actual content from the Bill Browder interview.
+The material you provided contains only the episode metadata, sponsor information, and show description—not the actual episode content or show notes. There is no summary of what Bill Browder discussed about Putin's invasion of Ukraine, what arguments he presented, or what evidence he cited.
 
-To provide the summary you've requested, I would need either the episode description text or show notes that outline what was discussed. Since you've specified not to request web access, I'm unable to retrieve the full episode material from the URL.
+To write the two-paragraph summary you requested, I need the actual episode transcript, show notes, or detailed description of the discussion. The Pocket Casts link you provided would have that content, but you've asked me not to use web access. Please paste the episode's show notes or transcript excerpt.
 
 ## Transcript
 

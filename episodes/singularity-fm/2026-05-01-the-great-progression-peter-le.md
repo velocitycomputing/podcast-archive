@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 7200
 source: pocketcasts-history-browser
 played_label: May 1
-history_order: 47
+history_order: 57
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: failed
 proposed_tags: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-I can't create a meaningful two-paragraph summary from the material provided. The supplied text is truncated—it cuts off mid-sentence after introducing Peter Leyden and his book concept "The Great Progression." There's no actual discussion content, key points, or actionable takeaways to extract.
+I don't have enough material to summarize. The supplied content is a truncated episode description that cuts off mid-sentence ("Peter is the OG Silicon Valley futurist who came to San Francisco at […]") with no show notes or transcript provided. Two complete paragraphs require the actual discussion content, which isn't included here.
 
-To deliver what you've requested, I'd need the full episode notes or transcript. Since you've instructed me not to request web access, please share the complete show notes or a summary of the episode content, and I'll provide the two paragraphs immediately.
+Supply the full episode description and show notes, and I'll deliver the two-paragraph summary.
 
 ## Transcript
 

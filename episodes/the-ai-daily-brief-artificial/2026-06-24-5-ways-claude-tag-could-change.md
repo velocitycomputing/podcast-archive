@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 1620
 source: pocketcasts-history-browser
 played_label: June 24
-history_order: 39
+history_order: 46
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-The episode focuses on Anthropic's announcement of Claude 3.5 Sonnet, described as "the most powerful model yet" in their series. It highlights the model's release as a significant advancement, positioning it as a key development in the current AI landscape.
+The episode explores Claude Tag as a paradigm shift from AI as a standalone application to AI as an integrated teammate within existing workplace tools and platforms. NLW breaks down five specific ways Claude Tag could transform AI usage in professional settings, while also covering industry headlines including Anthropic's competitive position, Meta's model evaluations, robotics developments, Grok Build updates, and Seed Dance 2.5. Research from KPMG and the University of Texas at Austin provides backing data showing that the highest-impact AI users treat AI as a reasoning partner, with these collaboration skills being teachable at organizational scale.
 
-The summary emphasizes Claude 3.5 Sonnet's "best-in-class performance" specifically for reasoning and coding tasks, suggesting it outperforms previous models in these critical areas. This performance claim is presented as the core takeaway for listeners regarding the new release.
+For immediate action: If you manage teams or develop enterprise AI strategies, the Enterprise Agent Leadership Program's next cohort begins June 29, 2026—consider enrolling to formalize AI reasoning practices across your organization. Audit your current AI workflows to identify where integration into existing tools (Slack, email, project management platforms) rather than separate applications could reduce friction and increase adoption. For technical implementation, explore the sponsoring platforms highlighted (Section, OutSystems, Zenflow Work) that align with your current stack for potential Claude Tag integration.
 
 ## Transcript
 

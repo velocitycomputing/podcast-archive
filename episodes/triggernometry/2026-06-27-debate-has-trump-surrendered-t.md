@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 5880
 source: pocketcasts-history-browser
 played_label: June 27
-history_order: 18
+history_order: 28
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-I can't summarize the episode with the material provided. The content you've shared contains only sponsorship information and general podcast branding—not the actual episode description, show notes, or discussion summary that would explain what was debated about Trump and Iran or any actionable insights.
+I can't summarize the episode—the material you provided contains only the Pocket Casts metadata (sponsorship links, social handles, and show description) but no actual show notes, transcript excerpts, or discussion content. To write the two paragraphs you requested, I'd need the episode's written summary, show notes, or key talking points.
 
-To create the two-paragraph summary you've requested, I'd need the actual episode notes or transcript excerpt that describes the debate's content and conclusions.
+Per your constraint, I'm not fetching the web version. If you have the full show notes or episode summary available locally, paste that and I'll deliver the two paragraphs.
 
 ## Transcript
 

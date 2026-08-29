@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 3900
 source: pocketcasts-history-browser
 played_label: June 11
-history_order: 67
+history_order: 77
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: [primary-source-video]
+proposed_tags: []
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-The episode centers on Ron Brownstein's analysis of the 2026 U.S. election dynamics, framing it as a "collision between the irresistible force and the immovable object." The irresistible force is the consistent 60% disapproval rate of Trump's presidential performance, which has risen since December 2023. The immovable object is the Republican-leaning terrain dominating House and Senate races. Brownstein, a Bloomberg Opinion columnist and senior CNN political analyst, presents a data-driven tour of polls and key indicators to watch as the election approaches, focusing specifically on House and Senate outcomes.
+Brownstein analyzes the 2026 election as a collision between two opposing forces: sustained public disapproval of Trump (around 60% consistently) and electoral terrain that fundamentally favors Republicans in both House and Senate races. He examines polling data and identifies key indicators that will shape outcomes as the election approaches November 2026, providing a data-driven assessment of how these conflicting dynamics will play out in competitive districts and states.
 
-Voters and analysts should prioritize tracking the 60% disapproval figure as a critical metric for Democratic prospects, recognizing that Republican-leaning districts will determine House and Senate results. Key follow-up questions involve monitoring how this disapproval rate evolves in the months ahead and identifying which specific polls and data points Brownstein identifies as most predictive for November 2026, particularly regarding Senate seat competitiveness in traditionally Republican states.
+To stay informed on 2026 dynamics, track Trump's approval/disapproval trends monthly (the 60% disapproval baseline is your reference point), monitor early House and Senate race polling in Republican-leaning districts to see if Democratic disapproval can overcome structural advantages, and watch for the specific indicators Brownstein flags as predictive—these will likely include swing-district sentiment, turnout composition, and whether disapproval actually translates to seat losses for Republicans given the map's tilt in their favor.
 
 ## Transcript
 

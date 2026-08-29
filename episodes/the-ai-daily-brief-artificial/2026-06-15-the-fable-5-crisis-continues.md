@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 1560
 source: pocketcasts-history-browser
 played_label: June 15
-history_order: 59
+history_order: 69
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Anthropic's Fable 5 AI model remains at the center of an unresolved dispute, with new reporting indicating Amazon triggered its shutdown. Key claims include ongoing disputes over whether a specific "jailbreak" posed a genuine national security threat, and the emerging consensus that resolution will likely be political rather than technical. NLW is cited as covering the latest developments in this crisis.
+The episode covers the ongoing Anthropic Fable 5 shutdown dispute, which remains unresolved. New reporting implicates Amazon as the party that triggered the shutdown, and there is significant disagreement about whether the alleged jailbreak represented a genuine national security threat or was overblown. The resolution appears to be moving through political channels in Washington D.C. rather than being resolved on technical grounds, with various parties negotiating the path forward.
 
-The most actionable insight is KPMG's research referenced in the episode, which found that effective AI users treat the technology as a "reasoning partner" rather than a tool. Professionals should explore this approach to improve AI integration in workflows. The episode's promotional sponsor tools (Section, Bolt, Outsystems) are not substantive recommendations but commercial endorsements.
+Monitor ongoing developments in this dispute as it will likely affect model availability and regulatory precedent for LLM safety decisions. If you use or deploy Fable models, track the political negotiations in D.C. since the outcome may determine when the model returns and under what regulatory conditions. This signals that safety disputes are increasingly decided by policy pressure rather than technical assessment alone, which affects how organizations should approach model risk management going forward.
 
 ## Transcript
 

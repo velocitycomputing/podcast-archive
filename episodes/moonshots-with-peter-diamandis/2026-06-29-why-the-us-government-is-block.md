@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 8280
 source: pocketcasts-history-browser
 played_label: June 29
-history_order: 25
+history_order: 35
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: [geopolitics, us-decline, primary-source-video]
+proposed_tags: [primary-source-video, geopolitics]
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-The episode examined three critical AI industry trends: the U.S. government's restrictive gatekeeping of frontier AI model releases (exemplified by GPT-5.6 being blocked), China's accelerating competitive advantage through open-weight models and distillation techniques that reduce development barriers, and emerging breakthroughs in quantum and photonic computing that could fundamentally reshape computing architecture. The discussion featured perspectives from Peter Diamandis, Emad Mostaque, Dave Blundin, and Dr. Alexander Wissner-Gross on how these forces are reshaping the AI landscape.
+The episode addressed three converging developments: U.S. government restrictions on frontier AI model releases (including blocking GPT-5.6), China's accelerating strategy of developing and releasing open-weight distilled models, and parallel advances in quantum and photonic computing. The discussion featured venture capitalists, AI founders, and technologists examining how geopolitical AI policy divergence is reshaping the competitive landscape.
 
-To stay ahead of these metatrends, you can access Diamandis's metatrends research (qr.diamandis.com/metatrends) tracking these shifts 10+ years in advance. If interested in the open-weight model philosophy, read Emad's book *The Last Economy* (thelasteconomy.com). For venture investors or founders seeking capital aligned with frontier computing, explore Link Ventures' new fund (qr.diamandis.com/linkventureslanding). For hands-on builders, try Blitzy (qr.diamandis.com/blitzy) to prototype applications. Consider scheduling a Fountain Life consultation to ensure your health strategy accounts for the pace of technological change ahead.
+For the user, the actionable takeaway is to monitor this policy divergence closely as it creates strategic asymmetries—U.S. gating may protect certain domestic players while open-weight alternatives proliferate globally. Subscribe to the Metatrends platform (referenced in the episode) to track AI policy and technology shifts over a 10+ year horizon, evaluate whether emerging tech investments should account for these regulatory barriers, and track quantum/photonic computing progress as potential infrastructure advantages that could shift the entire AI stack over the next decade.
 
 ## Transcript
 

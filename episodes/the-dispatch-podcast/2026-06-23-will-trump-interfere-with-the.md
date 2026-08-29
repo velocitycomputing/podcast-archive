@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 3840
 source: pocketcasts-history-browser
 played_label: June 23
-history_order: 40
+history_order: 47
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: []
+proposed_tags: [geopolitics, primary-source-video]
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Steve Hayes, Mike Warren, and Stephen Richer discussed election integrity concerns ahead of the 2026 midterms, focusing on the proliferation of voter fraud conspiracy theories, media influence on election claims, and California-specific conspiracy narratives. They addressed the need for quick election results, federal law enforcement's role in voting, and Trump's potential influence on the 2026 midterms, referencing a "NWYT" note about Trump and the number 22. The discussion centered on how conspiracy theories impact voter behavior and the broader implications for election administration.
+Steve Hayes hosted Mike Warren and Stephen Richer to examine election integrity concerns leading into the 2026 midterms, focusing on how misinformation and conspiracy theories about voter fraud are proliferating across media and the public. The discussion covered media's amplification of unfounded election claims, conspiracy theories spreading in California, patterns in voter behavior, the technical need for faster election result reporting, federal law enforcement's voting oversight role, and Trump's specific influence over election narratives heading into the 2026 race (including a segment exploring "Trump and the number 22").
 
-Listeners should verify claims about voter fraud through official election results and nonpartisan sources like the Election Integrity Partnership, not social media or partisan outlets. Research the specific "number 22" reference mentioned in the "NWYT" note to understand its context within Trump's rhetoric. Consider how media consumption patterns might amplify election misinformation and evaluate local election integrity measures in their state, particularly regarding result reporting speed and security protocols, to make informed civic decisions.
+To act on this material: assess your own media consumption sources for how election-related claims are framed, particularly around timing and fraud allegations; understand how federal election law enforcement actually operates so you can evaluate claims against reality rather than rumor; and monitor Trump's direct statements about the 2026 midterms rather than relying on media interpretation, since his messaging will likely shape both candidate behavior and voter perception of election integrity.
 
 ## Transcript
 

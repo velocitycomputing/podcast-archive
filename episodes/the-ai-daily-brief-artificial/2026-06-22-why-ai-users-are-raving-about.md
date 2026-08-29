@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 1740
 source: pocketcasts-history-browser
 played_label: June 22
-history_order: 41
+history_order: 48
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-GLM 5.2 is highlighted as a model gaining significant traction among AI users, particularly for its strong performance in coding tasks. The episode claims it is "beating DeepSeek" (likely a reference to DeepSeek's coding capabilities) and notes Kuaishou as the company behind the model. The discussion positions GLM 5.2 as a notable contender in the current AI landscape, emphasizing its practical utility for developers and its competitive edge in specific benchmarks.
+The episode examines GLM 5.2, an open-weight model gaining builder attention for strong real-world performance in coding and web design. The discussion covers where the hype is justified (comparing it to the DeepSeek R1 moment), where the cost-benefit calculation gets complicated, and how the model's emergence challenges the narrative of a two-player race between OpenAI and Anthropic. The implication is that enterprise AI stacks must now account for viable open-weight alternatives reshaping vendor assumptions.
 
-Developers and AI practitioners should prioritize testing GLM 5.2 for coding-intensive workflows, especially if seeking alternatives to models like DeepSeek. Given its reported performance gains, integrating it into coding pipelines or evaluating it for specific task automation could yield tangible productivity improvements without requiring significant infrastructure changes.
+For your AI stack decisions: evaluate GLM 5.2 against your current tooling (Claude/OpenAI) in your specific workloads—coding and design tasks are the concrete test cases. Run cost-per-inference and quality comparisons before assuming proprietary models remain your only option. If you're building enterprise systems, plan for a multi-vendor landscape rather than standardizing on a single provider's model family.
 
 ## Transcript
 

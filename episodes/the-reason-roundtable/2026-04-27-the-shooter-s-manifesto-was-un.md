@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 3840
 source: pocketcasts-history-browser
 played_label: April 27
-history_order: 17
+history_order: 23
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: [primary-source-video]
+proposed_tags: []
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-The episode featured Reason editors discussing five major topics: the attempted White House Correspondents' Dinner shooting and how the shooter's manifesto reflected disturbingly mainstream political rhetoric; NYC Mayor Zohran Mamdani's proposal for city-run grocery stores as a solution to food deserts; the Trump administration's potential bailout of Spirit Airlines that could result in federal ownership; uncertain U.S.-Iran diplomacy centered on Strait of Hormuz tensions; and a listener question about libertarian approaches to redistricting and the feasibility of fair electoral maps.
+The Reason Roundtable editors examined five major topics: the attempted shooting at the White House Correspondents' Dinner and analysis of the shooter's manifesto, which some observers found disturbingly mainstream in its political rhetoric; NYC Mayor Zohran Mamdani's proposal for city-run grocery stores and whether government supermarkets can compete fairly with private businesses; the Trump administration's consideration of a federal bailout for Spirit Airlines that could result in government ownership; ongoing Iran diplomacy and mixed signals over the Strait of Hormuz; and a listener question about libertarian perspectives on redistricting reform.
 
-The actionable takeaway centers on monitoring policy outcomes: the viability and fairness of government-backed grocery stores entering existing markets (suggesting attention to how this precedent affects public-private competition), the Spirit Airlines bailout decision (which sets precedent for federal airline intervention), and ongoing Iran negotiations (relevant if tracking geopolitical risk). The redistricting segment suggests examining whether electoral reform can achieve genuine fairness or if map-drawing will always favor some interests, applicable if you're involved in advocacy or civic participation around voting systems.
+The substantive policy debates highlighted are worth tracking if you're evaluating economic interventions: Mamdani's $30–70 million grocery store gamble raises questions about government market participation and whether addressing food deserts through direct state ownership is efficient or sustainable; the Spirit Airlines bailout precedent is significant because it establishes whether the federal government will own equity stakes in failing carriers; and redistricting reform remains genuinely difficult because truly "fair" maps involve unresolved tradeoffs. On rhetoric, the panel's point that the shooter's manifesto echoed mainstream political messaging is worth considering if you assess the health of public discourse.
 
 ## Transcript
 

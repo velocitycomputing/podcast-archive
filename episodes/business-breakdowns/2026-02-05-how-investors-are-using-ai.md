@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 3000
 source: pocketcasts-history-browser
 played_label: February 5
-history_order: 60
+history_order: 70
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Investors are using AI as a "smart filter" for news, accelerating the pre-buy process, enabling specific quantitative analysis, and generating investment ideas, according to David Plon, Founder of Portrait Analytics and former investor. The episode details how AI helps surface stock ideas and thesis signposts, allowing investors to reach "go, or no-go" decisions 10x faster by understanding the story behind stock charts. Key topics include writing effective prompts for large language models (LLMs), structuring tasks as either structured or creative, the necessity of documenting decision-making for institutional use, and the improving ability of models to leverage provided context. Plon emphasizes AI's role in addressing core investor pain points like information overload and inefficient research workflows.
+David Plon, founder of Portrait Analytics, discusses how professional investors are operationalizing AI in their workflows. The episode covers concrete applications including using AI as a "smart filter" for news and thesis monitoring, applying AI to pre-buy research and quantitative analysis, generating investment ideas, writing effective prompts for LLMs, choosing when to use AI for structured versus creative tasks, institutional deployment best practices, and the technical capabilities and near-term limitations of LLM memory and context-window usage in research.
 
-Actionable steps for investors include experimenting with prompt engineering to refine AI outputs for specific tasks like news filtering or quantitative analysis, documenting AI-assisted decisions to build institutional knowledge, and prioritizing structured tasks (e.g., data synthesis) over creative ones when starting with AI tools. Listeners should focus on using AI to handle repetitive research elements (e.g., monitoring thesis shifts) to free up time for higher-level analysis, while recognizing current LLM limitations in memory for long-term context. The episode suggests testing tools like Portrait Analytics' free trial to experience AI-driven idea generation and thesis monitoring firsthand, specifically to reduce time spent on "go, or no-go" assessments.
+To improve your investment process: start experimenting with AI tools to filter and prioritize news against your thesis theses; learn to write specific, well-structured prompts rather than generic queries; document your decision-making rationale when using AI outputs so you can validate and learn from the tool's performance over time; and consider whether AI-driven research workflows (idea generation, pre-buy screening, quantitative analysis) would save time in your current pipeline. Portrait Analytics offers a free trial specifically built by investors for investment professionals, combining idea generation, thesis monitoring, and report automation.
 
 ## Transcript
 

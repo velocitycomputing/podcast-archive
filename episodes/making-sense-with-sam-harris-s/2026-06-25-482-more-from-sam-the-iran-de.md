@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 4020
 source: pocketcasts-history-browser
 played_label: June 25
-history_order: 40
+history_order: 44
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: [geopolitics, primary-source-video]
+proposed_tags: []
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Sam and Jaron discuss current events drawn from the Making Sense Community, covering the Iran deal with Trump's "humiliating capitulation" as a key claim, the evolving value of a college degree amid AI's impact on careers, Mamdani’s DSA-aligned political candidates, factory farming ethics, and the Tulsi Gabbard "guru story," alongside broader topics like one-world government. The episode centers on community-submitted questions and recent developments, framing the Iran deal as a significant diplomatic failure and linking AI to fundamental shifts in educational and career pathways.
+In this episode, Sam Harris and Jaron discuss several current events and community-submitted topics, including one-world government, the value of college degrees as AI reshapes career opportunities, factory farming ethics, DSA-aligned political candidates from Mamdani, Trump's concessions in Iran nuclear negotiations, and the Tulsi Gabbard religious affiliation controversy. The conversation draws from questions submitted by the Making Sense Community.
 
-Actionable steps include researching Mamdani’s specific DSA-aligned candidates for local elections, investigating AI's concrete impact on specific degree fields (e.g., via labor market reports from McKinsey or Brookings), and verifying the Iran deal claims through primary sources like the 2015 JCPOA text and subsequent US withdrawal statements. Users should critically assess the "humiliating capitulation" narrative by comparing Trump administration statements to diplomatic records and consider how AI might affect their own career trajectory by analyzing job postings in their field for AI-related skill requirements.
+For actionable takeaway, the most relevant segment concerns college education in an AI-transformed job market—if you're evaluating degree programs or deciding on educational investments, this discussion directly addresses whether traditional degrees retain value. If you follow electoral politics, the analysis of DSA-aligned candidates provides concrete examples for candidate evaluation. For foreign policy interest, the Iran deal segment clarifies recent U.S. strategic decisions.
 
 ## Transcript
 
