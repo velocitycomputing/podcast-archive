@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 1620
 source: pocketcasts-history-browser
 played_label: June 13
-history_order: 65
+history_order: 75
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-The US government ordered Anthropic to suspend access to its Fable 5 and Mythos 5 AI models for foreign nationals, resulting in a full shutdown for all users. Host NLW analyzed Anthropic's response to this directive, the backlash from the AI community regarding government overreach, and the broader implications for regulatory control over frontier AI development. This incident represents a significant escalation in government intervention, potentially setting a precedent for future restrictions on international access to advanced AI systems.
+The US government ordered Anthropic to suspend access to Fable 5 and Mythos 5 for foreign nationals, forcing the company to shut both models down entirely for all users. This emergency episode breaks down Anthropic's response to the order, the reaction from across the AI industry, and analyzes this decision as a potential major precedent for direct government control over frontier AI model deployment.
 
-Users should monitor regulatory developments closely, as this action signals heightened government scrutiny of AI deployment. Organizations relying on Anthropic's models must assess contingency plans for potential access restrictions in key markets. The KPMG research cited (treating AI as a "reasoning partner") underscores the need for enterprises to build adaptable AI strategies resilient to regulatory shifts, prioritizing models with flexible deployment options that comply with evolving national security frameworks.
+Actionable takeaway: Monitor how this government intervention shapes access to advanced AI models going forward and whether similar restrictions are applied to other providers. This represents a significant shift in government authority over AI deployment—understanding the precedent being set here is critical for anyone building on or relying on frontier AI models.
 
 ## Transcript
 

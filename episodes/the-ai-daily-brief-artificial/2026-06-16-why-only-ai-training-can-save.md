@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 1320
 source: pocketcasts-history-browser
 played_label: June 16
-history_order: 54
+history_order: 64
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-The podcast episode argues that AI infrastructure growth is stalling due to enterprises failing to derive sufficient value from current AI tool usage, creating a disconnect between lab revenue pressures and enterprise cost scrutiny. It posits that mass-scale AI training—moving users beyond basic tool adoption to developing AI as a "reasoning partner"—is the critical solution. This claim is supported by referenced research from KPMG and the University of Texas at Austin, which found that highest-impact AI users treat AI as a collaborative reasoning partner, and that these advanced skills can be systematically taught at scale. The episode features sponsored vendor examples like Bolt, Outsystems, and Section, which position themselves as enabling this transition.
+The episode addresses a core economic tension: AI infrastructure growth depends on enterprises consuming increasing token volumes, but labs face revenue pressure while enterprises scrutinize AI costs. The proposed solution is mass-scale AI training that elevates workers from basic assisted AI (autocomplete, simple summaries) into real agentic usage—where AI systems handle complex, multi-step reasoning tasks autonomously. Research from KPMG and the University of Texas shows that the highest-impact AI users treat AI as a reasoning partner, and critically, these sophisticated usage patterns can be taught at organizational scale.
 
-Organizations should prioritize structured AI training programs focused on developing reasoning skills, not just tool familiarity, to unlock higher ROI and justify continued AI investment. Specifically, explore the KPMG/Texas research findings to design training that moves teams from basic prompt engineering to collaborative problem-solving with AI. Evaluate vendor solutions (e.g., Section, Outsystems) that offer workforce transformation frameworks for this shift, moving beyond superficial AI adoption to embed AI as a core reasoning partner in workflows. This directly addresses the revenue-cost gap by demonstrating tangible value from AI deployment.
+For your organization, the actionable step is to invest in structured AI training programs that move beyond feature adoption. Rather than assuming employees will naturally discover agentic workflows, design training that explicitly teaches reasoning-partner mental models—how to frame problems for AI systems, when to use autonomous agents versus assisted workflows, and how to interpret and validate AI reasoning. This shifts your cost curve: better-trained workers extract more value per token, which justifies continued AI investment to labs and vendors, creating the feedback loop the economy needs.
 
 ## Transcript
 

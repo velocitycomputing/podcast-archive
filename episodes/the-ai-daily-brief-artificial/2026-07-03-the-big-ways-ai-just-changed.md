@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 1260
 source: pocketcasts-history-browser
 played_label: July 3
-history_order: 31
+history_order: 41
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
@@ -24,15 +24,15 @@ routed_to: null
 
 ## Summary
 
-June marked a watershed moment for AI: token scarcity shifted from theoretical to real, Fable 5 demonstrated significant advances in model capabilities, government intervention began restricting model access, and enterprises started fundamentally reassessing their strategies around open-source models and AI infrastructure investments. These four developments combined reset expectations for how the AI landscape operates entering the second half of 2026.
+June 2026 marked a watershed month for AI: token scarcity emerged as a tangible constraint on inference availability, Fable 5 demonstrated a significant leap in model capabilities, regulatory action began reshaping who could access which models, and enterprises started reassessing their technology stacks across open versus closed models and infrastructure choices. These four shifts—supply constraint, capability frontier, policy intervention, and enterprise strategy reset—converged to reshape the AI landscape.
 
-The immediate actionable opportunity exists in July and August, a narrow window before these shifts fully cascade through the market. Organizations need to lock in model access decisions, finalize AI infrastructure plans, and evaluate whether closed versus open model strategies still align with their operational requirements—choices made now will be harder to reverse once access tightens further and market consolidation accelerates.
+July and August represent a narrow window to gain competitive advantage before these June developments fully propagate through the market. The implication is that organizations should act now: secure inference capacity before token scarcity tightens further, evaluate Fable 5 for capability gains in your workloads, audit your current model access relative to emerging regulatory boundaries, and stress-test whether your infrastructure choices (open models, closed APIs, hybrid) remain optimal under the new constraints. Waiting until September means reacting rather than positioning.
 
 ## Transcript
 
 June may go down as one of the most important months in post-ChatGPT AI: token scarcity became real, Fable 5 revealed a new frontier of model capability, government intervention reshaped access, and enterprises began rethinking everything from open models to AI infrastructure. NLW looks back at a month that set the agenda for the rest of 2026 and explains why July and August may be a rare window to get ahead.
 Brought to you by:
-KPMG – Research from KPMG and the University of Texas at Austin shows the highest-impact AI users treat AI like a reasoning partner — and those skills can be taught at scale. Learn more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠kpmg.com/us/Sophisticated⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+KPMG – Research from KPMG and the University of Texas at Austin shows the highest-impact AI users treat AI like a reasoning partner — and those skills can be taught at scale. Learn more at ⁠https://kpmg.com/us/Sophisticated⁠
 Hyperagent -Hire a fleet of always-on agents. New users get $1,000 in inference. ⁠⁠hyperagent.com/aidailybrief⁠⁠
 Rackspace Technology- One accountable partner to build, operate and run your full enterprise AI stack ⁠⁠https://www.rackspace.com/⁠⁠
 Section - Section turns AI investment into workforce transformation and ROI - ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.sectionai.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠

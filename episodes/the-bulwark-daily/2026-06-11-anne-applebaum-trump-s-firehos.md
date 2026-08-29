@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 3360
 source: pocketcasts-history-browser
 played_label: June 11
-history_order: 50
+history_order: 60
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: [geopolitics, primary-source-video]
+proposed_tags: [geopolitics, primary-source-video, us-decline]
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Anne Applebaum discusses how Trump employs Putin's propaganda tactic of flooding the public with contradictory stories—a "firehose of lies" designed to confuse and exhaust people into disengagement, particularly regarding shifting Iran war positions. The conversation covers multiple global crises: Russia's inability to win in Ukraine, Trump's immigration policies framed as performative cruelty, ongoing political repression in Venezuela, and the administration's reliance on online platforms to construct an alternate reality rather than engaging through traditional channels. Applebaum also notes Kari Lake's new roles, including her nomination as ambassador to Jamaica and her involvement with Voice of America.
+Anne Applebaum discusses Trump's shifting Iran war positions as a potential echo of Putin's propaganda strategy—deliberately flooding the public with contradictory narratives to cause confusion and disengagement. The administration appears focused on creating an alternate reality through online engagement rather than traditional media. The episode also covers Russia's stalled military progress in Ukraine with no clear strategy forward, Trump's immigration policy framed as performative cruelty, ongoing political oppression in Venezuela, and Kari Lake's appointment to run Voice of America and subsequent nomination as ambassador to Jamaica.
 
-For a listener, the takeaway is to recognize when contradictory narratives are being deployed deliberately to suppress attention rather than inform debate—this pattern should prompt critical scrutiny of policy rather than resignation. Specific areas worth monitoring include the actual trajectory of the Ukraine war (where Russia faces constraints), the real human impact of immigration enforcement beyond its political messaging, and how Venezuela's opposition continues being suppressed despite international attention. Additionally, tracking institutional changes like Applebaum's reporting on Voice of America under new leadership may reveal broader shifts in how official information is controlled.
+To stay informed on these topics, read Applebaum's latest Ukraine reporting and the Phillips O'Brien analysis on Iran war crimes allegations. Check reporting on Venezuela's political oppression situation and Applebaum's coverage of Lake's Voice of America role. For intellectual breaks, consider the summer novel recommendations: Applebaum recommends "The Time of Cherries" and Tim Miller recommends "My Tender Matador."
 
 ## Transcript
 

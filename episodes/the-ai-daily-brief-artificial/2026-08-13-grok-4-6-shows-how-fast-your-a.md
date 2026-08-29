@@ -9,13 +9,13 @@ play_count: 1
 duration_seconds: 1740
 source: pocketcasts-history-browser
 played_label: August 13
-history_order: 2
+history_order: 13
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: failed
-tagging_model: skipped
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+The episode explores the rapid expansion of AI options available to users and businesses. Grok 4.6 exemplifies this trend—it delivers strong performance at significantly lower costs than leading competitors. The discussion centers on how intensifying competition from xAI, Chinese AI labs, and open-weight model developers has fragmented the market, giving organizations genuine choices across the speed-capability-cost spectrum. Beyond Grok's release, the episode covers massive funding rounds flowing into AI infrastructure, surging demand for infrastructure services, and recent changes to White House model-testing frameworks. Research from KPMG is cited showing that top-performing AI users treat the technology as a reasoning partner rather than a tool, and that this skill set can be scaled across organizations.
+
+For your decision-making: evaluate Grok 4.6 and competing models (xAI, open-source alternatives, Chinese labs) against your specific requirements for latency, capability, and budget—the market now supports choosing the right fit rather than defaulting to incumbents. If you're building AI-driven products or deploying agents at scale, monitor infrastructure demand trends and the White House testing framework changes, as these signal regulatory and operational shifts. If your organization is adopting AI broadly, prioritize training teams to use AI as a reasoning partner—KPMG's research suggests this mindset drives measurable impact.
 
 ## Transcript
 

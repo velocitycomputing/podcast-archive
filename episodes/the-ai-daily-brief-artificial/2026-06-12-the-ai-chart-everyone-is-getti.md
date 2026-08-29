@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 1980
 source: pocketcasts-history-browser
 played_label: June 12
-history_order: 64
+history_order: 74
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-A viral Wall Street chart misinterpreted as signaling collapsing AI demand actually reflects a shift from a "token subsidy era" (where companies received free AI usage) to a "token scarcity era" requiring optimized efficiency, per host NLW. Key headline items include SpaceX's IPO, Bezos' Prometheus funding round, Meta's Manus project split, chip supply chain constraints, and Goldman Sachs' trillion-dollar AI infrastructure forecast. The KPMG research cited notes that leading organizations treat AI as a "reasoning partner" and scale skill development in this approach, moving beyond basic tool usage.
+A viral Wall Street chart sparked AI bubble panic, but host NLW reframes the data to show the real story: companies are shifting from a "token subsidy era" to a "token scarcity era," meaning they're learning to route AI usage more efficiently rather than facing collapsed demand. The episode covers related market moves including SpaceX's IPO, Bezos' Prometheus raise, Meta's Manus split, chip supply chain constraints, and Goldman Sachs forecasting a trillion-dollar AI infrastructure opportunity. Research from KPMG adds context: the highest-impact AI users treat AI as a reasoning partner, and these skills can be taught at scale.
 
-Actionable insight: Prioritize developing organizational "reasoning partner" capabilities for AI integration, as demonstrated by KPMG's research. Explore KPMG's "Sophisticated" program (kpmg.com/us/Sophisticated) to implement scalable skill training for teams, focusing on collaborative AI reasoning rather than isolated tool deployment. This directly addresses the shift from subsidy to scarcity by building internal expertise to maximize AI efficiency.
+The actionable takeaway is to reframe your AI strategy around efficiency and reasoning partnerships rather than raw token consumption. Instead of interpreting falling usage signals as bubble indicators, view them as maturation—companies optimizing how they deploy AI. If you're adopting AI, focus on training teams to use it as a reasoning partner (per KPMG's research), and track the infrastructure bets (Goldman's trillion-dollar forecast, SpaceX/Bezos/Meta moves) as signals of where capital is concentrating and where supply constraints may emerge.
 
 ## Transcript
 

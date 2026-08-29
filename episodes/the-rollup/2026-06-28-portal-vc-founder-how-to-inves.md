@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 2160
 source: pocketcasts-history-browser
 played_label: June 28
-history_order: 19
+history_order: 29
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Evan Fisher, founder of Portal Ventures ($120M pre-seed blockchain fund), discussed three key insights: blockchain operates more like legal technology than fintech, the durable competitive advantages in crypto stem from network effects, liquidity, and trust rather than superior code, and momentum investors who conflate strong metrics with sustainable value will face significant losses in the current cycle.
+Evan Fisher, founder of Portal Ventures ($120M pre-seed blockchain fund), argues that blockchain should be understood as legal technology rather than financial technology. He identifies the actual defensible moats in crypto as network effects, liquidity, and institutional trust—not superior code—and warns that momentum investors who conflate strong metrics with durable value creation will be the cycle's biggest losers in a post-AI world.
 
-For investors, the actionable takeaway is to prioritize blockchain investments with defensible network effects, deep liquidity, and established trust over projects that rely solely on technical innovation or impressive growth metrics. Avoid chasing momentum-driven opportunities where metrics mask weak fundamentals, as this cycle will likely punish overvalued projects lacking genuine moats.
+For investors evaluating blockchain and AI-adjacent opportunities: prioritize assets and protocols with genuine network effects, established liquidity, and institutional trust over those with impressive on-chain metrics or technical sophistication alone. Avoid the trap of treating short-term performance metrics as signals of sustainable competitive advantage; focus instead on structural moats that persist through technological disruption and market cycles.
 
 ## Transcript
 

@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 5160
 source: pocketcasts-history-browser
 played_label: July 15
-history_order: 16
+history_order: 22
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: [primary-source-video, "system:immune", "system:cognitive", "system:metabolic", "system:musculoskeletal", "intervention:procedure", "intervention:supplement", "intervention:lifestyle", "goal:risk-reduction", "goal:symptom-relief"]
+proposed_tags: [primary-source-video, "system:cognitive", "system:immune", "system:metabolic", "intervention:procedure", "intervention:supplement", "goal:symptom-relief"]
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Dr. Scott Sherr, an internal medicine physician specializing in hyperbaric oxygen therapy (HBOT), discussed his career arc from finding a hyperbaric chamber in a medical school trauma facility basement to developing an integrative HBOT practice. The episode covered HBOT's mechanisms—increased oxygen delivery, mitochondrial signaling, and neuroplasticity—and its applications beyond decompression sickness to include autoimmune diseases (reducing inflammation and supporting immune function), chronic neurological conditions, and athletic injury recovery. Sherr also explained his approach to pre-treatment optimization considering nutrition, sleep, and mitochondrial function, and his integration of HBOT with psychedelic therapy and methylene blue supplementation.
+Dr. Scott Sherr, an internal medicine physician and director of Integrative Hyperbaric Medicine at Hyperbaric Medical Solutions, discussed how hyperbaric oxygen therapy (HBOT) treats both acute and chronic conditions through mechanisms including improved oxygen delivery, mitochondrial signaling, and neuroplasticity. The episode covered HBOT's emerging applications for autoimmune diseases (reducing inflammation and supporting immune function), athletic recovery, and chronic neurological conditions, along with his observation that HBOT induces measurable epigenetic changes. Sherr also explained his integrative framework that combines HBOT with nutritional optimization, sleep support, and in some cases psychedelic therapy, plus the use of methylene blue products to enhance cognitive function and energy production.
 
-If you're interested in HBOT, Sherr's practice at Hyperbaric Medical Solutions offers telemedicine consulting for personalized treatment protocols tailored to individual needs—not one-size-fits-all dosing. His work suggests value in getting a functional medicine assessment before starting HBOT to optimize nutritional status and sleep, and considering combination therapies (methylene blue or psychedelic therapy) as part of a broader health protocol. You can access more information through Hyperbaric Medical Solutions and listen to related STEM-Talk episodes (191 on methylene blue, 196 on hyperbaric research) for deeper dives into specific mechanisms.
+For individuals managing autoimmune or chronic neurological conditions, or athletes seeking injury recovery, HBOT warrants investigation through a physician experienced in personalized dosing and patient optimization—Hyperbaric Medical Solutions offers telemedicine consulting to assess candidacy and tailor treatment protocols. Those interested in cognitive enhancement should explore methylene blue integration (detailed further in a separate STEM-Talk episode with Francisco Gonzalez-Lima). Potential candidates should confirm they are not in populations for whom HBOT is contraindicated and should work with practitioners who assess mitochondrial function, nutritional status, and sleep patterns before initiating treatment to maximize durability of benefits.
 
 ## Transcript
 

@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 1620
 source: pocketcasts-history-browser
 played_label: June 19
-history_order: 17
+history_order: 51
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Gen Z is rejecting traditional dating and withdrawing from romantic relationships, as stated in the episode description, though no specific claims, data points, or named experts beyond the production team (Beth Morrissey, Thor Neureiter, Shannon Mahoney, Cristian Ayala, Melissa Hirsch) are provided. The episode, hosted by Sean Illing, centers on explaining this trend without detailing the reasoning, evidence, or specific societal factors discussed within the actual audio content.
+I can't provide the requested summary because the supplied material is insufficient. You've provided only the episode title, a one-sentence description (Gen Z is backing away from dating), and production credits—there's no actual episode content, discussion points, or explanation of the reasons behind the trend.
 
-No actionable health implications, research leads, or specific decisions can be derived from the supplied material, as it contains no substantive discussion of causes, effects, or recommendations. The description only names the episode's premise and production credits, offering no concrete information to guide user behavior, further research, or follow-up questions about Gen Z's relationship patterns.
+To write concrete, two-paragraph summary with specific points discussed and actionable takeaways, I'd need either the full transcript (available at vox.com/today-explained-podcast) or detailed show notes explaining what was actually covered in the episode.
 
 ## Transcript
 

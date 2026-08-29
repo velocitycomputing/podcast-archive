@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 2460
 source: pocketcasts-history-browser
 played_label: June 10
-history_order: 51
+history_order: 61
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Jake Brukhman discusses his thesis—published before ChatGPT—that decentralized AI will outcompete centralized approaches. Key points include: swarms of decentralized agents recently outpaced Google's quantum circuit research, decentralized training on consumer hardware is now provably cheaper than data centers, and models with 100B parameters can run on consumer devices. He argues that winning 10% of the AI training market automatically secures revenue from the projected $1 trillion inference market by 2031, since training dominance translates to inference dominance. The model leverages crypto economics, where blockchain subsidizes AI inference, making it economically competitive while enabling a co-ownership structure where users donate trace data to collectively own trained models.
+Jake Brukman presented his thesis on decentralized AI's explosive growth potential, originally published in September 2022 before ChatGPT's launch. The core arguments: a decentralized agent swarm outpaced Google's quantum research in a week, consumer hardware can now train 100B-parameter models more cheaply than data centers, and controlling just 10% of AI training automatically locks in revenue from an estimated $1 trillion inference market by 2031. He explained how crypto mechanisms subsidize AI inference, making the economics work where centralized training alone cannot, and how winning the training layer automatically positions participants to capture inference revenue—the true long-term value driver.
 
-For practitioners and investors, the actionable insight is that distributed AI infrastructure on commodity hardware is no longer theoretical—it's economically superior today. To capitalize, consider: participating in decentralized training networks that share model ownership and inference revenue, building applications on consumer-device AI rather than cloud APIs, and understanding that controlling training workloads now creates future inference revenue streams. With 2.4B monthly AI users globally, the window to build decentralized AI infrastructure that captures training dominance is narrowing, making early participation in networks that combine trace collection with model co-ownership potentially valuable.
+For immediate consideration: if you're evaluating AI infrastructure or investment, the inflection point is that decentralized training has become economically superior to centralized data centers. The actionable insight is the revenue model: participants who contribute training capacity (or trace data through co-ownership models) can stake claims on inference revenue, not just training fees. With 2.4 billion monthly AI users creating a massive inference market, the window to build or join decentralized training infrastructure before centralization locks in is open now—this is fundamentally different from earlier Web3 infrastructure plays because the economics are sound, not speculative.
 
 ## Transcript
 

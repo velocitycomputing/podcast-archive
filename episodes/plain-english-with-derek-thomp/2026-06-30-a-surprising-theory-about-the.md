@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 3180
 source: pocketcasts-history-browser
 played_label: June 30
-history_order: 28
+history_order: 38
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: [geopolitics, primary-source-video]
+proposed_tags: [geopolitics]
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,11 @@ routed_to: null
 
 ## Summary
 
-The episode examines how drones are fundamentally transforming modern warfare after eight decades of air power dominance from WWII through today's precision-strike era. Guest Erik Lin-Greenberg, MIT professor and author of "The Remote Revolution: Drones and Modern Statecraft," explores how cheap, widely available drone technology is reshaping the battlefield in Ukraine and the Middle East—democratizing military capabilities by giving smaller nations and non-state groups access to capabilities once exclusive to major world powers.
+**What was discussed:**
+For eight decades, air power shaped modern warfare from WWII bombing campaigns through today's precision strikes. Derek Thompson and MIT professor Erik Lin-Greenberg explore how drones are fundamentally disrupting this pattern. Unlike traditional air power controlled by major militaries, cheap drones are now changing both the mechanics and the participants in warfare—democratizing military capability so that smaller nations and non-state groups can conduct strikes that were once exclusive to superpowers. The episode examines how Ukraine, the Middle East, and other conflict zones are already demonstrating this shift, with drones replacing expensive aircraft as the dominant technology reshaping the battlefield.
 
-The material provided contains only the episode description and does not include substantive discussion of specific findings, policy recommendations, or actionable insights from the conversation itself. To extract concrete takeaways, you would need to listen to the full episode or access the complete transcript, which is available through the Pocket Casts link or by contacting PlainEnglish@Spotify.com.
+**What's actionable for the user:**
+The episode's framing suggests you should understand drone proliferation as a structural shift in geopolitical power rather than a incremental weapons upgrade. If you're tracking defense, statecraft, or international conflict, this signals that traditional military hierarchy is flattening—smaller actors now have force projection capabilities. The referenced book, *The Remote Revolution: Drones and Modern Statecraft*, offers a deeper exploration if you need to go beyond the episode's scope. For practical awareness: follow how drone adoption in current conflicts (Ukraine, Middle East) translates into doctrine and policy shifts, as this technology is actively reshaping how nations plan defense and deterrence.
 
 ## Transcript
 

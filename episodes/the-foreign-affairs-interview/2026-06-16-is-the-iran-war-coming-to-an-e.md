@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 3660
 source: pocketcasts-history-browser
 played_label: June 16
-history_order: 55
+history_order: 65
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: [geopolitics, primary-source-video]
+proposed_tags: []
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-A framework agreement between Washington and Tehran is imminent, aiming to reopen the Strait of Hormuz and lift the blockade of Iranian ports, though unresolved issues like Iran's nuclear program remain. Narges Bajoghli and Vali Nasr, authors of a Foreign Affairs essay, argue that a new generation of Iranian leaders is fundamentally reshaping Iran's domestic approach, U.S. relations, and regional strategy, with the recent three-and-a-half-month conflict accelerating these transformations. The deal's signing is scheduled for later this week, but policymakers are only beginning to assess how the war has altered Iran and the broader Middle East.
+Washington and Tehran are preparing to sign a framework agreement that would end the current conflict by reopening the Strait of Hormuz and lifting the blockade on Iranian ports. However, the underlying issues that triggered the war—particularly Iran's nuclear program—remain unresolved. More significantly, scholars Narges Bajoghli and Vali Nasr argue that the conflict has fundamentally transformed Iran's internal political landscape, with a new generation of leaders emerging with different approaches to their own society, U.S. relations, and regional policy. The episode, recorded in mid-June, examines how this 3.5-month war will shape not just the Middle East's future trajectory but broader geopolitical dynamics globally.
 
-Users should research Bajoghli and Nasr's Foreign Affairs essay for deeper analysis of Iran's evolving leadership and its implications for U.S.-Iran relations. Monitor how the unresolved nuclear issue impacts the framework agreement's implementation and whether the new Iranian leadership's regional strategy shifts beyond the immediate port blockade resolution. Follow up on whether the deal's success hinges on addressing nuclear concerns or if the U.S. will prioritize immediate economic relief over long-term nuclear negotiations.
+For policy followers and international affairs observers, the actionable takeaway is to monitor whether a framework agreement actually materializes and, if so, to track how unresolved nuclear and regional issues resurface without resolution mechanisms in place. More importantly, watch for signals of how this new Iranian leadership generation—emboldened by the conflict—will pursue a distinct regional strategy, as their approach could reshape Middle Eastern alignments and U.S.-Iran dynamics for years. The episode suggests that observers should view any ceasefire as a temporary pause rather than a fundamental settlement, requiring sustained attention to Iran's internal political evolution.
 
 ## Transcript
 

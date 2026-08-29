@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 4620
 source: pocketcasts-history-browser
 played_label: April 29
-history_order: 46
+history_order: 56
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Jonah Goldberg interviews Atlantic columnist Tyler Austin Harper to gain a liberal perspective on contemporary left-wing thought and figures. They discuss Hasan Piker, the contemporary uses of Marxism in American politics, and broader intellectual themes including human nature, the appeal of the Butlerian Jihad concept, evolution, cultural taboos, and the failures of centrist politics. The conversation explores the intellectual underpinnings and appeal of left-wing ideology as understood from within that tradition.
+Jonah Goldberg interviews Atlantic columnist Tyler Austin Harper to gain a liberal perspective on contemporary political and intellectual debates. The episode covers the influence of Hasan Piker, the uses of Marxism in modern discourse, human nature, evolution, cultural taboos, the Butlerian Jihad, and critiques of centrism—offering Harper's interpretation of progressive thought and its appeal to modern audiences.
 
-For listeners seeking to better understand opposing political viewpoints, this episode offers concrete exposure to how intelligent liberals analyze their own side's ideas and figures. The show notes reference Harper's book "Hayek's Bastards: Race, Gold, IQ, and the Capitalism of the Far Right" and Jonah's "The United States of Paranoia," suggesting actionable follow-up reading if you want to deepen understanding of how different sides diagnose contemporary politics' problems—one analyzing the right, one the left—from their respective vantage points.
+For deeper engagement with these ideas, consult the show notes' references to Harper's Atlantic columns, Goldberg's books including "Hayek's Bastards: Race, Gold, IQ, and the Capitalism of the Far Right" and "The United States of Paranoia," and related podcasts like "Time to Say Goodbye Pod" and "The Rest Is History." This episode functions as a cross-ideological bridge: those skeptical of Marxist or progressive thought can access these ideas through a sympathetic interpreter, while those curious about conservative critiques can hear how progressive frameworks appear to thoughtful observers on the right.
 
 ## Transcript
 

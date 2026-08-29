@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 720
 source: pocketcasts-history-browser
 played_label: July 16
-history_order: 16
+history_order: 19
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: [primary-source-video, geopolitics]
+proposed_tags: []
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Steve Schmidt examines Todd Blanche and Jay Clayton's congressional hearings, arguing both are unfit for their respective positions as Attorney General and Director of National Intelligence. The episode focuses on Trump's pattern of executive abuse of power and frames these appointments and related governance failures as a fundamental threat to the American republic's survival.
+Steve Schmidt examines the congressional hearings for Todd Blanche (Attorney General nominee) and Jay Clayton (Director of National Intelligence nominee), arguing both are unfit for their positions. The episode focuses on what Schmidt characterizes as Trump's relentless abuse of power and explains how these appointments represent a threat to the American republic's institutional stability.
 
-The material offers limited actionable specifics beyond implied civic engagement: staying informed through Schmidt's ongoing commentary via his Substack and social media channels; understanding which nominees are advancing through the confirmation process; and considering how to engage in the democratic process regarding appointments to these critical national security and justice positions.
+The material does not specify concrete actionable steps. Listeners interested in Schmidt's full analysis can access the complete episode through Pocket Casts, while those wanting to follow his ongoing political commentary can subscribe to his Substack newsletter or follow his social media accounts (Bluesky, Instagram, TikTok, X/Twitter, or Facebook) listed in the show notes.
 
 ## Transcript
 

@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 2340
 source: pocketcasts-history-browser
 played_label: June 10
-history_order: 69
+history_order: 79
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Anthropic's Fable 5 represents a significant leap in frontier AI, shifting the user paradigm from short, task-specific prompting to delegating longer-term, complex work to AI agents. This shift is highlighted as the core advancement, alongside mentions of backlash over AI guardrails, enterprise retention concerns, and OpenAI hinting at a competing solution. The KPMG research cited in the show notes states that high-impact AI users treat AI as a "reasoning partner," not just a tool, which is presented as a key finding driving the paradigm change.
+Anthropic released Fable 5, marking a significant advancement in frontier AI capabilities. The episode highlights a fundamental shift in how users should think about AI: instead of brief prompts for small tasks, Fable 5 enables delegating complex work to agents that can operate autonomously for hours or days. Key tensions discussed include backlash over Fable's guardrails implementation, emerging concerns about enterprise customer retention across vendors, and hints that OpenAI is developing a competitive response.
 
-Businesses should prioritize training teams to interact with AI as a reasoning partner (per KPMG's finding), moving beyond simple task automation. Explore the sponsored tools mentioned (Section, Bolt, Outsystems, Robots & Pencils) as practical implementations for building agent-based workflows that leverage this delegation model, rather than focusing solely on point solutions. Evaluate enterprise AI strategies specifically for retention risks tied to this new interaction paradigm.
+For your work, the actionable shift is to evaluate Fable 5 for sustained, multi-step delegation tasks rather than interactive back-and-forth prompting—particularly in the ai-clients orchestration and automation work you're managing. Given enterprise retention concerns surfacing, monitor OpenAI's announced response to understand the competitive capability gap and adjust your model selection strategy accordingly. Test whether the guardrails changes affect the types of tasks you currently route through Claude or other providers.
 
 ## Transcript
 

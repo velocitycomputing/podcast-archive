@@ -9,13 +9,13 @@ play_count: 1
 duration_seconds: 2880
 source: pocketcasts-history-browser
 played_label: June 18
-history_order: 42
+history_order: 52
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: failed
-tagging_model: skipped
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+Cory Doctorow joins Charlie Warzel on Galaxy Brain to critique the AI boom's sustainability, arguing that hype and endless-growth narratives are fundamentally unsustainable. He expands his viral "enshittification" thesis—the idea that a technology's real significance lies not in what it does, but in who it serves and what it does *to* people—applying it as a framework for understanding power dynamics in AI tools. Rather than focusing on AI capabilities alone, Doctorow emphasizes examining whether we are using AI tools or being used *by* them, centering questions of control and benefit on the user's ability to retain agency.
+
+The actionable takeaway is to apply Doctorow's framework when evaluating any AI tool or service: ask who profits, who loses, and where power flows. Before adopting an AI solution, examine whether you're gaining a tool under your control or ceding agency to a system optimized for someone else's benefit. His critique suggests viewing skepticism toward growth-at-all-costs narratives and power asymmetries—not technical capability—as the lens for thinking clearly about AI before its hype cycle obscures the real stakes.
 
 ## Transcript
 

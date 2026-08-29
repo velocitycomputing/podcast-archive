@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 4320
 source: pocketcasts-history-browser
 played_label: June 9
-history_order: 61
+history_order: 71
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Whale Rock Capital Management, managed by Alex Sacerdote, oversees $17 billion across strategies with a 44% annual compound return over three years. Sacerdote employs a consistent investment framework focused on technology S-curves, durable competitive advantages, and underappreciated earnings power, using Anthropic as his highest-conviction position to dissect the entire AI stack—from chips and infrastructure to foundational models and applications. The discussion covers identifying leaders in AI (like Anthropic vs. OpenAI), the threat AI poses to enterprise software, network effects in the agent era, the hardware renaissance, key risks to the AI bull case, and how WhaleRock leverages AI for internal research and decision-making.
+Alex Sacerdote, founder of Whale Rock Capital (a $17B technology-focused hedge fund with ~44% annual returns), shares his investment framework for navigating technology cycles through three lenses: technology S-curves, durable competitive advantages, and underappreciated earnings power. The episode examines his highest conviction position, Anthropic, and uses it as a lens to analyze the entire AI stack—from chips and infrastructure through foundational models to application layers. Key discussion topics include timing tech investments at inflection points, identifying market leaders versus competition, competitive moats between AI companies like Anthropic and OpenAI, AI's disruptive threat to enterprise software categories, network effects emerging in the agent era, the ongoing hardware renaissance, and critical risks to the AI bull case.
 
-Investors should prioritize analyzing companies for durable competitive advantages and underappreciated earnings power beyond surface-level growth metrics, specifically mapping the AI stack to identify where value is concentrated (e.g., infrastructure like chips versus applications). Consider the hardware infrastructure layer (chips, data centers) as a critical, often overlooked investment area within AI, and evaluate AI's impact on enterprise software disruption through the lens of S-curves to time investments. Follow up on Sacerdote’s framework by researching how firms like Anthropic build moats and assessing whether current AI valuations reflect sustainable earnings power or speculative hype.
+For someone investing in or building AI companies, Sacerdote's S-curve framework offers a practical diagnostic: map where your technology sits within its adoption curve and whether you have defensible advantages that persist as the market scales. If you're evaluating AI startups or infrastructure plays, his methodology for identifying "leader from the pack" at tech inflection points—combined with his analysis of which software categories face existential threats from AI—can help prioritize where value will consolidate. The timestamp markers on private market investing at scale and application-layer opportunities suggest concrete patterns for where enterprise value shifts as AI matures from infrastructure toward integrated products.
 
 ## Transcript
 

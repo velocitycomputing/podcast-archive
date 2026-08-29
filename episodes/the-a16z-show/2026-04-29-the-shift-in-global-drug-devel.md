@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 3420
 source: pocketcasts-history-browser
 played_label: April 29
-history_order: 45
+history_order: 55
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: claude-haiku-4-5
-tagging_model: claude-haiku-4-5
-proposed_tags: [geopolitics, primary-source-video]
+transcript_source: public-episode-show-notes
+summary_model: failed
+tagging_model: skipped
+proposed_tags: []
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,7 @@ routed_to: null
 
 ## Summary
 
-The episode examines China's dramatic ascent as a major player in global clinical trial output, driven by regulatory reforms that have accelerated the country's drug development capabilities. Theo Jaffee, Gabriel Dickinson, and Cremieux explore how these regulatory changes have fueled a surge in novel drug development in China and what competitive pressures this creates for the United States in biomedical innovation.
-
-For those working in biotech, pharma policy, or biomedical innovation: this discussion highlights that China has fundamentally reshaped its regulatory environment to compete globally in drug development. Key actions include monitoring how US regulatory bodies might need to adapt approval processes and timelines to remain competitive, and tracking which regulatory reforms in China have proven most effective if your organization operates in multiple markets or sources talent and research internationally.
+(summary not available yet)
 
 ## Transcript
 

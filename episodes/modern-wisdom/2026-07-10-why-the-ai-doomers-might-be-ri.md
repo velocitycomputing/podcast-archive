@@ -9,13 +9,13 @@ play_count: 1
 duration_seconds: 4860
 source: pocketcasts-history-browser
 played_label: July 10
-history_order: 21
+history_order: 31
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: failed
-tagging_model: skipped
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+Robert Wright discusses AI as potentially the next stage of human evolution rather than merely another tool, examining what recent advances reveal about AI's trajectory and whether our evolutionary framework helps explain it. He explains why most people underestimate the magnitude of change coming, how AI integrates into the broader context of human development and civilization, what specific concerns from the AI doomer camp hold legitimate weight, and whether we're approaching singularity.
+
+For the listener: adopt Wright's evolutionary lens to reframe your thinking about AI beyond "tool versus threat" into something more foundational—a genuine shift in how human development unfolds. Take the doomer camp's concerns seriously enough to understand them specifically (not dismiss them) and assess their plausibility against AI's demonstrated capabilities and trajectory. This framing helps you evaluate both AI opportunities and risks with appropriate urgency rather than dismissing the significance as hype.
 
 ## Transcript
 

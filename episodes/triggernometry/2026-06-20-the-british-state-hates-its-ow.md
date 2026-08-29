@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 5700
 source: pocketcasts-history-browser
 played_label: June 20
-history_order: 41
+history_order: 45
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-The episode features historian Dr. David Starkey making the claim that the British state actively opposes its own citizens, though the description provides no specific topics, data points, or detailed claims beyond this central assertion. Named entities include the hosts Konstantin Kisin and Francis Foster, the guest Dr. David Starkey, and sponsors Hexclad, CyberGhost VPN, and AG1, but no substantive discussion of policies, historical examples, or supporting evidence is described in the provided material.
+I don't have the episode content needed to summarize. The material you've provided is only the episode metadata, sponsorship information, and social links — not the show notes, transcript, or discussion content itself. Without the actual episode content, I cannot write the two paragraphs you've requested.
 
-No actionable health implications, research leads, or specific decisions can be derived from the supplied description, as it contains only promotional content for sponsors and the podcast's general format, lacking any actual episode discussion, data, or recommendations. The user should seek the full episode transcript or audio to identify concrete claims and potential follow-up questions related to Starkey's argument.
+If you have access to show notes or a transcript for this episode, please share that material and I'll summarize it as requested.
 
 ## Transcript
 

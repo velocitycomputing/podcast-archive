@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 480
 source: pocketcasts-history-browser
 played_label: June 14
-history_order: 57
+history_order: 67
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Fable 5 dominated AI news as both the most powerful new model release and the center of a major access and governance controversy, while SpaceX's IPO and the rise of token panic were also key topics; OpenAI's upcoming developments were highlighted as what to watch next, with the episode serving as a fast-paced summary for busy professionals. The AI Daily Brief website (aidailybrief.ai) and podcast (pod.link/1680633614) were promoted as resources for deeper coverage, alongside the newsletter (aidailybrief.beehiiv.com).
+This week's AI landscape was dominated by Fable 5's dual role as both a breakthrough capability release and the center of an access and governance controversy, alongside developments including SpaceX's IPO filing, growing concerns around token exhaustion and rate limits across the industry, and anticipation of OpenAI's next moves.
 
-Users should immediately check the AI Daily Brief website and subscribe to its newsletter for detailed analysis of the Fable 5 governance controversy and SpaceX IPO implications, as the episode implies these require deeper context than the 5-minute summary provides; consider researching token panic trends in AI infrastructure funding and monitor OpenAI's next announcements for potential market shifts, given the episode's emphasis on these as critical near-term developments.
+For your work with AI clients: monitor how the Fable 5 governance situation resolves—access restrictions or changes to availability will directly affect model selection and routing decisions for your deployment patterns. Track token-panic signals (rate limits, quota pressure, provider downshifting) across your active provider ecosystem and adjust fleet concurrency/cooldown thresholds proactively rather than reactively when a provider locks you out.
 
 ## Transcript
 

@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 4080
 source: pocketcasts-history-browser
 played_label: June 3
-history_order: 52
+history_order: 62
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Dara Khosrowshahi, Uber's CEO since 2017, discussed his strategic vision centered on autonomous vehicles and building a super-app. Drawing from his thirteen years at Expedia and childhood experience fleeing Iran, he explained how Uber positions itself as a demand aggregator in the physical AI era—partnering with multiple AV suppliers rather than competing with individual players like Waymo. The conversation covered Uber's $10 billion in free cash flow, international expansion (particularly Uber Eats), adding hotels to the platform, and why Dara expects many winners in AVs rather than a single dominant player. He shared lessons from mentors Barry Diller, the Allen & Co investment team, and Reed Hastings on scaling, marketing, and long-term capital allocation.
+Dara Khosrowshahi discusses his 2017 decision to become Uber CEO (influenced by Daniel Ek's advice on impact), how his family's escape from Iran shaped his stress management, and Uber's core strategic bets. The conversation centers on autonomous vehicles—where Uber acts as a demand aggregator in "physical AI" by partnering with multiple AV developers rather than building vehicles itself—with Khosrowshahi arguing multiple AV winners will emerge rather than one dominant player. He also details Uber's push toward a super-app consolidating rideshare, Eats, hotels, and other services, the company's $10 billion annual free cash flow, and strategic lessons from mentors like Barry Diller and Reed Hastings on scaling platforms and capital allocation.
 
-To apply this: if you're building a logistics or mobility business, consider Uber's demand-aggregator model—controlling customer access rather than the supply infrastructure itself. For capital-allocation decisions with significant free cash flow, examine Dara's philosophy around buybacks versus growth investing drawn from his mentors. If entering the AV space, recognize that enabling multiple supply partners (rather than vertical integration) may be more defensible. For founders scaling consumer platforms internationally, study how Uber adapted Uber Eats across regions and is now layering hotels—the super-app strategy requires identifying which services share customer intent clusters.
+For investors or operators, the key actionable insight is Uber's demand-side positioning: rather than betting on vehicle technology, the company aggregates demand across multiple AV suppliers and service categories, capturing platform economics on top. The super-app strategy—bundling hotels, delivery, and mobility—mirrors Diller's retail logic and creates multiple stickiness vectors for users. The $10 billion cash flow allows capital discipline between buybacks and growth—watch how this balance shifts as AVs near commercialization, as meaningful AV scaling would likely demand significant capex or partnership investment to capture this nascent supply chain advantage.
 
 ## Transcript
 

@@ -9,12 +9,12 @@ play_count: 1
 duration_seconds: 2040
 source: pocketcasts-history-browser
 played_label: June 26
-history_order: 39
+history_order: 43
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: "qwen3:30b"
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Kevin Weil, former OpenAI CPO and VP of Science, argues that modern AI models are now solving problems beyond existing human knowledge, particularly through advances in reasoning, coding, and autonomous research. He connects this to accelerating scientific discovery across fields like mathematics and medicine, drawing on his experience scaling products at Twitter, Instagram, and Facebook. Weil emphasizes that AI's current trajectory could create entirely new categories of companies and reshape startup building, requiring founders to design products natively for rapidly improving AI capabilities rather than as incremental tools.
+Kevin Weil, former Chief Product Officer and Vice President of Science at OpenAI, discusses how modern AI is beginning to solve problems beyond the frontier of existing human knowledge. Drawing from his experience scaling products at Twitter, Instagram, and Facebook, Weil explores how advances in AI reasoning, coding, and autonomous research are accelerating scientific discovery across mathematics, medicine, and other fields. The conversation covers the emergence of robotic labs, AI agents, and the product design principles needed to harness these capabilities—examining both the technical breakthroughs and the organizational challenges of building AI systems that can conduct genuine research.
 
-Founders should prioritize building AI-native products from the outset, leveraging autonomous research agents to tackle complex scientific problems, rather than treating AI as a mere feature. They must consider how to integrate AI's reasoning and coding advances into core product design to accelerate discovery in fields like drug development or mathematical proof, moving beyond traditional startup approaches to harness AI's frontier-solving potential.
+Founders and product leaders should study Weil's insights on how the current wave of AI will create entirely new company categories and reshape existing ones. The episode provides concrete lessons on building products in a world of unprecedented AI capability improvement, drawing parallels to how previous scaling challenges were solved at billion-user platforms. Listeners should follow Weil on X (@kevinweil) and access the full episode on Spotify or Apple Podcasts to capture his specific framework for thinking about startup opportunities at this frontier—particularly for those building in scientific discovery, autonomous research, or related domains.
 
 ## Transcript
 

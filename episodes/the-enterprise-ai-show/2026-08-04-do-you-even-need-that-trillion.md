@@ -9,13 +9,13 @@ play_count: 1
 duration_seconds: 720
 source: pocketcasts-history-browser
 played_label: August 4
-history_order: 6
+history_order: 16
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: failed
-tagging_model: skipped
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+Brian and Aaron explore whether trillion-parameter models are necessary, examining the economics and practical implications of model size in enterprise AI. The discussion covers model harnessing and intelligent routing strategies, revealing that breakthrough performance improvements plateaued around GPT-4. The episode questions the current industry trend of spending millions to achieve state-of-the-art performance for only days, asking whether the pendulum will eventually swing away from the "bigger is always better" mentality.
+
+For enterprise applications, the key actionable insight is to evaluate whether your use case actually requires massive models—smaller, tailored solutions may deliver better economics and performance. Instead of defaulting to trillion-parameter models, consider implementing intelligent model routing and harnessing strategies that match model size to specific tasks, potentially reducing costs while maintaining effectiveness as the industry reassesses whether sheer model scale justifies its infrastructure burden.
 
 ## Transcript
 
@@ -40,7 +42,7 @@ Past: The “wow” moments in versions really stopped around GPT4… (maybe?)
 Present: Race to the top/bottom, millions spent to gain SOTA for a few days
 Future: Will the pendulum swing back? Will bigger/faster always rule?
 FEEDBACK?
-Email: show @ the enterprise ai show dot come
+Email: show @ the enterprise ai show dot com
 Bluesky: @TheEntAIShow.bsky.social
 Twitter/X: @TheEntAIShow
 Instagram: @TheEntAIShow

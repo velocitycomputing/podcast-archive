@@ -9,13 +9,13 @@ play_count: 1
 duration_seconds: 780
 source: pocketcasts-history-browser
 played_label: August 8
-history_order: 5
+history_order: 15
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: failed
-tagging_model: skipped
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+The episode analyzes Warren Buffett's recent portfolio shifts—significantly reducing stock holdings while accumulating record cash reserves—as a critical market signal. Buffett is highlighting concerning economic metrics, particularly the CAPE ratio and Buffett Indicator, which have reached levels higher than before the 1929 crash. The discussion connects these warning signs to broader economic forces, explaining how seasoned investors identify and interpret bubbles, downturns, and the conditions that precede market crashes.
+
+For your portfolio: Track the CAPE ratio and Buffett Indicator as early-warning systems for market corrections. When legendary investors like Buffett shift into defensive cash positions despite seemingly normal market conditions, it's a practical signal to reassess your own exposure—consider reducing concentrated stock bets, raising cash reserves, and preparing for potential downturns rather than assuming markets will always climb. The actionable takeaway is that protecting wealth during bubbles matters as much as growing it during rallies.
 
 ## Transcript
 

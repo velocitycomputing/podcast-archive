@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 5820
 source: pocketcasts-history-browser
 played_label: July 8
-history_order: 23
+history_order: 33
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: failed
-tagging_model: skipped
-proposed_tags: []
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
+proposed_tags: [primary-source-video]
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+Sam Harris and psychologist Paul Bloom discuss how AI is reshaping human relationships and connection. They examine the accelerating pace of AI development, the appeal of AI companions as solutions to loneliness, the psychological need to matter to other people, the prospect of digitally resurrecting the deceased, questions about machine consciousness, artists' moral responsibilities in the AI era, empirical findings about parenting effectiveness, the ethics of apology, and why people react strongly to political figures who change sides (late Trump converts).
+
+Consider how AI companionship might affect your own relationships and sense of mattering to others—whether increased AI interaction could substitute for or complement human connection in your life. If you're a parent, examine what the science actually supports about parenting methods rather than relying on intuition. Reflect on your own boundaries with AI tools: whether you want to engage with them as companions, what you value about human relationships that AI cannot provide, and how you'd want to handle digital resurrection of people you've known.
 
 ## Transcript
 

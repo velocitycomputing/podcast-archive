@@ -9,13 +9,13 @@ play_count: 1
 duration_seconds: 1560
 source: pocketcasts-history-browser
 played_label: July 8
-history_order: 24
+history_order: 34
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
-summary_model: failed
-tagging_model: skipped
+transcript_source: public-episode-show-notes
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -24,13 +24,15 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+The episode explores how rising AI token costs are forcing businesses to reconsider their reliance on cheap open-weight models, particularly as China moves toward stricter controls on overseas access to its leading models. The discussion centers on four mitigation strategies becoming critical: token efficiency optimization, intelligent model routing, fine-tuning, and Western open-source model alternatives. The episode also covers recent model developments including GPT 5.6 early performance, Grok 4.5's rollout timeline, Fable 5's expanded access, and Meta's Muse Image capabilities.
+
+For immediate action, audit your current model spend and dependence on Chinese models to identify exposure risk. Evaluate token efficiency gains by testing the newer Western models mentioned (GPT 5.6, Grok 4.5, Fable 5) against your current workloads, and pilot model routing strategies to direct different tasks to cost-optimized endpoints. Simultaneously, begin assessing fine-tuning investments for high-volume, repetitive tasks as a hedge against token price escalation, and inventory which open-weight alternatives in the Western ecosystem could serve your use cases if Chinese model access tightens further.
 
 ## Transcript
 
 Today on The AI Daily Brief, NLW explores what happens if businesses can no longer count on cheap open-weight models as the answer to surging AI token costs. As China considers tighter controls on overseas access to its leading models, the episode looks at why token efficiency, model routing, fine-tuning, and Western open-model alternatives may suddenly become much more important. In the headlines: GPT 5.6 early impressions, Grok 4.5’s rollout, Fable 5’s extended access, and Meta’s Muse Image.
 Brought to you by:
-KPMG – Research from KPMG and the University of Texas at Austin shows the highest-impact AI users treat AI like a reasoning partner — and those skills can be taught at scale. Learn more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠kpmg.com/us/Sophisticated⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠
+KPMG – Research from KPMG and the University of Texas at Austin shows the highest-impact AI users treat AI like a reasoning partner — and those skills can be taught at scale. Learn more at ⁠https://kpmg.com/us/Sophisticated⁠
 Hyperagent -Hire a fleet of always-on agents. New users get $1,000 in inference. ⁠⁠⁠⁠⁠⁠hyperagent.com/aidailybrief⁠⁠⁠⁠⁠⁠
 Retool - Secure your vibecoded apps. New enterprise customers get up to $10,000 in AI credits per year. ⁠⁠retool.com/aidaily ⁠⁠
 Rackspace Technology- One accountable partner to build, operate and run your full enterprise AI stack ⁠⁠⁠⁠⁠⁠https://www.rackspace.com/⁠⁠⁠⁠⁠⁠

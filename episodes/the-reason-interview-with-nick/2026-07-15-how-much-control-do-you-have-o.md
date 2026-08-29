@@ -9,14 +9,14 @@ play_count: 1
 duration_seconds: 3240
 source: pocketcasts-history-browser
 played_label: July 15
-history_order: 15
+history_order: 21
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
-proposed_tags: ["system:cognitive", "intervention:lifestyle", "condition:cognitive-symptoms"]
+proposed_tags: []
 proposed_entities: []
 status: new
 routed_to: null
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-Spencer Greenberg and his co-author Jeremy Stevenson distilled hundreds of self-help books into *The 12 Levers*, a toolkit of twelve evidence-based psychological techniques for self-improvement. The podcast explores specific methods including Cognitive Behavioral Therapy, Rational Emotive Behavior Therapy, cognitive restructuring, attention training, and the "inner why" technique—examining how these approaches work to give you greater control over automatic thoughts and emotional responses. The discussion also covers how genetic predispositions shape psychology, addresses social anxiety, considers whether stoicism is experiencing a cultural resurgence, and explores whether self-improvement has political dimensions. Greenberg and Gillespie emphasize that understanding your mind is fundamental to genuine autonomy.
+Spencer Greenberg, host of the Clearer Thinking podcast and co-author of *The 12 Levers: The Complete Psychological Toolkit for Improving Your Life*, discussed how he and Jeremy Stevenson synthesized hundreds of self-help books into twelve evidence-based psychological techniques for self-improvement. The conversation covered foundational approaches like Cognitive Behavioral Therapy (CBT) and Rational Emotive Behavior Therapy (REBT) that leverage critical thinking, explored specific techniques including cognitive restructuring and attention training, examined how reflex responses and genetic predispositions shape behavior, and addressed whether self-improvement has political dimensions and how to identify fraudulent self-help advice.
 
-The actionable takeaway is that you can develop measurable control over your mind through specific, evidence-based techniques rather than generic advice. Learning cognitive restructuring lets you identify and challenge automatic thought patterns; attention training builds your capacity to direct focus; and the "inner why" technique helps you understand the root motivations behind your behaviors and emotions. The framework also equips you to evaluate self-help claims critically—distinguishing legitimate psychology from marketing fraud by looking for evidence-based grounding rather than anecdotal claims.
+The actionable takeaway is that mental control—understanding your emotions, redirecting your focus, and applying the "inner why" technique—forms the basis of genuine autonomy. Rather than seeking multiple self-help systems, Greenberg's framework consolidates evidence-based levers you can systematically apply to psychological challenges like social anxiety and unwanted reflex responses, offering a practical alternative to the proliferation of unvetted self-improvement advice.
 
 ## Transcript
 

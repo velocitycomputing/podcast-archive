@@ -9,11 +9,11 @@ play_count: 1
 duration_seconds: 3360
 source: pocketcasts-history-browser
 played_label: July 3
-history_order: 29
+history_order: 39
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: cache
+transcript_source: public-episode-show-notes
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
@@ -24,9 +24,9 @@ routed_to: null
 
 ## Summary
 
-John Gray, political philosopher and former LSE professor, discusses Trump's presidency and global disorder with Andrew Sullivan. The episode spans US domestic and foreign policy concerns—including Trump's Putin-like corruption, declining poll numbers, geopolitical threats (Iran, Strait of Hormuz, Taiwan), and the collapse of free speech in academia—alongside parallel crises in UK politics (Starmer's exit, Farage's ascent, Kemi Badenoch's emergence) and a rightward-shifting Europe (AfD, Le Pen, Meloni). Gray examines the rise of socialist politics in NYC, the role of DOGE edgelording, Vance's Catholicism, and broader themes of civic exhaustion, broken international trust, and surging antisemitism across the ideological spectrum.
+John Gray, a political philosopher and former LSE professor, discusses with Andrew Sullivan the global disorder emerging under Trump's administration. The conversation spans geopolitical fractures—including US hegemony's collapse, tensions over the Strait of Hormuz and Malacca, the Iran War aftermath, and Taiwan's vulnerability to drone warfare—alongside domestic turmoil in the US, UK, and Europe. Gray examines Trump's Putin-esque corruption, the rise of right-wing populism (Farage, Le Pen, AfD), shifts in centrist politics (Meloni, Andy Burnham), and cultural breakdowns including antisemitism surge, free speech collapse in academia, and civic exhaustion across Western democracies.
 
-For the listener, the episode identifies several focal points worth monitoring: geopolitical instability (Ukraine, Taiwan, Middle Eastern chokepoints) as immediate risks under a destabilized US foreign policy; the UK's internal political realignment as Starmer's departure opens space for Burnham and Reform; and the EU's structural rightward shift driven by migration and Islamism concerns. Gray's analysis suggests tracking whether Trump's isolation deepens US credibility further, how free speech restrictions in academia signal broader censorship trends, and whether European centrist parties (like Meloni's) can absorb right-wing energy without destabilization.
+To access the full episode, visit andrewsullivan.substack.com (the show notes provided are a free preview). Two video clips are available on the Dishcast YouTube page covering the Founders' perspective on America's 250th anniversary and analysis of the next UK prime minister. The episode is part of the broader Dishcast archive; subscribe or browse past episodes featuring other guests (Stephen Grosz on love, David Thomson on cinema, John O'Sullivan on conservatism, and others). Feedback or guest recommendations can be sent to dish@andrewsullivan.com.
 
 ## Transcript
 
