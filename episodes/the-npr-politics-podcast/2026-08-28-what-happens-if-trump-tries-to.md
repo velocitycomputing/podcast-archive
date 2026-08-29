@@ -6,14 +6,14 @@ url: "https://pocketcasts.com/podcast/the-npr-politics-podcast/0e5c21f0-693c-013
 played_date: 2026-08-28
 played_at: "2026-08-28T12:00:00Z"
 play_count: 1
-duration_seconds: 540
+duration_seconds: 300
 source: pocketcasts-history-browser
 played_label: Yesterday
 history_order: 1
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
+transcript_source: cache
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

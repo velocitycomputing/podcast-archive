@@ -13,9 +13,9 @@ history_order: 55
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
-transcript_source: public-episode-show-notes
-summary_model: failed
-tagging_model: skipped
+transcript_source: cache
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -24,7 +24,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+I don't have the podcast transcript or substantive episode material to summarize. The text you've provided contains only metadata—the title, guest names, URL, and resource links—but not the actual interview content, discussion details, or claims made during the episode.
+
+To provide the two-paragraph summary you've requested, I would need the actual podcast transcript or episode description with the speakers' key points. Please supply the full transcript or episode notes, and I'll deliver exactly two concrete paragraphs.
 
 ## Transcript
 
