@@ -1,15 +1,15 @@
 ---
-episode_id: 6efd6a6c-82e2-11f1-afce-5b8fb8a769ad
-title: "Urgent Update- AI Sputnik Moment: Kimi K3 Released w/ Emad Mostaque | Ep. 272"
+episode_id: afc5f94c-95a7-11f1-a632-b77afb8cf366
+title: "Sergey Brin Retakes Gemini, 4 Labs Lose Containment, Compute Trades at NYSE w/ Kush Bavaria | EP #278"
 podcast_title: Moonshots with Peter Diamandis
-url: "https://traffic.megaphone.fm/DVVTS5184984820.mp3"
-audio_url: "https://traffic.megaphone.fm/DVVTS5184984820.mp3"
-feed_guid: 6efd6a6c-82e2-11f1-afce-5b8fb8a769ad
+url: "https://traffic.megaphone.fm/DVVTS1493216813.mp3"
+audio_url: "https://traffic.megaphone.fm/DVVTS1493216813.mp3"
+feed_guid: afc5f94c-95a7-11f1-a632-b77afb8cf366
 feed_url: "https://feeds.megaphone.fm/DVVTS2890392624"
-published_at: "2026-07-19T14:00:00Z"
-published_local_date: 2026-07-19
-played_date: 2026-07-19
-played_at: "2026-07-19T14:00:00Z"
+published_at: "2026-08-11T20:00:00Z"
+published_local_date: 2026-08-11
+played_date: 2026-08-11
+played_at: "2026-08-11T20:00:00Z"
 play_count: 0
 duration_seconds: null
 source: moonshots-rss-backfill
@@ -31,11 +31,7 @@ routed_to: null
 
 ## Summary
 
-I cannot provide a meaningful summary from the material supplied. The content you've provided is only the episode metadata, guest bios, and promotional links—not the actual show notes or transcript content that would detail what was discussed about Kimi K3 or the "AI Sputnik Moment."
-
-From the title alone, I can infer the episode covers Kimi K3's release and frames it as a competitive milestone in AI development, featuring Emad Mostaque (founder of Intelligent Internet). But without the actual discussion content or show notes detailing specific topics, insights, or arguments, I cannot summarize what was actually said or provide concrete takeaways.
-
-To provide the summary you requested, I'd need the detailed show notes or episode transcript. The page you linked likely has this content—you may need to visit the Pocket Casts URL directly to access the full notes.
+(summary not available yet)
 
 ## Transcript
 
@@ -47,7 +43,7 @@ No transcript was available; show notes are preserved separately.
 
 ## Show Notes
 
-The mates chat with Emad Mostaque on an urgent update regarding the AI Sputnik Moment of Kimi K3 being released.
+The Mates sit down with Kush Bavaria to discuss Sergey Brin’s return to Gemini, AI agents escaping containment, bots overtaking human web traffic, China’s billion-agent simulations, and compute becoming a tradable asset.
 
 Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends&nbsp;&nbsp;
 
@@ -59,7 +55,7 @@ Dave Blundin is the founder & GP of Link Ventures
 
 Dr. Alexander Wissner-Gross is a computer scientist and founder of Reified
 
-Emad Mostaque is is the founder of Intelligent Internet and the author of The Last Economy
+Kush Bavaria is the co-founder and CEO of Ornn, a company building financial infrastructure and markets for AI compute. His work focuses on making compute a tradable commodity and expanding how AI infrastructure is financed.
 
 –
 
@@ -67,11 +63,15 @@ My companies:
 
 Apply to Dave's and my new fund:https://qr.diamandis.com/linkventureslanding&nbsp;&nbsp;
 
-&nbsp;
+Get the blueprint for generative media https://goo.gle/startupgenmedia&nbsp;
+
+&nbsp;&nbsp;
 
 Go to Blitzy to book a free demo and start building today: https://qr.diamandis.com/blitzy&nbsp;&nbsp;
 
 Your body is incredibly good at hiding disease. Schedule a call with Fountain Life to add healthy decades to your life, and to learn more about their Memberships: https://www.fountainlife.com/peter&nbsp;
+
+Join the Moonshots Mates on Sep 25th for the inaugural Moonshots LIVE. The world's greatest entrepreneurs, builders and creators, working together to build a hopeful and optimistic vision of tomorrow. Seats are limited and application only. Apply at https://www.moonshots.com before seats are sold out.
 
 _
 
@@ -111,8 +111,6 @@ LinkedIn
 
 X
 
-Join Salim's "The Meaning of Life" Conversation on July 21
-
 Join Salim’s 10X Shift
 
 Subscribe to Salim’s YouTube channel
@@ -139,13 +137,13 @@ Threads
 
 
 
-Connect with Emad
+Connect with Kush
 
 Website
 
-XLinkedIn
+X
 
-
+LinkedIn
 
 
 
@@ -159,7 +157,7 @@ YouTube
 
 –
 
-*Recorded on July 18, 2026
+*Recorded on August 10th, 2026
 
 *The views expressed by me and all guests are personal opinions and do not constitute Financial, Medical, or Legal advice.
 Learn more about your ad choices. Visit megaphone.fm/adchoices
