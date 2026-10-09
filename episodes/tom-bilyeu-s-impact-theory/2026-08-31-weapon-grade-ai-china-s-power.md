@@ -6,7 +6,7 @@ podcast_title: "Tom Bilyeu's Impact Theory"
 url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/weapon-grade-ai-chinas-power-move-why-the-middle-class-is-at-risk-tom-bilyeu-show/16c9c1a7-e0f1-45ec-bcf7-a5aed8f21bc6"
 audio_url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/weapon-grade-ai-chinas-power-move-why-the-middle-class-is-at-risk-tom-bilyeu-show/16c9c1a7-e0f1-45ec-bcf7-a5aed8f21bc6"
 feed_guid: null
-feed_url: "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-08-31

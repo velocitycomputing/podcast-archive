@@ -6,7 +6,7 @@ podcast_title: Dwarkesh Podcast
 url: "https://pocketcasts.com/podcast/dwarkesh-podcast/6d554750-84ac-0138-ee2b-0acc26574db2/the-rise-and-fall-of-agent-civilizations/27b43b4c-ce8e-4358-b58a-5c3333053c7b"
 audio_url: "https://pocketcasts.com/podcast/dwarkesh-podcast/6d554750-84ac-0138-ee2b-0acc26574db2/the-rise-and-fall-of-agent-civilizations/27b43b4c-ce8e-4358-b58a-5c3333053c7b"
 feed_guid: null
-feed_url: "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-08-31

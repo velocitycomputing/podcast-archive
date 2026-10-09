@@ -6,7 +6,7 @@ podcast_title: Uncomfortable Conversations with Josh Szeps
 url: "https://pocketcasts.com/podcast/uncomfortable-conversations-with-josh-szeps/32923e10-fac6-0132-17f2-059c869cc4eb/just-josh-the-unlearned-lesson-of-911/f0d5d187-cc0b-4de5-9e52-f58e723cd7fa"
 audio_url: "https://pocketcasts.com/podcast/uncomfortable-conversations-with-josh-szeps/32923e10-fac6-0132-17f2-059c869cc4eb/just-josh-the-unlearned-lesson-of-911/f0d5d187-cc0b-4de5-9e52-f58e723cd7fa"
 feed_guid: null
-feed_url: "https://rss2.flightcast.com/xyn5mjsinppqgkzd8sabx4uz.xml"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-10

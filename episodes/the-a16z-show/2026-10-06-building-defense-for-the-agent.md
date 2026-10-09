@@ -6,7 +6,7 @@ podcast_title: The a16z Show
 url: "https://pocketcasts.com/podcast/the-a16z-show/20a7ca40-9128-0131-8b7f-723c91aeae46/building-defense-for-the-agentic-era-kevin-mandia/b078064f-2790-4559-a5a8-104f22752fb1"
 audio_url: "https://pocketcasts.com/podcast/the-a16z-show/20a7ca40-9128-0131-8b7f-723c91aeae46/building-defense-for-the-agentic-era-kevin-mandia/b078064f-2790-4559-a5a8-104f22752fb1"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/JGE3yC0V"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-06
