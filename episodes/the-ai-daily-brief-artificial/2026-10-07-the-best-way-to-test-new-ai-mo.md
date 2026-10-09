@@ -6,7 +6,7 @@ podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
 url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/the-best-way-to-test-new-ai-models/a708e448-eb05-4d34-9925-4e8975b2e6de"
 audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/the-best-way-to-test-new-ai-models/a708e448-eb05-4d34-9925-4e8975b2e6de"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-07

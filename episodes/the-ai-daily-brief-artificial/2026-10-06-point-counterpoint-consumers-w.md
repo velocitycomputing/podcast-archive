@@ -6,7 +6,7 @@ podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
 url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/point-counterpoint-consumers-will-never-pay-for-ai/7fbc3611-fa41-4187-a597-1975bf2e3636"
 audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/point-counterpoint-consumers-will-never-pay-for-ai/7fbc3611-fa41-4187-a597-1975bf2e3636"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-06

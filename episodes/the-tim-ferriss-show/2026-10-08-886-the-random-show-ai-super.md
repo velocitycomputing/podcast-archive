@@ -6,7 +6,7 @@ podcast_title: The Tim Ferriss Show
 url: "https://pocketcasts.com/podcast/the-tim-ferriss-show/046f9e00-a81a-0131-c656-723c91aeae46/886-the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more/5c3087ab-e6aa-44b5-b5bf-342d616b0092"
 audio_url: "https://pocketcasts.com/podcast/the-tim-ferriss-show/046f9e00-a81a-0131-c656-723c91aeae46/886-the-random-show-ai-super-assistants-boner-pills-dream-engineering-wizards-supplements-books-and-more/5c3087ab-e6aa-44b5-b5bf-342d616b0092"
 feed_guid: null
-feed_url: "https://rss.art19.com/tim-ferriss-show"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-08

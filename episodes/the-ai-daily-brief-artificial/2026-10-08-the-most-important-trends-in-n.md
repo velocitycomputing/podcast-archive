@@ -1,12 +1,12 @@
 ---
 record_id: "podcast:7e29f1d9-4b32-4800-a55c-f2f229925245"
 episode_id: 7e29f1d9-4b32-4800-a55c-f2f229925245
-title: The Most Important Trends Showing Up in New AI Products
+title: The Most Important Trends in New AI Products
 podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
-url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/the-most-important-trends-showing-up-in-new-ai-products/7e29f1d9-4b32-4800-a55c-f2f229925245"
-audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/the-most-important-trends-showing-up-in-new-ai-products/7e29f1d9-4b32-4800-a55c-f2f229925245"
+url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/the-most-important-trends-in-new-ai-products/7e29f1d9-4b32-4800-a55c-f2f229925245"
+audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/the-most-important-trends-in-new-ai-products/7e29f1d9-4b32-4800-a55c-f2f229925245"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-08

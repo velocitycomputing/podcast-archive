@@ -6,7 +6,7 @@ podcast_title: "Tom Bilyeu's Impact Theory"
 url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/what-broke-the-bond-market-and-why-theyre-going-to-print-your-savings-away/daf6d9af-3b6b-44af-929c-50a43e57d3be"
 audio_url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/what-broke-the-bond-market-and-why-theyre-going-to-print-your-savings-away/daf6d9af-3b6b-44af-929c-50a43e57d3be"
 feed_guid: null
-feed_url: "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-03
