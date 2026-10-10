@@ -6,7 +6,7 @@ podcast_title: Ralph Nader Radio Hour
 url: "https://pocketcasts.com/podcast/ralph-nader-radio-hour/2e1b9d20-b894-0131-2019-723c91aeae46/the-legacy-of-wendell-berry/ca60721c-1305-441f-a4ac-58d6f6c6ad36"
 audio_url: "https://pocketcasts.com/podcast/ralph-nader-radio-hour/2e1b9d20-b894-0131-2019-723c91aeae46/the-legacy-of-wendell-berry/ca60721c-1305-441f-a4ac-58d6f6c6ad36"
 feed_guid: null
-feed_url: "https://api.substack.com/feed/podcast/1047405.rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-26
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 6660
 source: pocketcasts-history-browser
 played_label: September 26
-history_order: 22
+history_order: 25
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

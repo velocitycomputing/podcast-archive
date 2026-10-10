@@ -6,7 +6,7 @@ podcast_title: "Tom Bilyeu's Impact Theory"
 url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/marc-andreessen-on-how-ai-culture-and-regulation-will-shape-tomorrows-world-replay/79e5bb45-1fad-4e5c-9539-a926eafca6f6"
 audio_url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/marc-andreessen-on-how-ai-culture-and-regulation-will-shape-tomorrows-world-replay/79e5bb45-1fad-4e5c-9539-a926eafca6f6"
 feed_guid: null
-feed_url: "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-26
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 8160
 source: pocketcasts-history-browser
 played_label: September 26
-history_order: 21
+history_order: 24
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
