@@ -12,10 +12,10 @@ published_local_date: null
 played_date: 2026-08-31
 played_at: "2026-08-31T12:00:00Z"
 play_count: 1
-duration_seconds: 1140
+duration_seconds: 1440
 source: pocketcasts-history-browser
 played_label: August 31
-history_order: 6
+history_order: 2
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

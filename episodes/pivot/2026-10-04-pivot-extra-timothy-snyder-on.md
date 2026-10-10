@@ -6,7 +6,7 @@ podcast_title: Pivot
 url: "https://pocketcasts.com/podcast/pivot/6fd43fe0-9a3f-0133-2dbd-6dc413d6d41d/pivot-extra-timothy-snyder-on-americas-superpower-suicide/22667141-7001-406f-8191-495f1a2577ed"
 audio_url: "https://pocketcasts.com/podcast/pivot/6fd43fe0-9a3f-0133-2dbd-6dc413d6d41d/pivot-extra-timothy-snyder-on-americas-superpower-suicide/22667141-7001-406f-8191-495f1a2577ed"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/pivot"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-04
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 3060
 source: pocketcasts-history-browser
 played_label: October 4
-history_order: 14
+history_order: 17
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

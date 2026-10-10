@@ -6,7 +6,7 @@ podcast_title: "Tom Bilyeu's Impact Theory"
 url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/japans-35-trillion-meltdown-us-debt-nightmare-the-ai-lifeline-tom-bilyeu-show/b849fc87-e59c-4ccc-97a7-fe6da339ce34"
 audio_url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/japans-35-trillion-meltdown-us-debt-nightmare-the-ai-lifeline-tom-bilyeu-show/b849fc87-e59c-4ccc-97a7-fe6da339ce34"
 feed_guid: null
-feed_url: "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-02
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 7140
 source: pocketcasts-history-browser
 played_label: September 2
-history_order: 13
+history_order: 16
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

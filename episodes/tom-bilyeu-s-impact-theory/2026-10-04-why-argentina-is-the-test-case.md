@@ -6,7 +6,7 @@ podcast_title: "Tom Bilyeu's Impact Theory"
 url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/why-argentina-is-the-test-case-for-the-whole-world-193-million-americans-have-been-jobless-for-six-months-ai-will-break-the-banks-weekly-recap/e7475ad7-cc88-4008-9d45-6ebaabd5fe4c"
 audio_url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/why-argentina-is-the-test-case-for-the-whole-world-193-million-americans-have-been-jobless-for-six-months-ai-will-break-the-banks-weekly-recap/e7475ad7-cc88-4008-9d45-6ebaabd5fe4c"
 feed_guid: null
-feed_url: "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-04
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 2100
 source: pocketcasts-history-browser
 played_label: October 4
-history_order: 12
+history_order: 15
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

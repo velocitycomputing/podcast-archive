@@ -6,7 +6,7 @@ podcast_title: The a16z Show
 url: "https://pocketcasts.com/podcast/the-a16z-show/20a7ca40-9128-0131-8b7f-723c91aeae46/why-a16z-is-building-a-new-school-for-the-ai-era-ben-horowitz/e7840589-a49e-4590-87bf-73addc13d5b5"
 audio_url: "https://pocketcasts.com/podcast/the-a16z-show/20a7ca40-9128-0131-8b7f-723c91aeae46/why-a16z-is-building-a-new-school-for-the-ai-era-ben-horowitz/e7840589-a49e-4590-87bf-73addc13d5b5"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/JGE3yC0V"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-22
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 2580
 source: pocketcasts-history-browser
 played_label: September 22
-history_order: 19
+history_order: 22
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
