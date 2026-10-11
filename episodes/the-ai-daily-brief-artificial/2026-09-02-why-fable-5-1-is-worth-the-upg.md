@@ -6,7 +6,7 @@ podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
 url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/why-fable-51-is-worth-the-upgrade/2e1f7d5c-2cbf-434a-a632-1bdfd86b55eb"
 audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/why-fable-51-is-worth-the-upgrade/2e1f7d5c-2cbf-434a-a632-1bdfd86b55eb"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-02
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1860
 source: pocketcasts-history-browser
 played_label: September 2
-history_order: 73
+history_order: 77
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

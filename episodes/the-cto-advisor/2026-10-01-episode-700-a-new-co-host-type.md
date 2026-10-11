@@ -6,7 +6,7 @@ podcast_title: The CTO Advisor
 url: "https://pocketcasts.com/podcast/the-cto-advisor/581a3430-2394-0133-b02a-0d11918ab357/episode-700-a-new-co-host-typesafes-jev-and-qwen38-at-home/97b13d8f-5ce3-49cc-b665-07240ebf5090"
 audio_url: "https://pocketcasts.com/podcast/the-cto-advisor/581a3430-2394-0133-b02a-0d11918ab357/episode-700-a-new-co-host-typesafes-jev-and-qwen38-at-home/97b13d8f-5ce3-49cc-b665-07240ebf5090"
 feed_guid: null
-feed_url: "https://thectoadvisor.com/feed/podcast/"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-01
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1080
 source: pocketcasts-history-browser
 played_label: October 1
-history_order: 29
+history_order: 33
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

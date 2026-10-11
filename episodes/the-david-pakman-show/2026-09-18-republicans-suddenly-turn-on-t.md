@@ -6,7 +6,7 @@ podcast_title: The David Pakman Show
 url: "https://pocketcasts.com/podcast/the-david-pakman-show/9943a3c0-3e6b-012e-14bc-00163e1b201c/republicans-suddenly-turn-on-trump-as-rogan-sounds-alarm/84a04adc-73c1-4703-ad1c-1f7d7d7a1413"
 audio_url: "https://pocketcasts.com/podcast/the-david-pakman-show/9943a3c0-3e6b-012e-14bc-00163e1b201c/republicans-suddenly-turn-on-trump-as-rogan-sounds-alarm/84a04adc-73c1-4703-ad1c-1f7d7d7a1413"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/SHHWD4599743349"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-18
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 3780
 source: pocketcasts-history-browser
 played_label: September 18
-history_order: 18
+history_order: 22
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

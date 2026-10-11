@@ -6,7 +6,7 @@ podcast_title: Moonshots with Peter Diamandis
 url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/ask-the-mates-anything-round-2-moonshots-ama-293/f50d19f5-9dc4-41ef-aa71-2a8e459e5682"
 audio_url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/ask-the-mates-anything-round-2-moonshots-ama-293/f50d19f5-9dc4-41ef-aa71-2a8e459e5682"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/DVVTS2890392624"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-22
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 5160
 source: pocketcasts-history-browser
 played_label: September 22
-history_order: 20
+history_order: 24
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

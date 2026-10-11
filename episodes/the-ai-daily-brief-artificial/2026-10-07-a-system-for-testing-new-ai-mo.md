@@ -1,10 +1,10 @@
 ---
 record_id: "podcast:a708e448-eb05-4d34-9925-4e8975b2e6de"
 episode_id: a708e448-eb05-4d34-9925-4e8975b2e6de
-title: The Best Way to Test New AI Models
+title: A System for Testing New AI Models
 podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
-url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/the-best-way-to-test-new-ai-models/a708e448-eb05-4d34-9925-4e8975b2e6de"
-audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/the-best-way-to-test-new-ai-models/a708e448-eb05-4d34-9925-4e8975b2e6de"
+url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/a-system-for-testing-new-ai-models/a708e448-eb05-4d34-9925-4e8975b2e6de"
+audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/a-system-for-testing-new-ai-models/a708e448-eb05-4d34-9925-4e8975b2e6de"
 feed_guid: null
 feed_url: null
 published_at: null
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 2940
 source: pocketcasts-history-browser
 played_label: October 7
-history_order: 4
+history_order: 9
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
