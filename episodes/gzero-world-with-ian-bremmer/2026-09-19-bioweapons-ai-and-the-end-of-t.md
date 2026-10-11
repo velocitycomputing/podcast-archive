@@ -6,7 +6,7 @@ podcast_title: GZERO World with Ian Bremmer
 url: "https://pocketcasts.com/podcast/gzero-world-with-ian-bremmer/7fc5a370-8ff6-0135-9ced-5bb073f92b78/bioweapons-ai-and-the-end-of-the-world-with-annie-jacobsen/edeb0d6b-46fe-49f5-a8da-5c3b12299053"
 audio_url: "https://pocketcasts.com/podcast/gzero-world-with-ian-bremmer/7fc5a370-8ff6-0135-9ced-5bb073f92b78/bioweapons-ai-and-the-end-of-the-world-with-annie-jacobsen/edeb0d6b-46fe-49f5-a8da-5c3b12299053"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/ibBxsiVV"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-19
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1680
 source: pocketcasts-history-browser
 played_label: September 19
-history_order: 42
+history_order: 46
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

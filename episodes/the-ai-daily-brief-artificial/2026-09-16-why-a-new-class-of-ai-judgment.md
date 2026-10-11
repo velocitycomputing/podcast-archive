@@ -6,7 +6,7 @@ podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
 url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/why-a-new-class-of-ai-judgment-models-could-have-big-business-implications/24d15f2c-50bf-4116-9aa5-0b33e0e9f47b"
 audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/why-a-new-class-of-ai-judgment-models-could-have-big-business-implications/24d15f2c-50bf-4116-9aa5-0b33e0e9f47b"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-16
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1500
 source: pocketcasts-history-browser
 played_label: September 16
-history_order: 44
+history_order: 48
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

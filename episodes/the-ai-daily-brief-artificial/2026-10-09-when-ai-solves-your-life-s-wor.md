@@ -1,12 +1,12 @@
 ---
 record_id: "podcast:2f567b98-aafb-4829-9338-79a3bf9b5403"
 episode_id: 2f567b98-aafb-4829-9338-79a3bf9b5403
-title: What Happens When AI Solves Your Life’s Work
+title: When AI Solves Your Life’s Work
 podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
-url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/what-happens-when-ai-solves-your-lifes-work/2f567b98-aafb-4829-9338-79a3bf9b5403"
-audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/what-happens-when-ai-solves-your-lifes-work/2f567b98-aafb-4829-9338-79a3bf9b5403"
+url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/when-ai-solves-your-lifes-work/2f567b98-aafb-4829-9338-79a3bf9b5403"
+audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/when-ai-solves-your-lifes-work/2f567b98-aafb-4829-9338-79a3bf9b5403"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-09
@@ -14,8 +14,8 @@ played_at: "2026-10-09T12:00:00Z"
 play_count: 1
 duration_seconds: 1500
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 6
+played_label: October 9
+history_order: 10
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

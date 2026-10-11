@@ -6,7 +6,7 @@ podcast_title: The Foreign Affairs Interview
 url: "https://pocketcasts.com/podcast/the-foreign-affairs-interview/e2f31bf0-b915-013a-d903-0acc26574db2/what-america-and-china-fear-most-about-ai-a-conversation-with-kyle-chan-and-helen-toner/d5423e55-194d-4729-bbb4-7e2254848a55"
 audio_url: "https://pocketcasts.com/podcast/the-foreign-affairs-interview/e2f31bf0-b915-013a-d903-0acc26574db2/what-america-and-china-fear-most-about-ai-a-conversation-with-kyle-chan-and-helen-toner/d5423e55-194d-4729-bbb4-7e2254848a55"
 feed_guid: null
-feed_url: "https://feed.podbean.com/foreignaffairsmagazine/feed.xml"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-01
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 3300
 source: pocketcasts-history-browser
 played_label: October 1
-history_order: 30
+history_order: 34
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

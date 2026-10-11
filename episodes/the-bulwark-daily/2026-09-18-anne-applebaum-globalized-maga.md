@@ -6,7 +6,7 @@ podcast_title: The Bulwark Daily
 url: "https://pocketcasts.com/podcast/the-bulwark-daily/8d1729d0-e77e-0136-3249-08b04944ede4/anne-applebaum-globalized-maga-kleptocracy/49c6aecd-2a1f-4beb-bb1a-c78011336fc2"
 audio_url: "https://pocketcasts.com/podcast/the-bulwark-daily/8d1729d0-e77e-0136-3249-08b04944ede4/anne-applebaum-globalized-maga-kleptocracy/49c6aecd-2a1f-4beb-bb1a-c78011336fc2"
 feed_guid: null
-feed_url: "https://audioboom.com/channels/5114286.rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-18
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 3420
 source: pocketcasts-history-browser
 played_label: September 18
-history_order: 19
+history_order: 23
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

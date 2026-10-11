@@ -6,7 +6,7 @@ podcast_title: TRIGGERnometry
 url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/ed-sheeran-gaza-controversy-ai-fears-and-piddington-immigration-protest-off-the-fence/934dac5d-c843-4af4-ab77-f55c0d57674c"
 audio_url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/ed-sheeran-gaza-controversy-ai-fears-and-piddington-immigration-protest-off-the-fence/934dac5d-c843-4af4-ab77-f55c0d57674c"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/AALT9618167458"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-18
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 3660
 source: pocketcasts-history-browser
 played_label: September 18
-history_order: 43
+history_order: 47
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
