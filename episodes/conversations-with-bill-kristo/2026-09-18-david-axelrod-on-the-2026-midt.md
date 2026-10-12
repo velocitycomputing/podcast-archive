@@ -6,7 +6,7 @@ podcast_title: Conversations with Bill Kristol
 url: "https://pocketcasts.com/podcast/conversations-with-bill-kristol/ddec0d60-3644-0132-c13a-5f4c86fd3263/david-axelrod-on-the-2026-midterms-how-big-a-wave/18e57798-4f2e-4834-8820-ad676bd80569"
 audio_url: "https://pocketcasts.com/podcast/conversations-with-bill-kristol/ddec0d60-3644-0132-c13a-5f4c86fd3263/david-axelrod-on-the-2026-midterms-how-big-a-wave/18e57798-4f2e-4834-8820-ad676bd80569"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/Wd9bb7wU"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-18
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 3360
 source: pocketcasts-history-browser
 played_label: September 18
-history_order: 21
+history_order: 24
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

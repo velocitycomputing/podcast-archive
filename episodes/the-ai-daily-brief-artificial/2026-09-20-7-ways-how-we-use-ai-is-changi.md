@@ -6,7 +6,7 @@ podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
 url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/7-ways-how-we-use-ai-is-changing/26957f0d-4bf9-47e7-a14e-59bb8a4e3932"
 audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/7-ways-how-we-use-ai-is-changing/26957f0d-4bf9-47e7-a14e-59bb8a4e3932"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-20
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1560
 source: pocketcasts-history-browser
 played_label: September 20
-history_order: 44
+history_order: 47
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

@@ -6,16 +6,16 @@ podcast_title: "Tom Bilyeu's Impact Theory"
 url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/40-trillion-in-debt-and-the-only-exit-is-inflation-the-guy-who-wrote-openais-safety-rules-just-quit-the-situation-in-france-is-only-getting-worse-weekly-recap/2b92bf7b-489b-455f-a5aa-a02c4eaf5f12"
 audio_url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/40-trillion-in-debt-and-the-only-exit-is-inflation-the-guy-who-wrote-openais-safety-rules-just-quit-the-situation-in-france-is-only-getting-worse-weekly-recap/2b92bf7b-489b-455f-a5aa-a02c4eaf5f12"
 feed_guid: null
-feed_url: "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-11
-played_at: "2026-10-11T15:12:54Z"
+played_at: "2026-10-11T12:00:00Z"
 play_count: 1
-duration_seconds: 2040
+duration_seconds: 1980
 source: pocketcasts-history-browser
-played_label: 7 hours ago
-history_order: 1
+played_label: Yesterday
+history_order: 3
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
