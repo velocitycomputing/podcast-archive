@@ -6,7 +6,7 @@ podcast_title: "Tom Bilyeu's Impact Theory"
 url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/americas-40-trillion-debt-spiral-french-riots-and-trumps-nuclear-gambit-the-tom-bilyeu-show/c4d14dec-4d6b-465f-a461-bb92a2101b1e"
 audio_url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/americas-40-trillion-debt-spiral-french-riots-and-trumps-nuclear-gambit-the-tom-bilyeu-show/c4d14dec-4d6b-465f-a461-bb92a2101b1e"
 feed_guid: null
-feed_url: "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-02
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 6060
 source: pocketcasts-history-browser
 played_label: October 2
-history_order: 19
+history_order: 22
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

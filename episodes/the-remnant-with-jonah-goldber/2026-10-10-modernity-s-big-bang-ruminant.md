@@ -6,7 +6,7 @@ podcast_title: The Remnant with Jonah Goldberg
 url: "https://pocketcasts.com/podcast/the-remnant-with-jonah-goldberg/b40d5450-89f2-0135-9037-63f4b61a9224/modernitys-big-bang-ruminant/92339924-e6c5-4981-80d0-48f6145ecdb8"
 audio_url: "https://pocketcasts.com/podcast/the-remnant-with-jonah-goldberg/b40d5450-89f2-0135-9037-63f4b61a9224/modernitys-big-bang-ruminant/92339924-e6c5-4981-80d0-48f6145ecdb8"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/DISPME4897766830"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-10
@@ -14,8 +14,8 @@ played_at: "2026-10-10T12:00:00Z"
 play_count: 1
 duration_seconds: 780
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 5
+played_label: October 10
+history_order: 8
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
