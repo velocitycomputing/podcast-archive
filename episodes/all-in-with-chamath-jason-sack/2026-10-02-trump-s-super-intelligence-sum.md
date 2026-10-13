@@ -6,7 +6,7 @@ podcast_title: All-In with Chamath, Jason, Sacks & Friedberg
 url: "https://pocketcasts.com/podcast/all-in-with-chamath-jason-sacks-friedberg/299aad50-48a3-0138-976e-0acc26574db2/trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm-predictions/9e8b445e-9a82-4478-82ab-686889140d24"
 audio_url: "https://pocketcasts.com/podcast/all-in-with-chamath-jason-sacks-friedberg/299aad50-48a3-0138-976e-0acc26574db2/trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm-predictions/9e8b445e-9a82-4478-82ab-686889140d24"
 feed_guid: null
-feed_url: "https://rss.libsyn.com/shows/254861/destinations/1928300.xml"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-02
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 4920
 source: pocketcasts-history-browser
 played_label: October 2
-history_order: 18
+history_order: 20
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

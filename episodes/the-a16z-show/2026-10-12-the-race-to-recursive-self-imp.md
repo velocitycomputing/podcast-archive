@@ -6,16 +6,16 @@ podcast_title: The a16z Show
 url: "https://pocketcasts.com/podcast/the-a16z-show/20a7ca40-9128-0131-8b7f-723c91aeae46/the-race-to-recursive-self-improving-ai/043e90b9-3d9b-4520-9d33-c0211a2a491e"
 audio_url: "https://pocketcasts.com/podcast/the-a16z-show/20a7ca40-9128-0131-8b7f-723c91aeae46/the-race-to-recursive-self-improving-ai/043e90b9-3d9b-4520-9d33-c0211a2a491e"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/JGE3yC0V"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-12
-played_at: "2026-10-12T15:10:36Z"
+played_at: "2026-10-12T12:00:00Z"
 play_count: 1
-duration_seconds: 1140
+duration_seconds: 1080
 source: pocketcasts-history-browser
-played_label: 5 hours ago
-history_order: 1
+played_label: Yesterday
+history_order: 2
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

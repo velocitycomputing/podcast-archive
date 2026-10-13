@@ -6,7 +6,7 @@ podcast_title: "Tom Bilyeu's Impact Theory"
 url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/from-forever-wars-to-ai-the-new-elite-wealth-extraction-model-simon-dixon-pt-2/1af74065-ed1d-462e-a6cb-92d842470eed"
 audio_url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/from-forever-wars-to-ai-the-new-elite-wealth-extraction-model-simon-dixon-pt-2/1af74065-ed1d-462e-a6cb-92d842470eed"
 feed_guid: null
-feed_url: "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-10
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 3300
 source: pocketcasts-history-browser
 played_label: October 10
-history_order: 2
+history_order: 4
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

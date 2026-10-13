@@ -6,7 +6,7 @@ podcast_title: TRIGGERnometry
 url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/reform-is-screwed-dan-hodges/a7699b4f-fd62-490c-ad03-ba93309eb86e"
 audio_url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/reform-is-screwed-dan-hodges/a7699b4f-fd62-490c-ad03-ba93309eb86e"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/AALT9618167458"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-16
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 7620
 source: pocketcasts-history-browser
 played_label: September 16
-history_order: 20
+history_order: 22
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

@@ -6,7 +6,7 @@ podcast_title: Dwarkesh Podcast
 url: "https://pocketcasts.com/podcast/dwarkesh-podcast/6d554750-84ac-0138-ee2b-0acc26574db2/ai-researchers-debate-how-close-we-are-to-recursive-self-improvement/40389151-625c-4681-a6ae-05970cad74f6"
 audio_url: "https://pocketcasts.com/podcast/dwarkesh-podcast/6d554750-84ac-0138-ee2b-0acc26574db2/ai-researchers-debate-how-close-we-are-to-recursive-self-improvement/40389151-625c-4681-a6ae-05970cad74f6"
 feed_guid: null
-feed_url: "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-11
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 5820
 source: pocketcasts-history-browser
 played_label: September 11
-history_order: 19
+history_order: 21
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
