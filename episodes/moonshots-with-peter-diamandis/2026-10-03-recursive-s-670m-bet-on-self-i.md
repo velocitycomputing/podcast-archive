@@ -6,7 +6,7 @@ podcast_title: Moonshots with Peter Diamandis
 url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/recursives-670m-bet-on-self-improving-ai-sonnet-55-hits-70-elon-co-leads-pentagon-push-ep-299/6159bc22-f806-4660-b52d-a3b187b00db7"
 audio_url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/recursives-670m-bet-on-self-improving-ai-sonnet-55-hits-70-elon-co-leads-pentagon-push-ep-299/6159bc22-f806-4660-b52d-a3b187b00db7"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/DVVTS2890392624"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-03
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 8760
 source: pocketcasts-history-browser
 played_label: October 3
-history_order: 17
+history_order: 18
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
