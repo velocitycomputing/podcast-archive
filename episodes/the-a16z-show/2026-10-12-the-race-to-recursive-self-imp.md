@@ -12,9 +12,9 @@ published_local_date: null
 played_date: 2026-10-12
 played_at: "2026-10-12T12:00:00Z"
 play_count: 1
-duration_seconds: 1080
+duration_seconds: 1380
 source: pocketcasts-history-browser
-played_label: Yesterday
+played_label: October 12
 history_order: 2
 played_at_precision: date-from-history-label
 progress_percent: null

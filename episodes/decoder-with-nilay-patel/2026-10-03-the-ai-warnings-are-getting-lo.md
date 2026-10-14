@@ -6,7 +6,7 @@ podcast_title: Decoder with Nilay Patel
 url: "https://pocketcasts.com/podcast/decoder-with-nilay-patel/01a33f10-fcfe-0132-18b7-059c869cc4eb/the-ai-warnings-are-getting-louder/4ed10c4b-cb0b-4cb7-beb0-1e1de679f68f"
 audio_url: "https://pocketcasts.com/podcast/decoder-with-nilay-patel/01a33f10-fcfe-0132-18b7-059c869cc4eb/the-ai-warnings-are-getting-louder/4ed10c4b-cb0b-4cb7-beb0-1e1de679f68f"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/recodedecode"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-03
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 2040
 source: pocketcasts-history-browser
 played_label: October 3
-history_order: 16
+history_order: 18
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
