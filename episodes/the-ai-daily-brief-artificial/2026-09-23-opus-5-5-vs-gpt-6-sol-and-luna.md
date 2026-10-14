@@ -6,7 +6,7 @@ podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
 url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/opus-55-vs-gpt-6-sol-and-luna/cd81c793-879f-463f-b230-418c936bc84e"
 audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/opus-55-vs-gpt-6-sol-and-luna/cd81c793-879f-463f-b230-418c936bc84e"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-23
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1860
 source: pocketcasts-history-browser
 played_label: September 23
-history_order: 42
+history_order: 43
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

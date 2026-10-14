@@ -6,7 +6,7 @@ podcast_title: Hidden Forces
 url: "https://pocketcasts.com/podcast/hidden-forces/a53d8b10-d5ba-0134-ebdd-4114446340cb/is-it-time-to-start-buying-bonds-jim-bianco/065f269b-0709-40ff-985a-0a63189b0043"
 audio_url: "https://pocketcasts.com/podcast/hidden-forces/a53d8b10-d5ba-0134-ebdd-4114446340cb/is-it-time-to-start-buying-bonds-jim-bianco/065f269b-0709-40ff-985a-0a63189b0043"
 feed_guid: null
-feed_url: "https://rss.libsyn.com/shows/91567/destinations/457899.xml"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-12
@@ -14,8 +14,8 @@ played_at: "2026-10-12T12:00:00Z"
 play_count: 1
 duration_seconds: 120
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 1
+played_label: October 12
+history_order: 3
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

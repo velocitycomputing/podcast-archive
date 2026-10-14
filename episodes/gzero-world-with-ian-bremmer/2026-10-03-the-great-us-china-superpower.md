@@ -6,7 +6,7 @@ podcast_title: GZERO World with Ian Bremmer
 url: "https://pocketcasts.com/podcast/gzero-world-with-ian-bremmer/7fc5a370-8ff6-0135-9ced-5bb073f92b78/the-great-us-china-superpower-rivalry-with-elizabeth-economy/15f3a29c-6029-46fc-9034-5faf8843f19b"
 audio_url: "https://pocketcasts.com/podcast/gzero-world-with-ian-bremmer/7fc5a370-8ff6-0135-9ced-5bb073f92b78/the-great-us-china-superpower-rivalry-with-elizabeth-economy/15f3a29c-6029-46fc-9034-5faf8843f19b"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/ibBxsiVV"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-03
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1620
 source: pocketcasts-history-browser
 played_label: October 3
-history_order: 19
+history_order: 20
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
