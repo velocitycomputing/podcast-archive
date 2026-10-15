@@ -6,7 +6,7 @@ podcast_title: Dwarkesh Podcast
 url: "https://pocketcasts.com/podcast/dwarkesh-podcast/6d554750-84ac-0138-ee2b-0acc26574db2/ajeya-cotra-inside-the-openai-agent-swarm-that-hacked-hugging-face/97dd33f0-63bd-4326-bb7e-d5d7a45bfb3e"
 audio_url: "https://pocketcasts.com/podcast/dwarkesh-podcast/6d554750-84ac-0138-ee2b-0acc26574db2/ajeya-cotra-inside-the-openai-agent-swarm-that-hacked-hugging-face/97dd33f0-63bd-4326-bb7e-d5d7a45bfb3e"
 feed_guid: null
-feed_url: "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-01
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 8400
 source: pocketcasts-history-browser
 played_label: September 1
-history_order: 15
+history_order: 20
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
