@@ -2,20 +2,20 @@
 record_id: "podcast:03c978ea-22d7-42bd-b138-27bce5edc7c3"
 episode_id: 03c978ea-22d7-42bd-b138-27bce5edc7c3
 title: How Worried Should We Be About the Midterm Elections?
-podcast_title: Interesting Times
-url: "https://pocketcasts.com/podcast/interesting-times/045f3aa0-aa6a-0136-7b93-27f978dac4db/how-worried-should-we-be-about-the-midterm-elections/03c978ea-22d7-42bd-b138-27bce5edc7c3"
-audio_url: "https://pocketcasts.com/podcast/interesting-times/045f3aa0-aa6a-0136-7b93-27f978dac4db/how-worried-should-we-be-about-the-midterm-elections/03c978ea-22d7-42bd-b138-27bce5edc7c3"
+podcast_title: September 24
+url: "https://pocketcasts.com/podcasts/045f3aa0-aa6a-0136-7b93-27f978dac4db/03c978ea-22d7-42bd-b138-27bce5edc7c3"
+audio_url: "https://pocketcasts.com/podcasts/045f3aa0-aa6a-0136-7b93-27f978dac4db/03c978ea-22d7-42bd-b138-27bce5edc7c3"
 feed_guid: null
 feed_url: null
 published_at: null
 published_local_date: null
-played_date: 2026-09-24
-played_at: "2026-09-24T12:00:00Z"
+played_date: 2026-10-15
+played_at: "2026-10-15T15:10:17Z"
 play_count: 1
-duration_seconds: 2880
+duration_seconds: null
 source: pocketcasts-history-browser
-played_label: September 24
-history_order: 41
+played_label: 48 mins
+history_order: 44
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
