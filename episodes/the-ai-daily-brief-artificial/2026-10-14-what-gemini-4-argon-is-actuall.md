@@ -6,7 +6,7 @@ podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
 url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/what-gemini-4-argon-is-actually-good-for/ec92deb0-d9b3-480f-ae6f-e36813877f7a"
 audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/what-gemini-4-argon-is-actually-good-for/ec92deb0-d9b3-480f-ae6f-e36813877f7a"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-14
@@ -14,8 +14,8 @@ played_at: "2026-10-14T12:00:00Z"
 play_count: 1
 duration_seconds: 1800
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 3
+played_label: October 14
+history_order: 5
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

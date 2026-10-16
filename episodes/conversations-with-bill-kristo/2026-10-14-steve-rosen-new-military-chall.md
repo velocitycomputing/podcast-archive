@@ -6,16 +6,16 @@ podcast_title: Conversations with Bill Kristol
 url: "https://pocketcasts.com/podcast/conversations-with-bill-kristol/ddec0d60-3644-0132-c13a-5f4c86fd3263/steve-rosen-new-military-challenges-in-the-age-of-ai-drones-and-cyberattacks/1006c7f8-3f14-4e60-a492-828a5d30ffd1"
 audio_url: "https://pocketcasts.com/podcast/conversations-with-bill-kristol/ddec0d60-3644-0132-c13a-5f4c86fd3263/steve-rosen-new-military-challenges-in-the-age-of-ai-drones-and-cyberattacks/1006c7f8-3f14-4e60-a492-828a5d30ffd1"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/Wd9bb7wU"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-14
 played_at: "2026-10-14T12:00:00Z"
 play_count: 1
-duration_seconds: 3180
+duration_seconds: 4200
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 1
+played_label: October 14
+history_order: 4
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
