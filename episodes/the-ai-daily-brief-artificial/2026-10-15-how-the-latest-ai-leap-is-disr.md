@@ -6,16 +6,16 @@ podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
 url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/how-the-latest-ai-leap-is-disrupting-business-models/9fe2f181-ba00-47ec-b5b8-13fdee311af0"
 audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/how-the-latest-ai-leap-is-disrupting-business-models/9fe2f181-ba00-47ec-b5b8-13fdee311af0"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-15
 played_at: "2026-10-15T12:00:00Z"
 play_count: 1
-duration_seconds: 1080
+duration_seconds: 1800
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 2
+played_label: October 15
+history_order: 5
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
