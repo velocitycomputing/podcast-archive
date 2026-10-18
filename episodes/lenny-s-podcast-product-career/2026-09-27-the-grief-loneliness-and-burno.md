@@ -6,7 +6,7 @@ podcast_title: "Lenny's Podcast: Product | Career | Growth"
 url: "https://pocketcasts.com/podcast/lennys-podcast-product-career-growth/aff3edd0-c8a4-013a-d954-0acc26574db2/the-grief-loneliness-and-burnout-sweeping-through-the-tech-industry-right-now-molly-graham/ee5e4c64-7e97-4b96-a2d9-8191557a44ae"
 audio_url: "https://pocketcasts.com/podcast/lennys-podcast-product-career-growth/aff3edd0-c8a4-013a-d954-0acc26574db2/the-grief-loneliness-and-burnout-sweeping-through-the-tech-industry-right-now-molly-graham/ee5e4c64-7e97-4b96-a2d9-8191557a44ae"
 feed_guid: null
-feed_url: "https://api.substack.com/feed/podcast/10845.rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-09-27
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 5640
 source: pocketcasts-history-browser
 played_label: September 27
-history_order: 45
+history_order: 46
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
@@ -24,13 +24,13 @@ transcript_status: fetched
 transcript_gap_reason: null
 transcript_content_hash: f732cfa256c981a42c80614c66af15ce36e252c8bc2a69221407f9e27a9d33a0
 analysis_mode: health
-summary_source: none
-model_source: none
-summary_status: failed
-item_status: failed
+summary_source: hosted
+model_source: hosted
+summary_status: ready
+item_status: ready
 wealth_eligible: false
-summary_model: failed
-tagging_model: skipped
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -39,7 +39,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+**What was discussed:** Molly Graham revisits her famous "give away your Legos" advice—the 13-year-old career principle that you should delegate projects and responsibilities to grow alongside your company—and explains why it no longer applies straightforwardly in an AI world. Where the original advice meant giving work to junior humans to develop them, the new reality is that companies are asking workers to give their Legos to AI. The episode explores the genuine emotional toll: engineering has transformed from hands-on coding to directing AI agents; 55% of tech workers now report burnout (up from 44% last year); people experience grief and loneliness as the nature of their work shifts. Molly reframes the fear narrative—"AI will take your job in six months"—by pointing out that jobs are reinventing themselves every six years, not disappearing; the form always changes but the work endures if you evolve with it.
+
+**What's actionable for you:** Stop asking "will my job disappear?" and start asking "what will my job look like in six years?" Acknowledge that the emotions—grief, loneliness, the loss of flow state—are valid without letting fear narrative paralyze you. Double down on learning and adaptation; standing still is the least safe option. If you lead people, create explicit space for them to process the change as real and hard, not as something to power through with forced optimism. Don't optimize team structure for pure AI efficiency at the cost of human connection and collaboration—sad, isolated workers do worse work regardless of how many agents you deploy.
 
 ## Transcript
 
