@@ -6,16 +6,16 @@ podcast_title: Core Memory
 url: "https://pocketcasts.com/podcast/core-memory/d6b20e40-b044-013d-c6e3-0e1f85f8e5e5/anduril-and-meta-make-peace-to-make-war-together-ep-18-palmer-luckey/62f53415-4cb1-4718-903b-a8b22b6e7d8e"
 audio_url: "https://pocketcasts.com/podcast/core-memory/d6b20e40-b044-013d-c6e3-0e1f85f8e5e5/anduril-and-meta-make-peace-to-make-war-together-ep-18-palmer-luckey/62f53415-4cb1-4718-903b-a8b22b6e7d8e"
 feed_guid: null
-feed_url: "https://api.substack.com/feed/podcast/320996.rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2025-05-29
 played_at: "2025-05-29T12:00:00Z"
 play_count: 1
-duration_seconds: 5340
+duration_seconds: 4680
 source: pocketcasts-history-browser
 played_label: May 29, 2025
-history_order: 1
+history_order: 2
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
@@ -24,13 +24,13 @@ transcript_status: fetched
 transcript_gap_reason: null
 transcript_content_hash: 602f53e93bca45e4449d20a690c21d7753c25602c3edc5f20e0789d53b4f7ff0
 analysis_mode: health
-summary_source: none
-model_source: none
-summary_status: failed
-item_status: failed
+summary_source: hosted
+model_source: hosted
+summary_status: ready
+item_status: ready
 wealth_eligible: false
-summary_model: failed
-tagging_model: skipped
+summary_model: claude-haiku-4-5
+tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -39,7 +39,9 @@ routed_to: null
 
 ## Summary
 
-(summary not available yet)
+Palmer Luckey announced a partnership between his defense company Anduril and Meta to build Eagle Eye, the next-generation successor to the IVAS military augmented-reality system that Anduril took over from Microsoft (originally a $20+ billion contract). Eagle Eye is a fully integrated combat helmet combining Meta's decades of consumer AR/VR investment with Anduril's ballistic engineering and secure government communications—delivering augmented vision, thermal/night vision, onboard compute, military-grade networking, and head/hearing protection. The partnership emerged after Mark Zuckerberg publicly defended Luckey in a Tablet magazine article, reconciling the 2016 firing that occurred over a political billboard controversy; Luckey attributed the ouster to pressure from lower-level Meta employees and noted those individuals have since left the company.
+
+The immediate signal is that Silicon Valley now treats defense partnerships as patriotic rather than controversial, removing the ideological barrier that previously blocked tech-company engagement with military and government applications. For defense tech and government procurement professionals, this accelerates AR/VR and AI deployment timelines. For consumers: the luxury Mod Retro Chromatic (premium Game Boy Color tribute with sapphire screen and bundled Tetris) remains sold out, with a more sustainable version in development—otherwise the impact is indirect, as military-grade capabilities may eventually inform civilian AR/VR products.
 
 ## Transcript
 
