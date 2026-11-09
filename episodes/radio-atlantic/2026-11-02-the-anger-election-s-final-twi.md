@@ -6,7 +6,7 @@ podcast_title: Radio Atlantic
 url: "https://pocketcasts.com/podcast/radio-atlantic/19b72840-49e3-0135-902b-63f4b61a9224/the-anger-elections-final-twist/8bcc4004-66e8-4932-8f97-d297d2ccd1a2"
 audio_url: "https://pocketcasts.com/podcast/radio-atlantic/19b72840-49e3-0135-902b-63f4b61a9224/the-anger-elections-final-twist/8bcc4004-66e8-4932-8f97-d297d2ccd1a2"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/radioatlantic"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-02
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1440
 source: pocketcasts-history-browser
 played_label: November 2
-history_order: 15
+history_order: 17
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

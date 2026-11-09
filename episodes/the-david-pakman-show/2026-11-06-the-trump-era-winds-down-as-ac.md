@@ -6,7 +6,7 @@ podcast_title: The David Pakman Show
 url: "https://pocketcasts.com/podcast/the-david-pakman-show/9943a3c0-3e6b-012e-14bc-00163e1b201c/the-trump-era-winds-down-as-accountability-returns/98fa46da-01cc-43f0-9aba-216b562c33c6"
 audio_url: "https://pocketcasts.com/podcast/the-david-pakman-show/9943a3c0-3e6b-012e-14bc-00163e1b201c/the-trump-era-winds-down-as-accountability-returns/98fa46da-01cc-43f0-9aba-216b562c33c6"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/SHHWD4599743349"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-06
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 2880
 source: pocketcasts-history-browser
 played_label: November 6
-history_order: 6
+history_order: 8
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

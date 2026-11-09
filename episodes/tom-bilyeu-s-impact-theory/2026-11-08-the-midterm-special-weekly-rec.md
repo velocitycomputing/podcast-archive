@@ -6,15 +6,15 @@ podcast_title: "Tom Bilyeu's Impact Theory"
 url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/the-midterm-special-weekly-recap/9fa1046a-d254-48ca-a9b6-4f74089f27be"
 audio_url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/the-midterm-special-weekly-recap/9fa1046a-d254-48ca-a9b6-4f74089f27be"
 feed_guid: null
-feed_url: "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-08
-played_at: "2026-11-08T16:10:50Z"
+played_at: "2026-11-08T12:00:00Z"
 play_count: 1
-duration_seconds: 1980
+duration_seconds: 1020
 source: pocketcasts-history-browser
-played_label: 7 hours ago
+played_label: Yesterday
 history_order: 1
 played_at_precision: date-from-history-label
 progress_percent: null

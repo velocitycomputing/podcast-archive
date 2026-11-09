@@ -6,7 +6,7 @@ podcast_title: TRIGGERnometry
 url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/dave-smith-vs-triggernometry-2/71277264-2f01-4383-a313-bd14790b1191"
 audio_url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/dave-smith-vs-triggernometry-2/71277264-2f01-4383-a313-bd14790b1191"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/AALT9618167458"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-24
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 9240
 source: pocketcasts-history-browser
 played_label: October 24
-history_order: 37
+history_order: 39
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

@@ -6,7 +6,7 @@ podcast_title: The David Pakman Show
 url: "https://pocketcasts.com/podcast/the-david-pakman-show/9943a3c0-3e6b-012e-14bc-00163e1b201c/trump-is-preparing-for-something-much-bigger-than-losing-an-election/6dc81392-e01c-487e-9e60-1c9065a246f6"
 audio_url: "https://pocketcasts.com/podcast/the-david-pakman-show/9943a3c0-3e6b-012e-14bc-00163e1b201c/trump-is-preparing-for-something-much-bigger-than-losing-an-election/6dc81392-e01c-487e-9e60-1c9065a246f6"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/SHHWD4599743349"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-26
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 3600
 source: pocketcasts-history-browser
 played_label: October 26
-history_order: 19
+history_order: 21
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

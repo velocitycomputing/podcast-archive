@@ -6,7 +6,7 @@ podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
 url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/a-potentially-historic-ai-breakthrough/99683f49-84fa-4b7d-bbda-e4c88b987a7c"
 audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/a-potentially-historic-ai-breakthrough/99683f49-84fa-4b7d-bbda-e4c88b987a7c"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-18
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1380
 source: pocketcasts-history-browser
 played_label: October 18
-history_order: 31
+history_order: 33
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

@@ -6,7 +6,7 @@ podcast_title: The Foreign Affairs Interview
 url: "https://pocketcasts.com/podcast/the-foreign-affairs-interview/e2f31bf0-b915-013a-d903-0acc26574db2/the-coming-battles-over-american-foreign-policy-a-conversation-with-kori-schake-and-thomas-wright/50a3bd57-201f-4890-bbd5-9fb183a85ba5"
 audio_url: "https://pocketcasts.com/podcast/the-foreign-affairs-interview/e2f31bf0-b915-013a-d903-0acc26574db2/the-coming-battles-over-american-foreign-policy-a-conversation-with-kori-schake-and-thomas-wright/50a3bd57-201f-4890-bbd5-9fb183a85ba5"
 feed_guid: null
-feed_url: "https://feed.podbean.com/foreignaffairsmagazine/feed.xml"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-05
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 60
 source: pocketcasts-history-browser
 played_label: November 5
-history_order: 10
+history_order: 12
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

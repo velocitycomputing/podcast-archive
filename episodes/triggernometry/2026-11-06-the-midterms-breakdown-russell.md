@@ -6,7 +6,7 @@ podcast_title: TRIGGERnometry
 url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/the-midterms-breakdown-russell-brand-found-guilty-off-the-fence/f2dd0195-7351-49f5-9fe0-a91f72dcbc0d"
 audio_url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/the-midterms-breakdown-russell-brand-found-guilty-off-the-fence/f2dd0195-7351-49f5-9fe0-a91f72dcbc0d"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/AALT9618167458"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-06
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 12
 source: pocketcasts-history-browser
 played_label: November 6
-history_order: 7
+history_order: 9
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

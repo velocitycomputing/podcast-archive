@@ -6,7 +6,7 @@ podcast_title: All-In with Chamath, Jason, Sacks & Friedberg
 url: "https://pocketcasts.com/podcast/all-in-with-chamath-jason-sacks-friedberg/299aad50-48a3-0138-976e-0acc26574db2/midterm-blood-bath-4t-ai-sell-off-data-center-freeze-whats-next-for-trump/c1d03230-b97d-4472-aa76-d533cc1daee3"
 audio_url: "https://pocketcasts.com/podcast/all-in-with-chamath-jason-sacks-friedberg/299aad50-48a3-0138-976e-0acc26574db2/midterm-blood-bath-4t-ai-sell-off-data-center-freeze-whats-next-for-trump/c1d03230-b97d-4472-aa76-d533cc1daee3"
 feed_guid: null
-feed_url: "https://rss.libsyn.com/shows/254861/destinations/1928300.xml"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-07
@@ -14,8 +14,8 @@ played_at: "2026-11-07T12:00:00Z"
 play_count: 1
 duration_seconds: 4440
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 2
+played_label: November 7
+history_order: 4
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
