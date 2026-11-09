@@ -6,7 +6,7 @@ podcast_title: Moonshots with Peter Diamandis
 url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/making-sense-of-this-weeks-ai-market-crashes-307/708f6e74-b4d3-4e5e-bda2-301332097e6a"
 audio_url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/making-sense-of-this-weeks-ai-market-crashes-307/708f6e74-b4d3-4e5e-bda2-301332097e6a"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/DVVTS2890392624"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-31
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 8400
 source: pocketcasts-history-browser
 played_label: October 31
-history_order: 13
+history_order: 15
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

@@ -6,7 +6,7 @@ podcast_title: Search Engine
 url: "https://pocketcasts.com/podcast/search-engine/cb2108e0-8619-013a-d7f7-0acc26574db2/what-would-it-mean-for-the-democrats-to-not-screw-this-up/a54bea54-e57d-40a9-b17d-a85ef161c27d"
 audio_url: "https://pocketcasts.com/podcast/search-engine/cb2108e0-8619-013a-d7f7-0acc26574db2/what-would-it-mean-for-the-democrats-to-not-screw-this-up/a54bea54-e57d-40a9-b17d-a85ef161c27d"
 feed_guid: null
-feed_url: "https://rss.amperwave.net/v2/feed/audacynetwork/search-engine"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-06
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 2760
 source: pocketcasts-history-browser
 played_label: November 6
-history_order: 5
+history_order: 7
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

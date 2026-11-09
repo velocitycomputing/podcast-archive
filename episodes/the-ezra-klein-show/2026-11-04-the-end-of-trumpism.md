@@ -6,7 +6,7 @@ podcast_title: The Ezra Klein Show
 url: "https://pocketcasts.com/podcast/the-ezra-klein-show/8535a4e0-3c50-0139-3339-0acc26574db2/the-end-of-trumpism/70ce58e3-f79a-4edf-86fc-2cdfae867b16"
 audio_url: "https://pocketcasts.com/podcast/the-ezra-klein-show/8535a4e0-3c50-0139-3339-0acc26574db2/the-end-of-trumpism/70ce58e3-f79a-4edf-86fc-2cdfae867b16"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/kEKXbjuJ"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-04
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1320
 source: pocketcasts-history-browser
 played_label: November 4
-history_order: 11
+history_order: 13
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

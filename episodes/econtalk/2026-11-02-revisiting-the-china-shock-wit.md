@@ -6,7 +6,7 @@ podcast_title: EconTalk
 url: "https://pocketcasts.com/podcast/econtalk/b67a4cf0-4b30-0130-e316-723c91aeae46/revisiting-the-china-shock-with-joseph-francis/ec1bae7a-efea-4b3d-ba81-be62da74b304"
 audio_url: "https://pocketcasts.com/podcast/econtalk/b67a4cf0-4b30-0130-e316-723c91aeae46/revisiting-the-china-shock-with-joseph-francis/ec1bae7a-efea-4b3d-ba81-be62da74b304"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/wgl4xEgL"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-02
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1380
 source: pocketcasts-history-browser
 played_label: November 2
-history_order: 12
+history_order: 14
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

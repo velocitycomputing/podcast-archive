@@ -6,7 +6,7 @@ podcast_title: TRIGGERnometry
 url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/france-riots-are-we-next-off-the-fence/7720e9c6-cebd-4241-8291-cc168ddcdad5"
 audio_url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/france-riots-are-we-next-off-the-fence/7720e9c6-cebd-4241-8291-cc168ddcdad5"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/AALT9618167458"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-23
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 3480
 source: pocketcasts-history-browser
 played_label: October 23
-history_order: 38
+history_order: 40
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

@@ -6,7 +6,7 @@ podcast_title: The Ezra Klein Show
 url: "https://pocketcasts.com/podcast/the-ezra-klein-show/8535a4e0-3c50-0139-3339-0acc26574db2/how-the-democrats-did-it/9e25c41a-f6fb-4777-af67-59ce92049a68"
 audio_url: "https://pocketcasts.com/podcast/the-ezra-klein-show/8535a4e0-3c50-0139-3339-0acc26574db2/how-the-democrats-did-it/9e25c41a-f6fb-4777-af67-59ce92049a68"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/kEKXbjuJ"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-07
@@ -14,8 +14,8 @@ played_at: "2026-11-07T12:00:00Z"
 play_count: 1
 duration_seconds: 300
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 3
+played_label: November 7
+history_order: 5
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

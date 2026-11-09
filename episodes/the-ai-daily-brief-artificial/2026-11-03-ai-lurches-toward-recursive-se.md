@@ -6,7 +6,7 @@ podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
 url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/ai-lurches-toward-recursive-self-improvement/a81d317d-ad35-43fe-9355-0de660c1b723"
 audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/ai-lurches-toward-recursive-self-improvement/a81d317d-ad35-43fe-9355-0de660c1b723"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-03
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1560
 source: pocketcasts-history-browser
 played_label: November 3
-history_order: 14
+history_order: 16
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

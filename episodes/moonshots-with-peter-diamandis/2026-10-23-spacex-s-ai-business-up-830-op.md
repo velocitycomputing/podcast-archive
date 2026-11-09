@@ -6,7 +6,7 @@ podcast_title: Moonshots with Peter Diamandis
 url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/spacexs-ai-business-up-830-openai-agents-lie-and-startup-turns-mercury-into-gold-ep-305/36bad826-68c2-4fd9-823b-362bd5272a74"
 audio_url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/spacexs-ai-business-up-830-openai-agents-lie-and-startup-turns-mercury-into-gold-ep-305/36bad826-68c2-4fd9-823b-362bd5272a74"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/DVVTS2890392624"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-23
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 8640
 source: pocketcasts-history-browser
 played_label: October 23
-history_order: 39
+history_order: 41
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

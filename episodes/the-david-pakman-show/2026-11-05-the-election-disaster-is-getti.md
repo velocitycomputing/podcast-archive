@@ -6,7 +6,7 @@ podcast_title: The David Pakman Show
 url: "https://pocketcasts.com/podcast/the-david-pakman-show/9943a3c0-3e6b-012e-14bc-00163e1b201c/the-election-disaster-is-getting-much-worse-for-them/5955fd23-94a5-452a-a129-5d433ad16ab9"
 audio_url: "https://pocketcasts.com/podcast/the-david-pakman-show/9943a3c0-3e6b-012e-14bc-00163e1b201c/the-election-disaster-is-getting-much-worse-for-them/5955fd23-94a5-452a-a129-5d433ad16ab9"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/SHHWD4599743349"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-05
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 2160
 source: pocketcasts-history-browser
 played_label: November 5
-history_order: 9
+history_order: 11
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
