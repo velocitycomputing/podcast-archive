@@ -14,8 +14,8 @@ played_at: "2026-11-08T12:00:00Z"
 play_count: 1
 duration_seconds: 1020
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 1
+played_label: November 8
+history_order: 3
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
