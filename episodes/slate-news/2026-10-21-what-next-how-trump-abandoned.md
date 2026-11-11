@@ -6,7 +6,7 @@ podcast_title: Slate News
 url: "https://pocketcasts.com/podcast/slate-news/6c0d2c70-cc61-0133-2e8b-6dc413d6d41d/what-next-how-trump-abandoned-ukraine/7efe78cc-534f-4d17-9e9d-01de90cc7316"
 audio_url: "https://pocketcasts.com/podcast/slate-news/6c0d2c70-cc61-0133-2e8b-6dc413d6d41d/what-next-how-trump-abandoned-ukraine/7efe78cc-534f-4d17-9e9d-01de90cc7316"
 feed_guid: null
-feed_url: "https://feeds.acast.com/public/shows/696fee067668cfdea3a2870a"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-21
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 2220
 source: pocketcasts-history-browser
 played_label: October 21
-history_order: 42
+history_order: 43
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
