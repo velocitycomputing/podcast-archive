@@ -2,20 +2,20 @@
 record_id: "podcast:4facba0d-2849-4835-9573-d2ce00e2e07d"
 episode_id: 4facba0d-2849-4835-9573-d2ce00e2e07d
 title: Nate Silver Predicts a ‘Momentous’ Midterm
-podcast_title: The Ezra Klein Show
-url: "https://pocketcasts.com/podcast/the-ezra-klein-show/8535a4e0-3c50-0139-3339-0acc26574db2/nate-silver-predicts-a-momentous-midterm/4facba0d-2849-4835-9573-d2ce00e2e07d"
-audio_url: "https://pocketcasts.com/podcast/the-ezra-klein-show/8535a4e0-3c50-0139-3339-0acc26574db2/nate-silver-predicts-a-momentous-midterm/4facba0d-2849-4835-9573-d2ce00e2e07d"
+podcast_title: October 27
+url: "https://pocketcasts.com/podcasts/8535a4e0-3c50-0139-3339-0acc26574db2/4facba0d-2849-4835-9573-d2ce00e2e07d"
+audio_url: "https://pocketcasts.com/podcasts/8535a4e0-3c50-0139-3339-0acc26574db2/4facba0d-2849-4835-9573-d2ce00e2e07d"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/kEKXbjuJ"
+feed_url: null
 published_at: null
 published_local_date: null
-played_date: 2026-10-27
-played_at: "2026-10-27T12:00:00Z"
+played_date: 2026-11-11
+played_at: "2026-11-11T16:10:45Z"
 play_count: 1
-duration_seconds: 1380
+duration_seconds: null
 source: pocketcasts-history-browser
-played_label: October 27
-history_order: 18
+played_label: 23 mins
+history_order: 21
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

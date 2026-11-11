@@ -6,7 +6,7 @@ podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
 url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/agentic-video-is-real-and-heres-what-you-should-try/221f5d59-1318-4b17-96ae-693b07b50822"
 audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/agentic-video-is-real-and-heres-what-you-should-try/221f5d59-1318-4b17-96ae-693b07b50822"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-08
@@ -14,8 +14,8 @@ played_at: "2026-11-08T12:00:00Z"
 play_count: 1
 duration_seconds: 1800
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 2
+played_label: November 8
+history_order: 5
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
