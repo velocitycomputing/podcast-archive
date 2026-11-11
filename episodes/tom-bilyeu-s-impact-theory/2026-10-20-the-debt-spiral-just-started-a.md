@@ -6,7 +6,7 @@ podcast_title: "Tom Bilyeu's Impact Theory"
 url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/the-debt-spiral-just-started-and-the-bond-market-is-breaking/c16d8cb6-f7da-4849-a73c-493864ff3338"
 audio_url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/the-debt-spiral-just-started-and-the-bond-market-is-breaking/c16d8cb6-f7da-4849-a73c-493864ff3338"
 feed_guid: null
-feed_url: "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-20
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 3120
 source: pocketcasts-history-browser
 played_label: October 20
-history_order: 42
+history_order: 43
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
