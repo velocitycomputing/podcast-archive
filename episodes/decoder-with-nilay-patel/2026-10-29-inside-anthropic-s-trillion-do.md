@@ -6,7 +6,7 @@ podcast_title: Decoder with Nilay Patel
 url: "https://pocketcasts.com/podcast/decoder-with-nilay-patel/01a33f10-fcfe-0132-18b7-059c869cc4eb/inside-anthropics-trillion-dollar-ai-gamble/c09c78a8-b304-49ad-8e69-b9dc43f80ffc"
 audio_url: "https://pocketcasts.com/podcast/decoder-with-nilay-patel/01a33f10-fcfe-0132-18b7-059c869cc4eb/inside-anthropics-trillion-dollar-ai-gamble/c09c78a8-b304-49ad-8e69-b9dc43f80ffc"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/recodedecode"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-29
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 2940
 source: pocketcasts-history-browser
 played_label: October 29
-history_order: 18
+history_order: 19
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
