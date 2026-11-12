@@ -6,7 +6,7 @@ podcast_title: Modern Wisdom
 url: "https://pocketcasts.com/podcast/modern-wisdom/98d691a0-f31c-0135-c25e-7d73a919276a/ww3-debate-were-on-the-brink-of-global-collapse-1144/65aea47a-8656-4596-927a-9da43f7b9bc7"
 audio_url: "https://pocketcasts.com/podcast/modern-wisdom/98d691a0-f31c-0135-c25e-7d73a919276a/ww3-debate-were-on-the-brink-of-global-collapse-1144/65aea47a-8656-4596-927a-9da43f7b9bc7"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/SIXMSB5088139739"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-08-30

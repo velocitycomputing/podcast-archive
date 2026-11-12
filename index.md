@@ -6,11 +6,11 @@ Total episodes: 346.
 
 | Played | Podcast | Title | Tags | Status |
 |---|---|---|---|---|
-| 2026-11-11 | Making Sense with Sam Harris - Subscriber Content | [#502 - The Rebuke](episodes/making-sense-with-sam-harris-s/2026-11-11-502-the-rebuke.md) |  | new |
-| 2026-11-11 | October 16 | [Is There an A.I. Bubble? A Debate.](episodes/october-16/2026-11-11-is-there-an-a-i-bubble-a-debat.md) |  | new |
-| 2026-11-11 | October 27 | [Nate Silver Predicts a ‘Momentous’ Midterm](episodes/october-27/2026-11-11-nate-silver-predicts-a-momento.md) |  | new |
-| 2026-11-10 | The AI Daily Brief: Artificial Intelligence News and Analysis | [Fable 5.2 Is the Best AI Ever. So Why Am I Not Switching Ye…](episodes/the-ai-daily-brief-artificial/2026-11-10-fable-5-2-is-the-best-ai-ever.md) |  | new |
-| 2026-11-10 | To The Contrary with Charlie Sykes | [Why the GOP Meltdown is Going to Get Worse](episodes/to-the-contrary-with-charlie-s/2026-11-10-why-the-gop-meltdown-is-going.md) | geopolitics, us-decline, primary-source-video | new |
+| 2026-11-12 | Making Sense with Sam Harris - Subscriber Content | [#502 - The Rebuke](episodes/making-sense-with-sam-harris-s/2026-11-12-502-the-rebuke.md) |  | new |
+| 2026-11-12 | October 16 | [Is There an A.I. Bubble? A Debate.](episodes/october-16/2026-11-12-is-there-an-a-i-bubble-a-debat.md) |  | new |
+| 2026-11-12 | October 27 | [Nate Silver Predicts a ‘Momentous’ Midterm](episodes/october-27/2026-11-12-nate-silver-predicts-a-momento.md) |  | new |
+| 2026-11-11 | The AI Daily Brief: Artificial Intelligence News and Analysis | [Fable 5.2 Is the Best AI Ever. So Why Am I Not Switching Ye…](episodes/the-ai-daily-brief-artificial/2026-11-11-fable-5-2-is-the-best-ai-ever.md) |  | new |
+| 2026-11-11 | To The Contrary with Charlie Sykes | [Why the GOP Meltdown is Going to Get Worse](episodes/to-the-contrary-with-charlie-s/2026-11-11-why-the-gop-meltdown-is-going.md) | geopolitics, us-decline, primary-source-video | new |
 | 2026-11-09 | The Reason Roundtable | [Thomas Massie Is Right To Impeach Pete Hegseth](episodes/the-reason-roundtable/2026-11-09-thomas-massie-is-right-to-impe.md) | primary-source-video, geopolitics | new |
 | 2026-11-08 | The a16z Show | [The Health Interventions Actually Worth Your Time \| Justin …](episodes/the-a16z-show/2026-11-08-the-health-interventions-actua.md) | primary-source-video, system:cardio, system:metabolic, system:gi | new |
 | 2026-11-08 | The AI Daily Brief: Artificial Intelligence News and Analysis | [Agentic Video Is Real and Here’s What You Should Try](episodes/the-ai-daily-brief-artificial/2026-11-08-agentic-video-is-real-and-here.md) |  | new |

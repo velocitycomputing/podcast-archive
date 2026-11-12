@@ -6,7 +6,7 @@ podcast_title: Moonshots with Peter Diamandis
 url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/chamath-agi-is-here-anthropics-100b-giveaway-elons-spacex-shares-for-72m-kids-ep-304/feb1c165-f8f9-4419-8769-670b01acb19e"
 audio_url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/chamath-agi-is-here-anthropics-100b-giveaway-elons-spacex-shares-for-72m-kids-ep-304/feb1c165-f8f9-4419-8769-670b01acb19e"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/DVVTS2890392624"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-21
