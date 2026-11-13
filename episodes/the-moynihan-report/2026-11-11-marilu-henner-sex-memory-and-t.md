@@ -6,16 +6,16 @@ podcast_title: The Moynihan Report
 url: "https://pocketcasts.com/podcast/the-moynihan-report/89f504c0-ec86-013d-1b27-0acc26574db2/marilu-henner-sex-memory-and-the-real-andy-kaufman/b456987c-d935-490e-8896-3ba34619104a"
 audio_url: "https://pocketcasts.com/podcast/the-moynihan-report/89f504c0-ec86-013d-1b27-0acc26574db2/marilu-henner-sex-memory-and-the-real-andy-kaufman/b456987c-d935-490e-8896-3ba34619104a"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/SgmhH9DT"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-11
 played_at: "2026-11-11T12:00:00Z"
 play_count: 1
-duration_seconds: 1020
+duration_seconds: 3420
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 1
+played_label: November 11
+history_order: 7
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
