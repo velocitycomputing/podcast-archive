@@ -6,7 +6,7 @@ podcast_title: Moonshots with Peter Diamandis
 url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/anthropics-2t-ipo-elon-predicts-neocloud-death-and-chinas-kimi-catches-up-306/194a21bf-4659-46e3-81fc-36dc5435bcbc"
 audio_url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/anthropics-2t-ipo-elon-predicts-neocloud-death-and-chinas-kimi-catches-up-306/194a21bf-4659-46e3-81fc-36dc5435bcbc"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/DVVTS2890392624"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-28
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 8160
 source: pocketcasts-history-browser
 played_label: October 28
-history_order: 18
+history_order: 23
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
