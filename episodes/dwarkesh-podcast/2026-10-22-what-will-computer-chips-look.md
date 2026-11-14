@@ -6,7 +6,7 @@ podcast_title: Dwarkesh Podcast
 url: "https://pocketcasts.com/podcast/dwarkesh-podcast/6d554750-84ac-0138-ee2b-0acc26574db2/what-will-computer-chips-look-like-in-2045/3f14e485-c5c1-4e29-836f-f078145d8194"
 audio_url: "https://pocketcasts.com/podcast/dwarkesh-podcast/6d554750-84ac-0138-ee2b-0acc26574db2/what-will-computer-chips-look-like-in-2045/3f14e485-c5c1-4e29-836f-f078145d8194"
 feed_guid: null
-feed_url: "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-22
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 4080
 source: pocketcasts-history-browser
 played_label: October 22
-history_order: 45
+history_order: 47
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

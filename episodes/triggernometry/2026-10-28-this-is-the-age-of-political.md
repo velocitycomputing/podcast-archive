@@ -6,7 +6,7 @@ podcast_title: TRIGGERnometry
 url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/this-is-the-age-of-political-violence-dr-robert-pape/6b37b647-dd5a-4a88-99b5-ffa6e8314371"
 audio_url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/this-is-the-age-of-political-violence-dr-robert-pape/6b37b647-dd5a-4a88-99b5-ffa6e8314371"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/AALT9618167458"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-28
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 8880
 source: pocketcasts-history-browser
 played_label: October 28
-history_order: 22
+history_order: 24
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

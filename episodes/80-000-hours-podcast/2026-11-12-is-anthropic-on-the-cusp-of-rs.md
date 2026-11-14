@@ -6,7 +6,7 @@ podcast_title: 80,000 Hours Podcast
 url: "https://pocketcasts.com/podcast/80000-hours-podcast/99d6aaa0-2e41-0135-52f9-452518e2d253/is-anthropic-on-the-cusp-of-rsi-inside-the-redacted-metr-report-luisa-rodriguez/2311f0e1-0516-43c0-9c78-5ae315651ee5"
 audio_url: "https://pocketcasts.com/podcast/80000-hours-podcast/99d6aaa0-2e41-0135-52f9-452518e2d253/is-anthropic-on-the-cusp-of-rsi-inside-the-redacted-metr-report-luisa-rodriguez/2311f0e1-0516-43c0-9c78-5ae315651ee5"
 feed_guid: null
-feed_url: "https://feeds.transistor.fm/80000-hours-podcast"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-12
@@ -14,8 +14,8 @@ played_at: "2026-11-12T12:00:00Z"
 play_count: 1
 duration_seconds: 900
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 6
+played_label: November 12
+history_order: 8
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

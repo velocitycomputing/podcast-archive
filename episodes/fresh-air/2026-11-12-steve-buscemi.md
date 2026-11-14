@@ -6,7 +6,7 @@ podcast_title: Fresh Air
 url: "https://pocketcasts.com/podcast/fresh-air/a82455d0-0cc6-012e-fb69-00163e1b201c/steve-buscemi/c8c0586e-7899-4604-be53-fce8c0769800"
 audio_url: "https://pocketcasts.com/podcast/fresh-air/a82455d0-0cc6-012e-fb69-00163e1b201c/steve-buscemi/c8c0586e-7899-4604-be53-fce8c0769800"
 feed_guid: null
-feed_url: "https://feeds.npr.org/381444908/podcast.xml"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-12
@@ -14,8 +14,8 @@ played_at: "2026-11-12T12:00:00Z"
 play_count: 1
 duration_seconds: 540
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 1
+played_label: November 12
+history_order: 3
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

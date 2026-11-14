@@ -6,7 +6,7 @@ podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
 url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/ai-wont-make-our-minds-useless-according-to-400-years-of-history/10afc7fd-f889-49e1-b25d-e22f6a06226a"
 audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/ai-wont-make-our-minds-useless-according-to-400-years-of-history/10afc7fd-f889-49e1-b25d-e22f6a06226a"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-01
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1560
 source: pocketcasts-history-browser
 played_label: November 1
-history_order: 20
+history_order: 22
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

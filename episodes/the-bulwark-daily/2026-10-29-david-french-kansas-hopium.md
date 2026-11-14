@@ -6,7 +6,7 @@ podcast_title: The Bulwark Daily
 url: "https://pocketcasts.com/podcast/the-bulwark-daily/8d1729d0-e77e-0136-3249-08b04944ede4/david-french-kansas-hopium/9bac79dd-9eb2-433b-9b40-6a4ec4269d87"
 audio_url: "https://pocketcasts.com/podcast/the-bulwark-daily/8d1729d0-e77e-0136-3249-08b04944ede4/david-french-kansas-hopium/9bac79dd-9eb2-433b-9b40-6a4ec4269d87"
 feed_guid: null
-feed_url: "https://audioboom.com/channels/5114286.rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-29
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 2520
 source: pocketcasts-history-browser
 played_label: October 29
-history_order: 21
+history_order: 23
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

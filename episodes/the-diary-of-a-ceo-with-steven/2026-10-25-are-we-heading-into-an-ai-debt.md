@@ -1,12 +1,12 @@
 ---
 record_id: "podcast:bdcbce6d-1ab9-4f21-8302-bc025887cf18"
 episode_id: bdcbce6d-1ab9-4f21-8302-bc025887cf18
-title: "Mark Cuban: The Next Market Crash Is Where The Real Money Is Made!"
+title: Are We Heading Into An AI Debt Bubble That Could Crash The Economy?
 podcast_title: The Diary Of A CEO with Steven Bartlett
-url: "https://pocketcasts.com/podcast/the-diary-of-a-ceo-with-steven-bartlett/25cff630-8e89-0135-9038-63f4b61a9224/mark-cuban-the-next-market-crash-is-where-the-real-money-is-made/bdcbce6d-1ab9-4f21-8302-bc025887cf18"
-audio_url: "https://pocketcasts.com/podcast/the-diary-of-a-ceo-with-steven-bartlett/25cff630-8e89-0135-9038-63f4b61a9224/mark-cuban-the-next-market-crash-is-where-the-real-money-is-made/bdcbce6d-1ab9-4f21-8302-bc025887cf18"
+url: "https://pocketcasts.com/podcast/the-diary-of-a-ceo-with-steven-bartlett/25cff630-8e89-0135-9038-63f4b61a9224/are-we-heading-into-an-ai-debt-bubble-that-could-crash-the-economy/bdcbce6d-1ab9-4f21-8302-bc025887cf18"
+audio_url: "https://pocketcasts.com/podcast/the-diary-of-a-ceo-with-steven-bartlett/25cff630-8e89-0135-9038-63f4b61a9224/are-we-heading-into-an-ai-debt-bubble-that-could-crash-the-economy/bdcbce6d-1ab9-4f21-8302-bc025887cf18"
 feed_guid: null
-feed_url: "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-25
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 5040
 source: pocketcasts-history-browser
 played_label: October 25
-history_order: 33
+history_order: 35
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
