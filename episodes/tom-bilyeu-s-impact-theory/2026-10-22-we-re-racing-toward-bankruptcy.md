@@ -6,7 +6,7 @@ podcast_title: "Tom Bilyeu's Impact Theory"
 url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/were-racing-toward-bankruptcy-and-no-one-will-touch-entitlements/522a3711-8baf-439e-8d74-d6105a6708e8"
 audio_url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/were-racing-toward-bankruptcy-and-no-one-will-touch-entitlements/522a3711-8baf-439e-8d74-d6105a6708e8"
 feed_guid: null
-feed_url: "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-22
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 3180
 source: pocketcasts-history-browser
 played_label: October 22
-history_order: 46
+history_order: 48
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

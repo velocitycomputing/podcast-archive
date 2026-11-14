@@ -6,7 +6,7 @@ podcast_title: The Peter Attia Drive
 url: "https://pocketcasts.com/podcast/the-peter-attia-drive/dc8b3d00-56bc-0136-fa7c-0fe84b59566d/412-the-evolving-science-of-cancer-emerging-approaches-to-prevention-and-early-detection-and-the-advances-reshaping-treatment-siddhartha-mukherjee-md-phd/400a92b1-f288-4101-b613-625e9975b2e2"
 audio_url: "https://pocketcasts.com/podcast/the-peter-attia-drive/dc8b3d00-56bc-0136-fa7c-0fe84b59566d/412-the-evolving-science-of-cancer-emerging-approaches-to-prevention-and-early-detection-and-the-advances-reshaping-treatment-siddhartha-mukherjee-md-phd/400a92b1-f288-4101-b613-625e9975b2e2"
 feed_guid: null
-feed_url: "https://rss.libsyn.com/shows/121729/destinations/713489.xml"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-10-18
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 7440
 source: pocketcasts-history-browser
 played_label: October 18
-history_order: 43
+history_order: 45
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

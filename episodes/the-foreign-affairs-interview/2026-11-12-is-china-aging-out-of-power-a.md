@@ -6,7 +6,7 @@ podcast_title: The Foreign Affairs Interview
 url: "https://pocketcasts.com/podcast/the-foreign-affairs-interview/e2f31bf0-b915-013a-d903-0acc26574db2/is-china-aging-out-of-power-a-conversation-with-carl-minzner/85a8f3e8-3c71-4d9a-9a5f-24f55f095015"
 audio_url: "https://pocketcasts.com/podcast/the-foreign-affairs-interview/e2f31bf0-b915-013a-d903-0acc26574db2/is-china-aging-out-of-power-a-conversation-with-carl-minzner/85a8f3e8-3c71-4d9a-9a5f-24f55f095015"
 feed_guid: null
-feed_url: "https://feed.podbean.com/foreignaffairsmagazine/feed.xml"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-12
@@ -14,8 +14,8 @@ played_at: "2026-11-12T12:00:00Z"
 play_count: 1
 duration_seconds: 1080
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 3
+played_label: November 12
+history_order: 5
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
