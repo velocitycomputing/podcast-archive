@@ -6,15 +6,15 @@ podcast_title: Dwarkesh Podcast
 url: "https://pocketcasts.com/podcast/dwarkesh-podcast/6d554750-84ac-0138-ee2b-0acc26574db2/the-avalanche-that-hit-math-is-coming-for-ai-development/c5d4e3ff-20d1-4e3e-9752-6887ccf8a52e"
 audio_url: "https://pocketcasts.com/podcast/dwarkesh-podcast/6d554750-84ac-0138-ee2b-0acc26574db2/the-avalanche-that-hit-math-is-coming-for-ai-development/c5d4e3ff-20d1-4e3e-9752-6887ccf8a52e"
 feed_guid: null
-feed_url: "https://apple.dwarkesh-podcast.workers.dev/feed.rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-13
 played_at: "2026-11-13T12:00:00Z"
 play_count: 1
-duration_seconds: 1620
+duration_seconds: 1560
 source: pocketcasts-history-browser
-played_label: Yesterday
+played_label: November 13
 history_order: 2
 played_at_precision: date-from-history-label
 progress_percent: null
