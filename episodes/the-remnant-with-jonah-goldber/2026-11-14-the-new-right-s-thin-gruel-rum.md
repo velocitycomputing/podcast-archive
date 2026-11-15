@@ -6,16 +6,16 @@ podcast_title: The Remnant with Jonah Goldberg
 url: "https://pocketcasts.com/podcast/the-remnant-with-jonah-goldberg/b40d5450-89f2-0135-9037-63f4b61a9224/the-new-rights-thin-gruel-ruminant/de11ed7b-3845-4e10-9b84-65073c295e10"
 audio_url: "https://pocketcasts.com/podcast/the-remnant-with-jonah-goldberg/b40d5450-89f2-0135-9037-63f4b61a9224/the-new-rights-thin-gruel-ruminant/de11ed7b-3845-4e10-9b84-65073c295e10"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/DISPME4897766830"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-14
-played_at: "2026-11-14T16:10:41Z"
+played_at: "2026-11-14T12:00:00Z"
 play_count: 1
-duration_seconds: 300
+duration_seconds: 1140
 source: pocketcasts-history-browser
-played_label: 8 hours ago
-history_order: 1
+played_label: Yesterday
+history_order: 3
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
