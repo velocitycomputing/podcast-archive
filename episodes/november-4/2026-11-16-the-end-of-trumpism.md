@@ -2,20 +2,20 @@
 record_id: "podcast:70ce58e3-f79a-4edf-86fc-2cdfae867b16"
 episode_id: 70ce58e3-f79a-4edf-86fc-2cdfae867b16
 title: The End of Trumpism
-podcast_title: The Ezra Klein Show
-url: "https://pocketcasts.com/podcast/the-ezra-klein-show/8535a4e0-3c50-0139-3339-0acc26574db2/the-end-of-trumpism/70ce58e3-f79a-4edf-86fc-2cdfae867b16"
-audio_url: "https://pocketcasts.com/podcast/the-ezra-klein-show/8535a4e0-3c50-0139-3339-0acc26574db2/the-end-of-trumpism/70ce58e3-f79a-4edf-86fc-2cdfae867b16"
+podcast_title: November 4
+url: "https://pocketcasts.com/podcasts/8535a4e0-3c50-0139-3339-0acc26574db2/70ce58e3-f79a-4edf-86fc-2cdfae867b16"
+audio_url: "https://pocketcasts.com/podcasts/8535a4e0-3c50-0139-3339-0acc26574db2/70ce58e3-f79a-4edf-86fc-2cdfae867b16"
 feed_guid: null
 feed_url: null
 published_at: null
 published_local_date: null
-played_date: 2026-11-04
-played_at: "2026-11-04T12:00:00Z"
+played_date: 2026-11-16
+played_at: "2026-11-16T16:10:18Z"
 play_count: 1
-duration_seconds: 1320
+duration_seconds: null
 source: pocketcasts-history-browser
-played_label: November 4
-history_order: 17
+played_label: 22 mins
+history_order: 20
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

@@ -6,7 +6,7 @@ podcast_title: GZERO World with Ian Bremmer
 url: "https://pocketcasts.com/podcast/gzero-world-with-ian-bremmer/7fc5a370-8ff6-0135-9ced-5bb073f92b78/the-high-stakes-race-to-control-ai-with-ben-buchanan/317d1eef-f70c-48f7-9618-86cbdf4e0bb7"
 audio_url: "https://pocketcasts.com/podcast/gzero-world-with-ian-bremmer/7fc5a370-8ff6-0135-9ced-5bb073f92b78/the-high-stakes-race-to-control-ai-with-ben-buchanan/317d1eef-f70c-48f7-9618-86cbdf4e0bb7"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/ibBxsiVV"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-14
@@ -14,8 +14,8 @@ played_at: "2026-11-14T12:00:00Z"
 play_count: 1
 duration_seconds: 1740
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 4
+played_label: November 14
+history_order: 7
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
