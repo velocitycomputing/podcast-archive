@@ -6,16 +6,16 @@ podcast_title: TRIGGERnometry
 url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/will-trump-nuke-iran-brandon-tatum/e2a3c514-6871-42ab-b2ff-45a732074502"
 audio_url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/will-trump-nuke-iran-brandon-tatum/e2a3c514-6871-42ab-b2ff-45a732074502"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/AALT9618167458"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-14
 played_at: "2026-11-14T12:00:00Z"
 play_count: 1
-duration_seconds: 5400
+duration_seconds: 2640
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 1
+played_label: November 14
+history_order: 4
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

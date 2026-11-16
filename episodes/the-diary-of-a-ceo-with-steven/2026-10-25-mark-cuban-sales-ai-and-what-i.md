@@ -1,10 +1,10 @@
 ---
 record_id: "podcast:bdcbce6d-1ab9-4f21-8302-bc025887cf18"
 episode_id: bdcbce6d-1ab9-4f21-8302-bc025887cf18
-title: Are We Heading Into An AI Debt Bubble That Could Crash The Economy?
+title: "Mark Cuban: Sales, AI and What It Really Takes to Build a Business"
 podcast_title: The Diary Of A CEO with Steven Bartlett
-url: "https://pocketcasts.com/podcast/the-diary-of-a-ceo-with-steven-bartlett/25cff630-8e89-0135-9038-63f4b61a9224/are-we-heading-into-an-ai-debt-bubble-that-could-crash-the-economy/bdcbce6d-1ab9-4f21-8302-bc025887cf18"
-audio_url: "https://pocketcasts.com/podcast/the-diary-of-a-ceo-with-steven-bartlett/25cff630-8e89-0135-9038-63f4b61a9224/are-we-heading-into-an-ai-debt-bubble-that-could-crash-the-economy/bdcbce6d-1ab9-4f21-8302-bc025887cf18"
+url: "https://pocketcasts.com/podcast/the-diary-of-a-ceo-with-steven-bartlett/25cff630-8e89-0135-9038-63f4b61a9224/mark-cuban-sales-ai-and-what-it-really-takes-to-build-a-business/bdcbce6d-1ab9-4f21-8302-bc025887cf18"
+audio_url: "https://pocketcasts.com/podcast/the-diary-of-a-ceo-with-steven-bartlett/25cff630-8e89-0135-9038-63f4b61a9224/mark-cuban-sales-ai-and-what-it-really-takes-to-build-a-business/bdcbce6d-1ab9-4f21-8302-bc025887cf18"
 feed_guid: null
 feed_url: null
 published_at: null
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 5040
 source: pocketcasts-history-browser
 played_label: October 25
-history_order: 37
+history_order: 40
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
