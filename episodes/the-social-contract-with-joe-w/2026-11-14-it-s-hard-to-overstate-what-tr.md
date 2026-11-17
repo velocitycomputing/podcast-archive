@@ -6,7 +6,7 @@ podcast_title: The Social Contract with Joe Walsh
 url: "https://pocketcasts.com/podcast/the-social-contract-with-joe-walsh/50f47fd0-1356-013a-d595-0acc26574db2/its-hard-to-overstate-what-trump-just-did-to-mississippi/dbb1eefe-5910-44da-bf82-cac1fdffcb66"
 audio_url: "https://pocketcasts.com/podcast/the-social-contract-with-joe-walsh/50f47fd0-1356-013a-d595-0acc26574db2/its-hard-to-overstate-what-trump-just-did-to-mississippi/dbb1eefe-5910-44da-bf82-cac1fdffcb66"
 feed_guid: null
-feed_url: "https://feeds.acast.com/public/shows/66c247fb844d445153718f68"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-14
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 1620
 source: pocketcasts-history-browser
 played_label: November 14
-history_order: 2
+history_order: 3
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
