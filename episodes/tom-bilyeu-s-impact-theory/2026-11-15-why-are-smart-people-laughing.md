@@ -6,7 +6,7 @@ podcast_title: "Tom Bilyeu's Impact Theory"
 url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/why-are-smart-people-laughing-at-political-violence-ai-built-an-entire-operating-system-in-8-days-nvidias-worst-week-ever-weekly-recap/c62bf098-f979-47e1-b1a9-537506269566"
 audio_url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/why-are-smart-people-laughing-at-political-violence-ai-built-an-entire-operating-system-in-8-days-nvidias-worst-week-ever-weekly-recap/c62bf098-f979-47e1-b1a9-537506269566"
 feed_guid: null
-feed_url: "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-15
@@ -14,8 +14,8 @@ played_at: "2026-11-15T12:00:00Z"
 play_count: 1
 duration_seconds: 2340
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 3
+played_label: November 15
+history_order: 4
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
