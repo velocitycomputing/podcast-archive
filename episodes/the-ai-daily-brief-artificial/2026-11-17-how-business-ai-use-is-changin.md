@@ -6,7 +6,7 @@ podcast_title: "The AI Daily Brief: Artificial Intelligence News and Analysis"
 url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/how-business-ai-use-is-changing/765e3530-74c0-42be-9d19-189aac343561"
 audio_url: "https://pocketcasts.com/podcast/the-ai-daily-brief-artificial-intelligence-news-and-analysis/d41026a0-bb2a-013b-f3ee-0acc26574db2/how-business-ai-use-is-changing/765e3530-74c0-42be-9d19-189aac343561"
 feed_guid: null
-feed_url: "https://anchor.fm/s/f7cac464/podcast/rss"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-17
@@ -14,8 +14,8 @@ played_at: "2026-11-17T12:00:00Z"
 play_count: 1
 duration_seconds: 1440
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 4
+played_label: November 17
+history_order: 6
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

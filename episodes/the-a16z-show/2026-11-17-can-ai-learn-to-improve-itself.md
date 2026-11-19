@@ -6,7 +6,7 @@ podcast_title: The a16z Show
 url: "https://pocketcasts.com/podcast/the-a16z-show/20a7ca40-9128-0131-8b7f-723c91aeae46/can-ai-learn-to-improve-itself-recursive-self-improvement/4cde32ba-a7fa-428f-85a1-53e9102a3bfe"
 audio_url: "https://pocketcasts.com/podcast/the-a16z-show/20a7ca40-9128-0131-8b7f-723c91aeae46/can-ai-learn-to-improve-itself-recursive-self-improvement/4cde32ba-a7fa-428f-85a1-53e9102a3bfe"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/JGE3yC0V"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-17
@@ -14,8 +14,8 @@ played_at: "2026-11-17T12:00:00Z"
 play_count: 1
 duration_seconds: 600
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 1
+played_label: November 17
+history_order: 3
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

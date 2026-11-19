@@ -6,7 +6,7 @@ podcast_title: TRIGGERnometry
 url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/the-midterm-win-could-make-the-democrats-worse-sam-harris/81123ede-585b-4d33-a4e5-c7fa0a7fd3e4"
 audio_url: "https://pocketcasts.com/podcast/triggernometry/f2902cd0-2c84-0136-c266-7d73a919276a/the-midterm-win-could-make-the-democrats-worse-sam-harris/81123ede-585b-4d33-a4e5-c7fa0a7fd3e4"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/AALT9618167458"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-11
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 8040
 source: pocketcasts-history-browser
 played_label: November 11
-history_order: 3
+history_order: 5
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
