@@ -2,20 +2,20 @@
 record_id: "podcast:9e25c41a-f6fb-4777-af67-59ce92049a68"
 episode_id: 9e25c41a-f6fb-4777-af67-59ce92049a68
 title: How the Democrats Did It
-podcast_title: The Ezra Klein Show
-url: "https://pocketcasts.com/podcast/the-ezra-klein-show/8535a4e0-3c50-0139-3339-0acc26574db2/how-the-democrats-did-it/9e25c41a-f6fb-4777-af67-59ce92049a68"
-audio_url: "https://pocketcasts.com/podcast/the-ezra-klein-show/8535a4e0-3c50-0139-3339-0acc26574db2/how-the-democrats-did-it/9e25c41a-f6fb-4777-af67-59ce92049a68"
+podcast_title: November 7
+url: "https://pocketcasts.com/podcasts/8535a4e0-3c50-0139-3339-0acc26574db2/9e25c41a-f6fb-4777-af67-59ce92049a68"
+audio_url: "https://pocketcasts.com/podcasts/8535a4e0-3c50-0139-3339-0acc26574db2/9e25c41a-f6fb-4777-af67-59ce92049a68"
 feed_guid: null
 feed_url: null
 published_at: null
 published_local_date: null
-played_date: 2026-11-07
-played_at: "2026-11-07T12:00:00Z"
+played_date: 2026-11-19
+played_at: "2026-11-19T16:10:24Z"
 play_count: 1
-duration_seconds: 300
+duration_seconds: null
 source: pocketcasts-history-browser
-played_label: November 7
-history_order: 16
+played_label: 5 mins
+history_order: 18
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
