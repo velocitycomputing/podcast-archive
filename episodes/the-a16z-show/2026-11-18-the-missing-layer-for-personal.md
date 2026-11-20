@@ -6,7 +6,7 @@ podcast_title: The a16z Show
 url: "https://pocketcasts.com/podcast/the-a16z-show/20a7ca40-9128-0131-8b7f-723c91aeae46/the-missing-layer-for-personal-ai-first-person-labs-ken-liu/56ea49bd-05ce-442a-aad0-2f179cc02495"
 audio_url: "https://pocketcasts.com/podcast/the-a16z-show/20a7ca40-9128-0131-8b7f-723c91aeae46/the-missing-layer-for-personal-ai-first-person-labs-ken-liu/56ea49bd-05ce-442a-aad0-2f179cc02495"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/JGE3yC0V"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-18
@@ -14,8 +14,8 @@ played_at: "2026-11-18T12:00:00Z"
 play_count: 1
 duration_seconds: 1800
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 2
+played_label: November 18
+history_order: 4
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
