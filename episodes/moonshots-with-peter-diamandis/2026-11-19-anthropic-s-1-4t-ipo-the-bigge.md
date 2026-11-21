@@ -6,7 +6,7 @@ podcast_title: Moonshots with Peter Diamandis
 url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/anthropics-14t-ipo-the-biggest-wealth-event-in-human-history/fb423085-f1bc-4aa8-ac9e-539ee169e531"
 audio_url: "https://pocketcasts.com/podcast/moonshots-with-peter-diamandis/82a3e000-26f8-013b-ef5a-0acc26574db2/anthropics-14t-ipo-the-biggest-wealth-event-in-human-history/fb423085-f1bc-4aa8-ac9e-539ee169e531"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/DVVTS2890392624"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-19
@@ -14,7 +14,7 @@ played_at: "2026-11-19T12:00:00Z"
 play_count: 1
 duration_seconds: 24
 source: pocketcasts-history-browser
-played_label: Yesterday
+played_label: November 19
 history_order: 2
 played_at_precision: date-from-history-label
 progress_percent: null
