@@ -6,10 +6,10 @@ Total episodes: 373.
 
 | Played | Podcast | Title | Tags | Status |
 |---|---|---|---|---|
-| 2026-11-20 | November 4 | [The End of Trumpism](episodes/november-4/2026-11-20-the-end-of-trumpism.md) |  | new |
-| 2026-11-20 | November 7 | [How the Democrats Did It](episodes/november-7/2026-11-20-how-the-democrats-did-it.md) |  | new |
-| 2026-11-20 | October 16 | [Is There an A.I. Bubble? A Debate.](episodes/october-16/2026-11-20-is-there-an-a-i-bubble-a-debat.md) |  | new |
-| 2026-11-20 | October 30 | [#500 - The Playing Animal](episodes/october-30/2026-11-20-500-the-playing-animal.md) | primary-source-video, system:cognitive, intervention:lifestyle | new |
+| 2026-11-21 | November 4 | [The End of Trumpism](episodes/november-4/2026-11-21-the-end-of-trumpism.md) |  | new |
+| 2026-11-21 | November 7 | [How the Democrats Did It](episodes/november-7/2026-11-21-how-the-democrats-did-it.md) |  | new |
+| 2026-11-21 | October 16 | [Is There an A.I. Bubble? A Debate.](episodes/october-16/2026-11-21-is-there-an-a-i-bubble-a-debat.md) |  | new |
+| 2026-11-21 | October 30 | [#500 - The Playing Animal](episodes/october-30/2026-11-21-500-the-playing-animal.md) | primary-source-video, system:cognitive, intervention:lifestyle | new |
 | 2026-11-19 | Moonshots with Peter Diamandis | [Anthropic’s $1.4T IPO: The Biggest Wealth Event in Human Hi…](episodes/moonshots-with-peter-diamandis/2026-11-19-anthropic-s-1-4t-ipo-the-bigge.md) |  | new |
 | 2026-11-18 | October 27 | [Nate Silver Predicts a ‘Momentous’ Midterm](episodes/october-27/2026-11-18-nate-silver-predicts-a-momento.md) |  | new |
 | 2026-11-18 | The a16z Show | [The Missing Layer for Personal AI \| First Person Labs’ Ken …](episodes/the-a16z-show/2026-11-18-the-missing-layer-for-personal.md) | primary-source-video | new |
