@@ -6,13 +6,13 @@ podcast_title: Modern Wisdom
 url: "https://pocketcasts.com/podcast/modern-wisdom/98d691a0-f31c-0135-c25e-7d73a919276a/the-perfect-storm-reshaping-the-global-economy-steve-keen-1179/508c47db-d7f2-41b6-ad32-b2c307c1f898"
 audio_url: "https://pocketcasts.com/podcast/modern-wisdom/98d691a0-f31c-0135-c25e-7d73a919276a/the-perfect-storm-reshaping-the-global-economy-steve-keen-1179/508c47db-d7f2-41b6-ad32-b2c307c1f898"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/SIXMSB5088139739"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-20
 played_at: "2026-11-20T12:00:00Z"
 play_count: 1
-duration_seconds: 3300
+duration_seconds: 3060
 source: pocketcasts-history-browser
 played_label: November 20
 history_order: 1
