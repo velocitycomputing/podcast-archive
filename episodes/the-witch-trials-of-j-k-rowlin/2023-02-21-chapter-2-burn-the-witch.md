@@ -6,7 +6,7 @@ podcast_title: The Witch Trials of J.K. Rowling
 url: "https://pocketcasts.com/podcast/the-witch-trials-of-jk-rowling/73eb09a0-7f67-013e-bae4-0acc26574db2/chapter-2-burn-the-witch/a4b73caa-d5a2-423f-8d19-eeadc134b8dd"
 audio_url: "https://pocketcasts.com/podcast/the-witch-trials-of-jk-rowling/73eb09a0-7f67-013e-bae4-0acc26574db2/chapter-2-burn-the-witch/a4b73caa-d5a2-423f-8d19-eeadc134b8dd"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/RUNMED6843366201"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2023-02-21
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 3240
 source: pocketcasts-history-browser
 played_label: Feb 21, 2023
-history_order: 4
+history_order: 7
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

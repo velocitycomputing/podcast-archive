@@ -6,7 +6,7 @@ podcast_title: The Ezra Klein Show
 url: "https://pocketcasts.com/podcast/the-ezra-klein-show/8535a4e0-3c50-0139-3339-0acc26574db2/how-do-you-investigate-a-president-this-corrupt/6ad3fe90-316e-4a19-99da-887979291c1b"
 audio_url: "https://pocketcasts.com/podcast/the-ezra-klein-show/8535a4e0-3c50-0139-3339-0acc26574db2/how-do-you-investigate-a-president-this-corrupt/6ad3fe90-316e-4a19-99da-887979291c1b"
 feed_guid: null
-feed_url: "https://feeds.simplecast.com/kEKXbjuJ"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-20
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 180
 source: pocketcasts-history-browser
 played_label: November 20
-history_order: 7
+history_order: 10
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null

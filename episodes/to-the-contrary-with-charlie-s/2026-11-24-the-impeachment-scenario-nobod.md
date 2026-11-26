@@ -6,7 +6,7 @@ podcast_title: To The Contrary with Charlie Sykes
 url: "https://pocketcasts.com/podcast/to-the-contrary-with-charlie-sykes/ead2d080-c6be-013d-1ab9-0acc26574db2/the-impeachment-scenario-nobody-is-talking-about/08205997-116d-45bb-aed5-6486e1f395f7"
 audio_url: "https://pocketcasts.com/podcast/to-the-contrary-with-charlie-sykes/ead2d080-c6be-013d-1ab9-0acc26574db2/the-impeachment-scenario-nobody-is-talking-about/08205997-116d-45bb-aed5-6486e1f395f7"
 feed_guid: null
-feed_url: "https://feeds.acast.com/public/shows/67a407e5340a5590cd2953ad"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-24
@@ -14,8 +14,8 @@ played_at: "2026-11-24T12:00:00Z"
 play_count: 1
 duration_seconds: 2880
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 5
+played_label: November 24
+history_order: 8
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
