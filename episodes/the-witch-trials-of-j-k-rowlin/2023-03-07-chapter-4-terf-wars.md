@@ -6,7 +6,7 @@ podcast_title: The Witch Trials of J.K. Rowling
 url: "https://pocketcasts.com/podcast/the-witch-trials-of-jk-rowling/73eb09a0-7f67-013e-bae4-0acc26574db2/chapter-4-terf-wars/e206881c-32b3-409f-8eab-9eec891dc6aa"
 audio_url: "https://pocketcasts.com/podcast/the-witch-trials-of-jk-rowling/73eb09a0-7f67-013e-bae4-0acc26574db2/chapter-4-terf-wars/e206881c-32b3-409f-8eab-9eec891dc6aa"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/RUNMED6843366201"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2023-03-07
@@ -15,7 +15,7 @@ play_count: 1
 duration_seconds: 2640
 source: pocketcasts-history-browser
 played_label: Mar 7, 2023
-history_order: 1
+history_order: 4
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
