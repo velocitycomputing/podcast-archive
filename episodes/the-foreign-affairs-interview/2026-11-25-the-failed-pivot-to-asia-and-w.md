@@ -6,7 +6,7 @@ podcast_title: The Foreign Affairs Interview
 url: "https://pocketcasts.com/podcast/the-foreign-affairs-interview/e2f31bf0-b915-013a-d903-0acc26574db2/the-failed-pivot-to-asiaand-what-comes-next-a-conversation-with-mira-rapp-hooper-and-zack-cooper/cacc9acf-ba97-4943-9a6f-0ea21d79b65c"
 audio_url: "https://pocketcasts.com/podcast/the-foreign-affairs-interview/e2f31bf0-b915-013a-d903-0acc26574db2/the-failed-pivot-to-asiaand-what-comes-next-a-conversation-with-mira-rapp-hooper-and-zack-cooper/cacc9acf-ba97-4943-9a6f-0ea21d79b65c"
 feed_guid: null
-feed_url: "https://feed.podbean.com/foreignaffairsmagazine/feed.xml"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-25
@@ -14,8 +14,8 @@ played_at: "2026-11-25T12:00:00Z"
 play_count: 1
 duration_seconds: 2580
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 3
+played_label: November 25
+history_order: 4
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
