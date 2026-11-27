@@ -6,7 +6,7 @@ podcast_title: "Tom Bilyeu's Impact Theory"
 url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/inflation-comes-in-hot-hackers-hit-us-spy-agencies-the-army-blows-up-5-tons-of-lead-the-tom-bilyeu-show-live/a98817cf-1df9-410e-9f6a-4e91ad663b93"
 audio_url: "https://pocketcasts.com/podcast/tom-bilyeus-impact-theory/260af430-b4ea-0134-106e-25324e2a541d/inflation-comes-in-hot-hackers-hit-us-spy-agencies-the-army-blows-up-5-tons-of-lead-the-tom-bilyeu-show-live/a98817cf-1df9-410e-9f6a-4e91ad663b93"
 feed_guid: null
-feed_url: "https://rss.pdrl.fm/02d1c6/rss.art19.com/tom-bilyeus-impact-theory"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-25
@@ -14,8 +14,8 @@ played_at: "2026-11-25T12:00:00Z"
 play_count: 1
 duration_seconds: 6000
 source: pocketcasts-history-browser
-played_label: Yesterday
-history_order: 1
+played_label: November 25
+history_order: 2
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
