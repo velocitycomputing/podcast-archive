@@ -6,16 +6,16 @@ podcast_title: Modern Wisdom
 url: "https://pocketcasts.com/podcast/modern-wisdom/98d691a0-f31c-0135-c25e-7d73a919276a/qa-age-gaps-sexual-frustration-performance-anxiety-1181/48f50f6b-45fd-4447-8f38-bd12fef1a414"
 audio_url: "https://pocketcasts.com/podcast/modern-wisdom/98d691a0-f31c-0135-c25e-7d73a919276a/qa-age-gaps-sexual-frustration-performance-anxiety-1181/48f50f6b-45fd-4447-8f38-bd12fef1a414"
 feed_guid: null
-feed_url: "https://feeds.megaphone.fm/SIXMSB5088139739"
+feed_url: null
 published_at: null
 published_local_date: null
 played_date: 2026-11-25
 played_at: "2026-11-25T12:00:00Z"
 play_count: 1
-duration_seconds: 3720
+duration_seconds: 3360
 source: pocketcasts-history-browser
 played_label: November 25
-history_order: 1
+history_order: 2
 played_at_precision: date-from-history-label
 progress_percent: null
 listened_seconds: null
